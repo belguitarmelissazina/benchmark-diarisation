@@ -1,0 +1,33 @@
+{
+  "pipeline_name": "diar_pipeline__resnet34__gmm_bic__sc__enhanced__w1.2__h0.6__auto_1-20",
+  "file_id": "dicte_audio_1",
+  "input_file": "dicte_audio_1.m4a",
+  "audio_duration": 3830.6346875,
+  "params": {
+    "embed": "resnet34",
+    "estimate": "gmm_bic",
+    "cluster": "sc",
+    "enhance": true,
+    "win_len": 1.2,
+    "hop_len": 0.6,
+    "refine_vbx": false,
+    "vbx_Fa": 0.4,
+    "vbx_Fb": 17.0,
+    "num_speakers": null,
+    "min_speakers": 1,
+    "max_speakers": 20
+  },
+  "timings": {
+    "time_conversion": 3.6176216999301687,
+    "time_vad": 36.68559030001052,
+    "time_embeddings": 342.2690618999768,
+    "time_similarity": 3.291041799937375,
+    "time_clustering": 27.770168700022623
+  },
+  "results": {
+    "num_speakers": 5,
+    "num_segments": 1081,
+    "total_time": 467.2345976999495,
+    "rtf": 0.12197315479458638
+  }
+}

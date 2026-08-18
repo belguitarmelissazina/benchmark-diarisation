@@ -1,0 +1,36 @@
+{
+  "pipeline_name": "diar_pipeline__silero__campplus__gmm_bic__sc__enhanced__w1.2__h0.6__auto_1-20",
+  "file_id": "IS1009a",
+  "input_file": "benchmarks\\ami\\IS1009a.wav",
+  "audio_duration": 838.8333125,
+  "params": {
+    "embed": "campplus",
+    "estimate": "gmm_bic",
+    "cluster": "sc",
+    "enhance": true,
+    "win_len": 1.2,
+    "hop_len": 0.6,
+    "refine_vbx": false,
+    "vbx_Fa": 0.4,
+    "vbx_Fb": 17.0,
+    "num_speakers": null,
+    "min_speakers": 1,
+    "max_speakers": 20
+  },
+  "timings": {
+    "time_conversion": 0.25803339993581176,
+    "time_vad": 27.50332260003779,
+    "time_embeddings": 56.78621460008435,
+    "time_similarity": 0.159103799960576,
+    "time_clustering": 0.017336499993689358
+  },
+  "results": {
+    "num_speakers": 1,
+    "num_segments": 54,
+    "transcribed": false,
+    "num_words": 0,
+    "num_turns": 0,
+    "total_time": 124.20525110000744,
+    "rtf": 0.14806904929637907
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "pipeline_name": "diar_pipeline__silero__resnet34__nmesc__sc__enhanced__w1.2__h0.6__auto_1-20",
+  "file_id": "036c_EAPH",
+  "input_file": "benchmarks\\summre\\036c_EAPH\\036c_EAPH.wav",
+  "audio_duration": 1607.749625,
+  "params": {
+    "embed": "resnet34",
+    "estimate": "nmesc",
+    "cluster": "sc",
+    "enhance": true,
+    "win_len": 1.2,
+    "hop_len": 0.6,
+    "refine_vbx": false,
+    "vbx_Fa": 0.05,
+    "vbx_Fb": 5.0,
+    "num_speakers": null,
+    "min_speakers": 1,
+    "max_speakers": 20
+  },
+  "timings": {
+    "time_conversion": 0.337601900100708,
+    "time_vad": 27.145195599994622,
+    "time_embeddings": 230.44463200005703,
+    "time_similarity": 0.5225757999578491,
+    "time_clustering": 26.29561090003699
+  },
+  "results": {
+    "num_speakers": 3,
+    "num_segments": 301,
+    "transcribed": false,
+    "num_words": 0,
+    "num_turns": 0,
+    "total_time": 318.2497007000493,
+    "rtf": 0.1979473020869461
+  }
+}

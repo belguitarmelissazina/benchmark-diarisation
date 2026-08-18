@@ -1,0 +1,169 @@
+[
+  {
+    "titre": "Définition de la feuille de route Smart Cockpit",
+    "resume": "Le groupe discute autour du besoin d'IA générative, avec les participants principalement Mathieu (DataIa manager), Maya (consultante en IA génératifs), Bruno (RD sur le Smart Cockpit), Jérôme Picot (grillerier à la RD), et Dinka. Ils se concentrent sur l'IA générative pour les assistants opérateurs, avec une échelle de maturité depuis 10 ans.",
+    "decisions": [],
+    "actions": [],
+    "_raw": "{\n  \"titre\": \"Définition de la feuille de route Smart Cockpit\",\n  \"resume\": \"Le groupe discute autour du besoin d'IA générative, avec les participants principalement Mathieu (DataIa manager), Maya (consultante en IA génératifs), Bruno (RD sur le Smart Cockpit), Jérôme Picot (grillerier à la RD), et Dinka. Ils se concentrent sur l'IA générative pour les assistants opérateurs, avec une échelle de maturité depuis 10 ans.\",\n  \"decisions\": [],\n  \"actions\": []\n}",
+    "_chunk_id": 0,
+    "_start_time": 0.0,
+    "_end_time": 38.0
+  },
+  {
+    "titre": "Discussion des briques de calcul et études",
+    "resume": "Le speaker 02 a évoqué le besoin d'explorer différentes briques de calcul, d'études et réseaux. Il a mentionné que Mike avait l'occasion de travailler sur ces sujets et qu'il connaissait bien les aspects à explorer. Le speaker 01 a proposé de présenter ses projets.",
+    "decisions": [],
+    "actions": [
+      {
+        "action": "Présentation des projets par le speaker 01",
+        "responsable": "Speaker 01",
+        "echeance": "A définir"
+      }
+    ],
+    "_raw": "{\n  \"titre\": \"Discussion des briques de calcul et études\",\n  \"resume\": \"Le speaker 02 a évoqué le besoin d'explorer différentes briques de calcul, d'études et réseaux. Il a mentionné que Mike avait l'occasion de travailler sur ces sujets et qu'il connaissait bien les aspects à explorer. Le speaker 01 a proposé de présenter ses projets.\",\n  \"decisions\": [],\n  \"actions\": [\n    {\"action\": \"Présentation des projets par le speaker 01\", \"responsable\": \"Speaker 01\", \"echeance\": \"A définir\"}\n  ]\n}",
+    "_chunk_id": 1,
+    "_start_time": 38.0,
+    "_end_time": 45.0
+  },
+  {
+    "titre": "Présentation des compétences et projets IHM",
+    "resume": "SPEAKER_01 a présenté ses compétences en matière d'industrielsisation de contenus complexes, notamment la transformation en multimodalité pour faciliter la prise de décision. Il a également mentionné son travail sur l'industrialisation des modèles hébergés localement et leur fine-tuning, ainsi que l'utilisation de méthodes comme QNTubinefiel et le rag (ranking). Il a également évoqué ses expériences en matière d'orchestration et de déploiement de modèles.",
+    "decisions": [],
+    "actions": [],
+    "_raw": "{\n  \"titre\": \"Présentation des compétences et projets IHM\",\n  \"resume\": \"SPEAKER_01 a présenté ses compétences en matière d'industrielsisation de contenus complexes, notamment la transformation en multimodalité pour faciliter la prise de décision. Il a également mentionné son travail sur l'industrialisation des modèles hébergés localement et leur fine-tuning, ainsi que l'utilisation de méthodes comme QNTubinefiel et le rag (ranking). Il a également évoqué ses expériences en matière d'orchestration et de déploiement de modèles.\",\n  \"decisions\": [],\n  \"actions\": []\n}",
+    "_chunk_id": 2,
+    "_start_time": 45.0,
+    "_end_time": 60.0
+  },
+  {
+    "titre": "Automatisation du rapport sur les études EOD rentabilité",
+    "resume": "SPEAKER_01 propose d'automatiser le processus de création et rédaction des rapports basés sur les études EOD rentabilité, développées par l'équipe équilibreoffre. Il présente une chaîne de traitement automatisée qui permet d'accélérer la production du rapport sans compromettre sa rigueur. Le processus comprend plusieurs briques : traitements des fichiers PPT et création d'artefacts, assignement des sections, etc.",
+    "decisions": [
+      "Automatisation de la chaîne de traitement pour accélérer la production du rapport",
+      "Définition d'une structure préétablie pour le rapport"
+    ],
+    "actions": [
+      {
+        "action": "Étudier et développer une chaîne de traitement automatisée",
+        "responsable": "SPEAKER_01",
+        "echeance": "Non spécifiée"
+      },
+      {
+        "action": "Définir la structure préétablie du rapport",
+        "responsable": "SPEAKER_01",
+        "echeance": "Non spécifiée"
+      }
+    ],
+    "_raw": "{\n  \"titre\": \"Automatisation du rapport sur les études EOD rentabilité\",\n  \"resume\": \"SPEAKER_01 propose d'automatiser le processus de création et rédaction des rapports basés sur les études EOD rentabilité, développées par l'équipe équilibreoffre. Il présente une chaîne de traitement automatisée qui permet d'accélérer la production du rapport sans compromettre sa rigueur. Le processus comprend plusieurs briques : traitements des fichiers PPT et création d'artefacts, assignement des sections, etc.\",\n  \"decisions\": [\"Automatisation de la chaîne de traitement pour accélérer la production du rapport\", \"Définition d'une structure préétablie pour le rapport\"],\n  \"actions\": [\n    {\"action\": \"Étudier et développer une chaîne de traitement automatisée\", \"responsable\": \"SPEAKER_01\", \"echeance\": \"Non spécifiée\"},\n    {\"action\": \"Définir la structure préétablie du rapport\", \"responsable\": \"SPEAKER_01\", \"echeance\": \"Non spécifiée\"}\n  ]\n}",
+    "_chunk_id": 3,
+    "_start_time": 60.0,
+    "_end_time": 97.0
+  },
+  {
+    "titre": "Analyse du coût et structure des rapports",
+    "resume": "La discussion a porté sur le coût d'un projet, la description des hypothèses et règles d'assignement, ainsi que les différentes parties de la sélection et catégorisation des slides. Le groupe a également abordé l'interface utilisateur, la génération de rapports par IA, l'assignation des sections, la rédaction section par section, l'intégration des sections, et la correction du rapport.",
+    "decisions": [
+      "Aucune décision prise"
+    ],
+    "actions": [
+      {
+        "action": "Développer un prototype d’interface utilisateur simple pour démontrer la capacité de l'IA à générer des rapports",
+        "responsable": "SPEAKER_00",
+        "echeance": "Vingt-cinq jours incluant les ateliers"
+      },
+      {
+        "action": "Rédiger une section par section et rédiger uniquement au niveau des bulles points",
+        "responsable": "SPEAKER_01",
+        "echeance": "Aucune échéance mentionnée"
+      },
+      {
+        "action": "Intégrer toutes les sections entre elles après la rédaction",
+        "responsable": "SPEAKER_01",
+        "echeance": "Aucune échéance mentionnée"
+      },
+      {
+        "action": "Corriger le rapport en utilisant un agent qui prend en compte les commentaires sur les bulles points",
+        "responsable": "SPEAKER_01",
+        "echeance": "Aucune échéance mentionnée"
+      }
+    ],
+    "_raw": "{\n  \"titre\": \"Analyse du coût et structure des rapports\",\n  \"resume\": \"La discussion a porté sur le coût d'un projet, la description des hypothèses et règles d'assignement, ainsi que les différentes parties de la sélection et catégorisation des slides. Le groupe a également abordé l'interface utilisateur, la génération de rapports par IA, l'assignation des sections, la rédaction section par section, l'intégration des sections, et la correction du rapport.\",\n  \"decisions\": [\"Aucune décision prise\"],\n  \"actions\": [{\"action\": \"Développer un prototype d’interface utilisateur simple pour démontrer la capacité de l'IA à générer des rapports\", \"responsable\": \"SPEAKER_00\", \"echeance\": \"Vingt-cinq jours incluant les ateliers\"}, {\"action\": \"Rédiger une section par section et rédiger uniquement au niveau des bulles points\", \"responsable\": \"SPEAKER_01\", \"echeance\": \"Aucune échéance mentionnée\"}, {\"action\": \"Intégrer toutes les sections entre elles après la rédaction\", \"responsable\": \"SPEAKER_01\", \"echeance\": \"Aucune échéance mentionnée\"}, {\"action\": \"Corriger le rapport en utilisant un agent qui prend en compte les commentaires sur les bulles points\", \"responsable\": \"SPEAKER_01\", \"echeance\": \"Aucune échéance mentionnée\"}]\n}",
+    "_chunk_id": 4,
+    "_start_time": 97.0,
+    "_end_time": 128.0
+  },
+  {
+    "titre": "Discussion sur l'automatisation de la rédaction et robustesse des outils",
+    "resume": "Le groupe discute de l'automatisation d'un outil pour la rédaction. L'hypothèse est que plusieurs templates peuvent fonctionner, avec un agent capable d'orienter les chapitres, la signation et le contenu. La robustesse est discutée en termes de gestion des erreurs et traçabilité. Les participants mentionnent également des limites non implémentées pour cette première itération.",
+    "decisions": [],
+    "actions": [],
+    "_raw": "{\n  \"titre\": \"Discussion sur l'automatisation de la rédaction et robustesse des outils\",\n  \"resume\": \"Le groupe discute de l'automatisation d'un outil pour la rédaction. L'hypothèse est que plusieurs templates peuvent fonctionner, avec un agent capable d'orienter les chapitres, la signation et le contenu. La robustesse est discutée en termes de gestion des erreurs et traçabilité. Les participants mentionnent également des limites non implémentées pour cette première itération.\",\n  \"decisions\": [],\n  \"actions\": []\n}",
+    "_chunk_id": 5,
+    "_start_time": 128.0,
+    "_end_time": 153.0
+  },
+  {
+    "titre": "Synthèse et orchestration de réunions",
+    "resume": "La discussion concerne la synthèse d'événements et données, ainsi que l'orchestration de plusieurs outils pour augmenter les consultants et automatiser la génération de synthèses. Les participants discutent également des projets en cours sur le développement d'outils d'orchestration (N8) et de génération de résumés de réunions.",
+    "decisions": [],
+    "actions": [],
+    "_raw": "{\n  \"titre\": \"Synthèse et orchestration de réunions\",\n  \"resume\": \"La discussion concerne la synthèse d'événements et données, ainsi que l'orchestration de plusieurs outils pour augmenter les consultants et automatiser la génération de synthèses. Les participants discutent également des projets en cours sur le développement d'outils d'orchestration (N8) et de génération de résumés de réunions.\",\n  \"decisions\": [],\n  \"actions\": []\n}",
+    "_chunk_id": 6,
+    "_start_time": 153.0,
+    "_end_time": 175.0
+  },
+  {
+    "titre": "Discussion sur les outils et projets",
+    "resume": "Le débat a porté sur la synthèse des propositions, la souveraineté liée aux outils, le projet de planification Pok et l'orchestration. Les participants ont également abordé la création d'un agent qui peut accéder à plusieurs outils pour la bibliographie et la simulation.",
+    "decisions": [],
+    "actions": [],
+    "_raw": "{\n  \"titre\": \"Discussion sur les outils et projets\",\n  \"resume\": \"Le débat a porté sur la synthèse des propositions, la souveraineté liée aux outils, le projet de planification Pok et l'orchestration. Les participants ont également abordé la création d'un agent qui peut accéder à plusieurs outils pour la bibliographie et la simulation.\",\n  \"decisions\": [],\n  \"actions\": []\n}",
+    "_chunk_id": 7,
+    "_start_time": 175.0,
+    "_end_time": 185.0
+  },
+  {
+    "titre": "Analyse de projets",
+    "resume": "La réunion a principalement abordé les projets en cours, avec une discussion sur le projet de génération de modèles pré-étalés par l'un des participants (SPEAKER_01). Il a également mentionné un projet lié à la détection de froide et au fichiering de documents manuscrits.",
+    "decisions": [],
+    "actions": [],
+    "_raw": "{\n  \"titre\": \"Analyse de projets\",\n  \"resume\": \"La réunion a principalement abordé les projets en cours, avec une discussion sur le projet de génération de modèles pré-étalés par l'un des participants (SPEAKER_01). Il a également mentionné un projet lié à la détection de froide et au fichiering de documents manuscrits.\",\n  \"decisions\": [],\n  \"actions\": []\n}",
+    "_chunk_id": 8,
+    "_start_time": 185.0,
+    "_end_time": 205.0
+  },
+  {
+    "titre": "Discussion sur les cas d'usage, MCP et orchestrage",
+    "resume": "La réunion aborde la nécessité des cas d'usage pour le développement de rapports et synthèses, ainsi que l'intérêt du travail en NLP. Les participants discutent également des serveurs MCP et des simulations, soulignant les connexions entre ces domaines.",
+    "decisions": [],
+    "actions": [],
+    "_raw": "{\n  \"titre\": \"Discussion sur les cas d'usage, MCP et orchestrage\",\n  \"resume\": \"La réunion aborde la nécessité des cas d'usage pour le développement de rapports et synthèses, ainsi que l'intérêt du travail en NLP. Les participants discutent également des serveurs MCP et des simulations, soulignant les connexions entre ces domaines.\",\n  \"decisions\": [],\n  \"actions\": []\n}",
+    "_chunk_id": 9,
+    "_start_time": 205.0,
+    "_end_time": 235.0
+  },
+  {
+    "titre": "Discussion sur le cas d'usage MCP et avancées des travaux",
+    "resume": "Le SPEAKER_02 propose une réflexion sur un cas d'usage MCP, soulignant la nécessité de clarifier les besoins. Il mentionne également qu'ils ont déjà des actions prévues pour explorer cette question. Le SPEAKER_00 suggère d'avancer vers le design et d'organiser un atelier design. Les participants approuvent ces suggestions.",
+    "decisions": [
+      "Clarifier les besoins sur le cas d'usage MCP",
+      "Organiser un atelier design"
+    ],
+    "actions": [
+      {
+        "action": "Clarifier les besoins sur le cas d'usage MCP",
+        "responsable": "SPEAKER_02",
+        "echeance": "À définir"
+      },
+      {
+        "action": "Organiser un atelier design",
+        "responsable": "SPEAKER_00",
+        "echeance": "À définir"
+      }
+    ],
+    "_raw": "{\n  \"titre\": \"Discussion sur le cas d'usage MCP et avancées des travaux\",\n  \"resume\": \"Le SPEAKER_02 propose une réflexion sur un cas d'usage MCP, soulignant la nécessité de clarifier les besoins. Il mentionne également qu'ils ont déjà des actions prévues pour explorer cette question. Le SPEAKER_00 suggère d'avancer vers le design et d'organiser un atelier design. Les participants approuvent ces suggestions.\",\n  \"decisions\": [\"Clarifier les besoins sur le cas d'usage MCP\", \"Organiser un atelier design\"],\n  \"actions\": [{\"action\": \"Clarifier les besoins sur le cas d'usage MCP\", \"responsable\": \"SPEAKER_02\", \"echeance\": \"À définir\"}, {\"action\": \"Organiser un atelier design\", \"responsable\": \"SPEAKER_00\", \"echeance\": \"À définir\"}]\n}",
+    "_chunk_id": 10,
+    "_start_time": 235.0,
+    "_end_time": 266.0
+  }
+]

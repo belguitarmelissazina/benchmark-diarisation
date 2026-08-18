@@ -1,0 +1,177 @@
+[
+  {
+    "titre": "Tour de table sur les besoins en IA générative et échanges collaboratifs entre participants",
+    "resume": "Lors d’un tour de table initié par **Nordine**, expert DataIa Manager chez Élé Consulting, plusieurs participants se sont présentés : **Mathieu**, **Maya** (consultante confirmée chez IVB spécialisée en IA générative), et **Bruno Mélière** (RD pilote la feuille de route Smart Cockpit) ainsi que **Jérôme Picot** (intelligence artificielle et innovation). Les échanges ont porté sur les besoins spécifiques en matière d’IA générative, notamment autour des assistants pour opérateurs dans le domaine de la conduite ou du soin. **Jérôme** a évoqué l’intérêt de leur société pour des interfaces conversationnelles basées sur des modèles comme le MCP (Machine Conversation Platform), visant à améliorer l’interaction fluide avec les outils.",
+    "decisions": [],
+    "actions": [],
+    "_raw": "{\n  \"titre\": \"Tour de table sur les besoins en IA générative et échanges collaboratifs entre participants\",\n\n  \"resume\":\n  \"Lors d’un tour de table initié par **Nordine**, expert DataIa Manager chez Élé Consulting, plusieurs participants se sont présentés : **Mathieu**, **Maya** (consultante confirmée chez IVB spécialisée en IA générative), et **Bruno Mélière** (RD pilote la feuille de route Smart Cockpit) ainsi que **Jérôme Picot** (intelligence artificielle et innovation). Les échanges ont porté sur les besoins spécifiques en matière d’IA générative, notamment autour des assistants pour opérateurs dans le domaine de la conduite ou du soin. **Jérôme** a évoqué l’intérêt de leur société pour des interfaces conversationnelles basées sur des modèles comme le MCP (Machine Conversation Platform), visant à améliorer l’interaction fluide avec les outils.\"\n\n  ,\n  \"decisions\": [],\n  \"actions\": []\n}",
+    "_chunk_id": 0,
+    "_start_time": 0.0,
+    "_end_time": 38.0
+  },
+  {
+    "titre": "Prise de contact et exploration des besoins pour une future mission",
+    "resume": "Dans cet extrait, **SPEAKER_02** propose d’explorer des éléments comme les calculs, études ou réseaux en tant que briques potentielles pour une future mission. Il souligne qu’aucune mission claire n’a été définie à ce stade et suggère de faire connaissance avec **Dandine**, qui aurait déjà travaillé sur ces sujets. **SPEAKER_01** propose ensuite de présenter les projets sur lesquels il a travaillé, sans préciser de détails supplémentaires dans cet extrait.",
+    "decisions": [],
+    "actions": [],
+    "_raw": "{\n  \"titre\": \"Prise de contact et exploration des besoins pour une future mission\",\n\n  \"resume\":\n  \"Dans cet extrait, **SPEAKER_02** propose d’explorer des éléments comme les calculs, études ou réseaux en tant que briques potentielles pour une future mission. Il souligne qu’aucune mission claire n’a été définie à ce stade et suggère de faire connaissance avec **Dandine**, qui aurait déjà travaillé sur ces sujets. **SPEAKER_01** propose ensuite de présenter les projets sur lesquels il a travaillé, sans préciser de détails supplémentaires dans cet extrait.\"\n\n  ,\n  \"decisions\": [],\n  \"actions\": []\n}",
+    "_chunk_id": 1,
+    "_start_time": 38.0,
+    "_end_time": 45.0
+  },
+  {
+    "titre": "Présentation des compétences en IA générative et projets chez Ely",
+    "resume": "SPÉAKER_01 présente les projets de transformation de contenus complexes (documents hétérogènes) en multimodaux actionnables, notamment pour faciliter la prise de décision ou créer des synthèses. Il évoque son approche globale adoptée depuis son arrivée chez Yaley : industrialisation, monitoring et fine-tuning de modèles génératifs locaux (ex. QNTubine). Il détaille aussi les outils utilisés comme Mistral, VLHRM, Vicorne et Streamlit pour le déploiement, ainsi que des techniques comme RAG (Retrieval-Augmented Generation), vectorisation et orchestration. Le focus porte sur des projets variés allant de l’IAE à des missions précédentes.",
+    "decisions": [],
+    "actions": [],
+    "_raw": "{\n  \"titre\": \"Présentation des compétences en IA générative et projets chez Ely\",\n\n  \"resume\":\n  \"SPÉAKER_01 présente les projets de transformation de contenus complexes (documents hétérogènes) en multimodaux actionnables, notamment pour faciliter la prise de décision ou créer des synthèses. Il évoque son approche globale adoptée depuis son arrivée chez Yaley : industrialisation, monitoring et fine-tuning de modèles génératifs locaux (ex. QNTubine). Il détaille aussi les outils utilisés comme Mistral, VLHRM, Vicorne et Streamlit pour le déploiement, ainsi que des techniques comme RAG (Retrieval-Augmented Generation), vectorisation et orchestration. Le focus porte sur des projets variés allant de l’IAE à des missions précédentes.\",\n\n  \"decisions\": [],\n\n  \"actions\": []\n}",
+    "_chunk_id": 2,
+    "_start_time": 45.0,
+    "_end_time": 60.0
+  },
+  {
+    "titre": "Automatisation de la rédaction des rapports d'études EOD – Pipeline et structure des sections",
+    "resume": "Le projet consiste en l’automatisation de la création de rapports complets à partir des fichiers PPT générés par l’équipe équilibreoffre et demande. **deRTE** explique que ces fichiers contiennent principalement des graphiques avec peu de texte, nécessitant une analyse fine pour les classer dans des sections prédéfinies (ex : hypothèses, comparaisons France/Europe). L’objectif est d’accélérer la production tout en garantissant la rigueur et l’ancrage des affirmations générées dans le rapport. **PPDT** souligne la nécessité de préciser davantage la structure des sections pour améliorer les règles d’assignation des slides aux parties du document. Les descriptions détaillées des sections (ex : hypothèses, comparaisons géographiques) ont déjà été établies pour guider l’agent chargé de cette étape.",
+    "decisions": [],
+    "actions": [
+      {
+        "action": "Établir et affiner les règles d’assignation des slides aux sections du rapport en fonction des descriptions préétablies (ex : exclusion des données non pertinentes pour l’introduction ou la section hypothèses de coût)",
+        "responsable": "PPDT",
+        "echeance": "non spécifiée"
+      },
+      {
+        "action": "Utiliser les fichiers PPT comme entrée principale pour générer une chaîne de traitement automatisée (OCR + analyse graphique + classification des slides par section) via un pipeline en cinq étapes avec versionning des artefacts intermédiaires",
+        "responsable": "deRTE",
+        "echeance": "non spécifiée"
+      },
+      {
+        "action": "Tester l’option d’ajouter une transcription vocale (format TXT) issue de l’enregistrement d’un modèle comme Spitch pour enrichir le contexte des slides non textuelles",
+        "responsable": "deRTE",
+        "echeance": "non spécifiée"
+      }
+    ],
+    "_raw": "{\n  \"titre\": \"Automatisation de la rédaction des rapports d'études EOD – Pipeline et structure des sections\",\n\n  \"resume\":\n  \"Le projet consiste en l’automatisation de la création de rapports complets à partir des fichiers PPT générés par l’équipe équilibreoffre et demande. **deRTE** explique que ces fichiers contiennent principalement des graphiques avec peu de texte, nécessitant une analyse fine pour les classer dans des sections prédéfinies (ex : hypothèses, comparaisons France/Europe). L’objectif est d’accélérer la production tout en garantissant la rigueur et l’ancrage des affirmations générées dans le rapport. **PPDT** souligne la nécessité de préciser davantage la structure des sections pour améliorer les règles d’assignation des slides aux parties du document. Les descriptions détaillées des sections (ex : hypothèses, comparaisons géographiques) ont déjà été établies pour guider l’agent chargé de cette étape.\"\n\n  ,\n  \"decisions\": [],\n  \"actions\": [\n    {\n      \"action\": \"Établir et affiner les règles d’assignation des slides aux sections du rapport en fonction des descriptions préétablies (ex : exclusion des données non pertinentes pour l’introduction ou la section hypothèses de coût)\",\n      \"responsable\": \"PPDT\",\n      \"echeance\": \"non spécifiée\"\n    },\n    {\n      \"action\": \"Utiliser les fichiers PPT comme entrée principale pour générer une chaîne de traitement automatisée (OCR + analyse graphique + classification des slides par section) via un pipeline en cinq étapes avec versionning des artefacts intermédiaires\",\n      \"responsable\": \"deRTE\",\n      \"echeance\": \"non spécifiée\"\n    },\n    {\n      \"action\": \"Tester l’option d’ajouter une transcription vocale (format TXT) issue de l’enregistrement d’un modèle comme Spitch pour enrichir le contexte des slides non textuelles\",\n      \"responsable\": \"deRTE\",\n      \"echeance\": \"non spécifiée\"\n    }\n  ]\n}",
+    "_chunk_id": 3,
+    "_start_time": 60.0,
+    "_end_time": 97.0
+  },
+  {
+    "titre": "Validation du POG (Prototype d'Outil de Génération) pour la catégorisation et l’assignation des slides dans les rapports",
+    "resume": "Basile et Gérald discutent des hypothèses et règles d’assignation définies pour structurer les chapitres des rapports en utilisant deux templates : un pour le contenu des chapitres et un autre pour les catégories à signer. Le POG, réalisé en 25 jours (incluant ateliers), a démontré la valeur de l’IA dans la génération de rapports simples via un prototype fonctionnel. Basile précise que ce POG est utilisé actuellement pour rédiger le rapport humainement, avec une boucle de correction itérative basée sur des commentaires et des artefacts comme les bullet points. Il souligne aussi la nécessité d’une vue globale sur toutes les slides pour éviter les erreurs d’assignation dans les sections. Gérald aborde ensuite la possibilité d’adapter l’outil à des cas sans template initial, en intégrant une logique de sélection manuelle de templates par un agent.",
+    "decisions": [],
+    "actions": [
+      {
+        "action": "évaluer avec Gérald si des suites sont nécessaires pour généraliser cette approche de génération de rapports",
+        "responsable": "Gérald",
+        "echeance": "non spécifiée"
+      },
+      {
+        "action": "Basile propose d’explorer l’adaptation du POG pour gérer plusieurs présentations sans template initial, en intégrant une logique de sélection manuelle des templates par un agent",
+        "responsable": "Basile (à discuter avec les équipes concernées)",
+        "echeance": "non spécifiée"
+      }
+    ],
+    "_raw": "{\n  \"titre\": \"Validation du POG (Prototype d'Outil de Génération) pour la catégorisation et l’assignation des slides dans les rapports\",\n\n  \"resume\":\n  \"Basile et Gérald discutent des hypothèses et règles d’assignation définies pour structurer les chapitres des rapports en utilisant deux templates : un pour le contenu des chapitres et un autre pour les catégories à signer. Le POG, réalisé en 25 jours (incluant ateliers), a démontré la valeur de l’IA dans la génération de rapports simples via un prototype fonctionnel. Basile précise que ce POG est utilisé actuellement pour rédiger le rapport humainement, avec une boucle de correction itérative basée sur des commentaires et des artefacts comme les bullet points. Il souligne aussi la nécessité d’une vue globale sur toutes les slides pour éviter les erreurs d’assignation dans les sections. Gérald aborde ensuite la possibilité d’adapter l’outil à des cas sans template initial, en intégrant une logique de sélection manuelle de templates par un agent.\"\n\n  ,\n  \"decisions\": [],\n  \"actions\": [\n    {\n      \"action\": \"évaluer avec Gérald si des suites sont nécessaires pour généraliser cette approche de génération de rapports\",\n      \"responsable\": \"Gérald\",\n      \"echeance\": \"non spécifiée\"\n    },\n    {\n      \"action\": \"Basile propose d’explorer l’adaptation du POG pour gérer plusieurs présentations sans template initial, en intégrant une logique de sélection manuelle des templates par un agent\",\n      \"responsable\": \"Basile (à discuter avec les équipes concernées)\",\n      \"echeance\": \"non spécifiée\"\n    }\n  ]\n}",
+    "_chunk_id": 4,
+    "_start_time": 97.0,
+    "_end_time": 128.0
+  },
+  {
+    "titre": "Analyse des approches techniques pour l'automatisation de la rédaction de rapports avec garde-fous robustes",
+    "resume": "Lors de cette discussion, **SPEAKER_00** et **SPEAKER_01** expliquent les principes sous-jacents à un outil d’automatisation de rédaction de rapports. Ils soulignent que l’outil peut fonctionner avec plusieurs templates distincts pour générer des sorties variées, en adaptant la sélection des chapitres ou le contenu via une approche orientée agent. **SPEAKER_01** insiste sur les aspects robustesse et traçabilité : séparation de la rédaction par sections, gestion des erreurs, artefacts intermédiaires (comme les commentaires par section), et validation humaine itérative pour corriger les hallucinations. Bien que certaines fonctionnalités comme une vérification chiffrée ou une reconstruction graphique ne soient pas dans le scope initial, ces éléments sont mentionnés comme potentiellement futurs. **SPEAKER_02** confirme la durée du projet (entre septembre et janvier 2025) sans autre précision sur les projets ultérieurs présentés ensuite.",
+    "decisions": [],
+    "actions": [],
+    "_raw": "{\n  \"titre\": \"Analyse des approches techniques pour l'automatisation de la rédaction de rapports avec garde-fous robustes\",\n\n  \"resume\":\n  \"Lors de cette discussion, **SPEAKER_00** et **SPEAKER_01** expliquent les principes sous-jacents à un outil d’automatisation de rédaction de rapports. Ils soulignent que l’outil peut fonctionner avec plusieurs templates distincts pour générer des sorties variées, en adaptant la sélection des chapitres ou le contenu via une approche orientée agent. **SPEAKER_01** insiste sur les aspects robustesse et traçabilité : séparation de la rédaction par sections, gestion des erreurs, artefacts intermédiaires (comme les commentaires par section), et validation humaine itérative pour corriger les hallucinations. Bien que certaines fonctionnalités comme une vérification chiffrée ou une reconstruction graphique ne soient pas dans le scope initial, ces éléments sont mentionnés comme potentiellement futurs. **SPEAKER_02** confirme la durée du projet (entre septembre et janvier 2025) sans autre précision sur les projets ultérieurs présentés ensuite.\",\n\n  \"decisions\": [],\n  \"actions\": []\n}",
+    "_chunk_id": 5,
+    "_start_time": 128.0,
+    "_end_time": 153.0
+  },
+  {
+    "titre": "Analyse des cas d’usage de synthèse générative et orchestration de données internes",
+    "resume": "Lors de cette discussion, **Speaker_02** aborde les deux axes principaux de la synthèse générative : l’intégration de sources hétérogènes (rapports, événements) pour faciliter leur interprétation. Il souligne ensuite la question réciproque liée à l’orchestration des données via un système centralisé comme le MCP (*Modular Composition Platform*), en évoquant des travaux manquants sur cette dimension. **Speaker_01** présente deux projets internes :",
+    "decisions": [],
+    "actions": [
+      {
+        "action": "développer une orchestrateur N8N pour un outil de rédaction assistée (réponses d’appels d’offres) avec plusieurs agents spécialisés (CV, références, réponses AO), modulaire et interrogeable via des règles",
+        "responsable": "Speaker_01",
+        "echeance": "non spécifiée"
+      },
+      {
+        "action": "finaliser l’implémentation d’un outil de génération de synthèse de réunion (chatbot interactif), en intégrant des outils internes comme le MCP pour accéder aux notes du Sherpa et exporter les synthèses",
+        "responsable": "Speaker_01",
+        "echeance": "non spécifiée"
+      }
+    ],
+    "_raw": "{\n  \"titre\": \"Analyse des cas d’usage de synthèse générative et orchestration de données internes\",\n\n  \"resume\":\n  \"Lors de cette discussion, **Speaker_02** aborde les deux axes principaux de la synthèse générative : l’intégration de sources hétérogènes (rapports, événements) pour faciliter leur interprétation. Il souligne ensuite la question réciproque liée à l’orchestration des données via un système centralisé comme le MCP (*Modular Composition Platform*), en évoquant des travaux manquants sur cette dimension. **Speaker_01** présente deux projets internes :\"\n  ,\n  \"decisions\": [],\n  \"actions\": [\n    {\n      \"action\": \"développer une orchestrateur N8N pour un outil de rédaction assistée (réponses d’appels d’offres) avec plusieurs agents spécialisés (CV, références, réponses AO), modulaire et interrogeable via des règles\",\n      \"responsable\": \"Speaker_01\"\n    ,\n    \"echeance\": \"non spécifiée\"\n    },\n    {\n      \"action\": \"finaliser l’implémentation d’un outil de génération de synthèse de réunion (chatbot interactif), en intégrant des outils internes comme le MCP pour accéder aux notes du Sherpa et exporter les synthèses\",\n      \"responsable\": \"Speaker_01\"\n    ,\n    \"echeance\": \"non spécifiée\"\n    }\n  ]\n}",
+    "_chunk_id": 6,
+    "_start_time": 153.0,
+    "_end_time": 175.0
+  },
+  {
+    "titre": "Amélioration des synthèses, souveraineté technique et intégration multi-outils pour la planification",
+    "resume": "SPARKER_01 propose d'augmenter les synthèses existantes et de les adapter à un contexte spécifique en intégrant davantage de propositions. SPARKER_00 souligne l'importance de cloisonner l'utilisation d'un outil pour préserver une souveraineté technique, notamment au sein de RTE, afin qu'il reste limité à cet environnement. SPARKER_01 évoque deux missions d'orchestration distinctes (orchestration et planification via un agent de POG) et mentionne un projet en cours impliquant un outil web Sir pour la récupération bibliographique. Il suggère aussi développer une O*Dmap automatisée pour proposer des PoC (Proof of Concepts) rapides, combinant plusieurs outils de simulation dans une pipeline ou workflow type « twend ».",
+    "decisions": [],
+    "actions": [
+      {
+        "action": "Récupérer de la bibliographie à partir d’un sujet donné en utilisant l’outil web Sir",
+        "responsable": "SPARKER_01",
+        "echeance": "non précisée"
+      },
+      {
+        "action": "Développer une O*Dmap automatisée pour proposer des PoC minimaux sur un sujet donné, combinant plusieurs outils de simulation",
+        "responsable": "SPARKER_01 (ou équipe à déterminer)",
+        "echeance": "non précisée"
+      }
+    ],
+    "_raw": "{\n  \"titre\": \"Amélioration des synthèses, souveraineté technique et intégration multi-outils pour la planification\",\n\n  \"resume\":\n  \"SPARKER_01 propose d'augmenter les synthèses existantes et de les adapter à un contexte spécifique en intégrant davantage de propositions. SPARKER_00 souligne l'importance de cloisonner l'utilisation d'un outil pour préserver une souveraineté technique, notamment au sein de RTE, afin qu'il reste limité à cet environnement. SPARKER_01 évoque deux missions d'orchestration distinctes (orchestration et planification via un agent de POG) et mentionne un projet en cours impliquant un outil web Sir pour la récupération bibliographique. Il suggère aussi développer une O*Dmap automatisée pour proposer des PoC (Proof of Concepts) rapides, combinant plusieurs outils de simulation dans une pipeline ou workflow type « twend ».\"\n\n  ,\n  \"decisions\": [],\n  \"actions\": [\n    {\n      \"action\": \"Récupérer de la bibliographie à partir d’un sujet donné en utilisant l’outil web Sir\",\n      \"responsable\": \"SPARKER_01\"\n    ,\n    \"echeance\": \"non précisée\"\n    },\n    {\n      \"action\": \"Développer une O*Dmap automatisée pour proposer des PoC minimaux sur un sujet donné, combinant plusieurs outils de simulation\",\n      \"responsable\": \"SPARKER_01 (ou équipe à déterminer)\",\n      \"echeance\": \"non précisée\"\n    }\n  ]\n}",
+    "_chunk_id": 7,
+    "_start_time": 175.0,
+    "_end_time": 185.0
+  },
+  {
+    "titre": "Présentation des projets de recherche en traitement automatique de documents et modélisation VLM",
+    "resume": "Lors de cette discussion, **SPEAKER_00** explique l’intérêt d’intégrer une veille sur les avancées en recherche pour alimenter des démonstrateurs rapides, notamment via des sources comme duRKEVX. **Maya (SPEAKER_01)** présente un projet spécifique : extraction structurée de données administratives scannées (salaires, métiers) à partir de documents, avec une approche basée sur un modèle VLM pour détecter la conformité et les drifts de performance. Ce projet, initialement mené en local, inclut des étapes clés comme le prétraitement, l’amélioration fine du modèle VLM, le contrôle d’anomalies et le déploiement via un dashboard UVCorn. **SPEAKER_02** demande si les documents étaient manuscrits ou non, précisant qu’une classification initiale était nécessaire entre écriture manuscrite ou non.",
+    "decisions": [],
+    "actions": [],
+    "_raw": "{\n  \"titre\": \"Présentation des projets de recherche en traitement automatique de documents et modélisation VLM\",\n\n  \"resume\":\n  \"Lors de cette discussion, **SPEAKER_00** explique l’intérêt d’intégrer une veille sur les avancées en recherche pour alimenter des démonstrateurs rapides, notamment via des sources comme duRKEVX. **Maya (SPEAKER_01)** présente un projet spécifique : extraction structurée de données administratives scannées (salaires, métiers) à partir de documents, avec une approche basée sur un modèle VLM pour détecter la conformité et les drifts de performance. Ce projet, initialement mené en local, inclut des étapes clés comme le prétraitement, l’amélioration fine du modèle VLM, le contrôle d’anomalies et le déploiement via un dashboard UVCorn. **SPEAKER_02** demande si les documents étaient manuscrits ou non, précisant qu’une classification initiale était nécessaire entre écriture manuscrite ou non.\"\n\n  ,\n  \"decisions\": [],\n  \"actions\": []\n}",
+    "_chunk_id": 8,
+    "_start_time": 185.0,
+    "_end_time": 205.0
+  },
+  {
+    "titre": "Analyse des cas d’usage NLP, MCP et orchestration dans le cadre des études énergétiques",
+    "resume": "Lors de cette discussion, **Speaker_01**, **Speaker_00** et **Speaker_02** ont exploré les liens entre les cas d’usage liés à la synthèse de données manuscrites (NLP), l’architecture MCP (Moyens de Production Centralisés) et l’orchestration des études énergétiques. Les participants ont souligné que ces domaines partagent des besoins communs, notamment dans la gestion de scénarios complexes, la récupération d’hypothèses ou de données fragmentées (blocs d’alarme, messages), et l’interaction avec des outils internes de simulation ou de génération de rapports. **Speaker_02** a évoqué des pistes spécifiques comme la synthèse de notes manuscrites en blocs structurés et le rôle du MCP dans l’amont des études pour préparer les simulations avant leur validation humaine. **Speaker_01** a rappelé que ces travaux s’inscrivent dans une feuille de route incluant un POI (Prototype d’Outils Intégrés) pour brancher directement sur des outils internes via le MCP, tandis que **Speaker_00** a mentionné l’importance d’une matrice d’études à mener avant la finalisation du pré-rapport.",
+    "decisions": [],
+    "actions": [],
+    "_raw": "{\n  \"titre\": \"Analyse des cas d’usage NLP, MCP et orchestration dans le cadre des études énergétiques\",\n\n  \"resume\":\n  \"Lors de cette discussion, **Speaker_01**, **Speaker_00** et **Speaker_02** ont exploré les liens entre les cas d’usage liés à la synthèse de données manuscrites (NLP), l’architecture MCP (Moyens de Production Centralisés) et l’orchestration des études énergétiques. Les participants ont souligné que ces domaines partagent des besoins communs, notamment dans la gestion de scénarios complexes, la récupération d’hypothèses ou de données fragmentées (blocs d’alarme, messages), et l’interaction avec des outils internes de simulation ou de génération de rapports. **Speaker_02** a évoqué des pistes spécifiques comme la synthèse de notes manuscrites en blocs structurés et le rôle du MCP dans l’amont des études pour préparer les simulations avant leur validation humaine. **Speaker_01** a rappelé que ces travaux s’inscrivent dans une feuille de route incluant un POI (Prototype d’Outils Intégrés) pour brancher directement sur des outils internes via le MCP, tandis que **Speaker_00** a mentionné l’importance d’une matrice d’études à mener avant la finalisation du pré-rapport.\"\n\n  ,\n  \"decisions\": [],\n  \"actions\": []\n}",
+    "_chunk_id": 9,
+    "_start_time": 205.0,
+    "_end_time": 235.0
+  },
+  {
+    "titre": "Orientation des travaux sur le cas d’usage MCP et proposition d’un atelier UX",
+    "resume": "SPÉAKER_00 propose de réfléchir à un cas d’usage centré sur le **MCP** (probablement une technologie ou un module spécifique) en s’appuyant sur la présentation des besoins du partenaire externe. SPÉAKER_02 souligne l’absence actuelle de besoins précis et suggère de revenir vers ce dernier pour affiner les attentes avant toute discussion approfondie. Par ailleurs, SPÉAKER_00 partage une information interne concernant un partenariat avec des cabinets UX pour la **contrôle room** du futur projet, incluant une proposition d’un atelier UX pour prioriser des cas d’usage et partager leur vision.",
+    "decisions": [],
+    "actions": [
+      {
+        "action": "Tenir informé SPÉAKER_02 si des besoins plus précis émergent concernant le MCP ou les travaux en NLP, sans action immédiate",
+        "responsable": "SPÉAKER_02 (ou l’équipe concernée)",
+        "echeance": "À déterminer ultérieurement"
+      },
+      {
+        "action": "Préparer une réflexion sur un cas d’usage MCP en collaboration avec SPÉAKER_00, si ce dernier présente des besoins clairs",
+        "responsable": "SPÉAKER_02 (ou son équipe)",
+        "echeance": "Non précisée"
+      },
+      {
+        "action": "Organiser un atelier UX pour prioriser les cas d’usage avec SPÉAKER_00 et ses partenaires",
+        "responsable": "SPÉAKER_00 (ou l’équipe GALËT)",
+        "echeance": "Non précisée"
+      }
+    ],
+    "_raw": "{\n  \"titre\": \"Orientation des travaux sur le cas d’usage MCP et proposition d’un atelier UX\",\n\n  \"resume\":\n  \"SPÉAKER_00 propose de réfléchir à un cas d’usage centré sur le **MCP** (probablement une technologie ou un module spécifique) en s’appuyant sur la présentation des besoins du partenaire externe. SPÉAKER_02 souligne l’absence actuelle de besoins précis et suggère de revenir vers ce dernier pour affiner les attentes avant toute discussion approfondie. Par ailleurs, SPÉAKER_00 partage une information interne concernant un partenariat avec des cabinets UX pour la **contrôle room** du futur projet, incluant une proposition d’un atelier UX pour prioriser des cas d’usage et partager leur vision.\"\n\n  ,\n  \"decisions\": [],\n  \"actions\": [\n    {\n      \"action\": \"Tenir informé SPÉAKER_02 si des besoins plus précis émergent concernant le MCP ou les travaux en NLP, sans action immédiate\",\n      \"responsable\": \"SPÉAKER_02 (ou l’équipe concernée)\",\n      \"echeance\": \"À déterminer ultérieurement\"\n    },\n    {\n      \"action\": \"Préparer une réflexion sur un cas d’usage MCP en collaboration avec SPÉAKER_00, si ce dernier présente des besoins clairs\",\n      \"responsable\": \"SPÉAKER_02 (ou son équipe)\",\n      \"echeance\": \"Non précisée\"\n    },\n    {\n      \"action\": \"Organiser un atelier UX pour prioriser les cas d’usage avec SPÉAKER_00 et ses partenaires\",\n      \"responsable\": \"SPÉAKER_00 (ou l’équipe GALËT)\",\n      \"echeance\": \"Non précisée\"\n    }\n  ]\n}",
+    "_chunk_id": 10,
+    "_start_time": 235.0,
+    "_end_time": 266.0
+  }
+]

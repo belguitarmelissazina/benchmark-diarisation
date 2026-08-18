@@ -1,0 +1,37 @@
+{
+  "pipeline_name": "diar_pipeline__silero__campplus__gmm_bic__sc__enhanced__w1.2__h0.6__auto_1-20",
+  "file_id": "069c_EEPL",
+  "input_file": "benchmarks\\summre\\069c_EEPL\\069c_EEPL.wav",
+  "audio_duration": 1261.3080625,
+  "params": {
+    "embed": "campplus",
+    "estimate": "gmm_bic",
+    "cluster": "sc",
+    "enhance": true,
+    "win_len": 1.2,
+    "hop_len": 0.6,
+    "refine_vbx": false,
+    "vbx_Fa": 0.4,
+    "vbx_Fb": 17.0,
+    "num_speakers": null,
+    "min_speakers": 1,
+    "max_speakers": 20
+  },
+  "timings": {
+    "time_conversion": 0.7445474000414833,
+    "time_vad": 106.81405120005365,
+    "time_embeddings": 286.0118359000189,
+    "time_similarity": 1.1920516000827774,
+    "time_clustering": 0.14163960004225373,
+    "time_transcription": 387.0330126999179
+  },
+  "results": {
+    "num_speakers": 1,
+    "num_segments": 54,
+    "transcribed": true,
+    "num_words": 3011,
+    "num_turns": 1,
+    "total_time": 912.2312831000891,
+    "rtf": 0.7232422516129671
+  }
+}

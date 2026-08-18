@@ -1,0 +1,37 @@
+{
+  "pipeline_name": "diar_pipeline__silero__resnet34__nmesc__sc__enhanced__w1.2__h0.6__nspk6",
+  "file_id": "dicte_audio_3",
+  "input_file": "dicte_audio_3.m4a",
+  "audio_duration": 3286.4213125,
+  "params": {
+    "embed": "resnet34",
+    "estimate": "nmesc",
+    "cluster": "sc",
+    "enhance": true,
+    "win_len": 1.2,
+    "hop_len": 0.6,
+    "refine_vbx": false,
+    "vbx_Fa": 0.05,
+    "vbx_Fb": 5.0,
+    "num_speakers": 6,
+    "min_speakers": 1,
+    "max_speakers": 20
+  },
+  "timings": {
+    "time_conversion": 5.947265199996764,
+    "time_vad": 36.67778930001077,
+    "time_embeddings": 371.4332402999862,
+    "time_similarity": 4.491189399996074,
+    "time_clustering": 7.3194916999927955,
+    "time_transcription": 183.03546540001116
+  },
+  "results": {
+    "num_speakers": 6,
+    "num_segments": 851,
+    "transcribed": true,
+    "num_words": 7339,
+    "num_turns": 724,
+    "total_time": 652.63389740001,
+    "rtf": 0.19858497597909855
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "pipeline": "pyannote_onnx_extended",
+  "file_id": "EN2002c",
+  "input_file": "benchmarks\\ami\\EN2002c.wav",
+  "audio_duration": 2972.256,
+  "params": {
+    "onset": 0.5,
+    "offset": 0.5,
+    "min_duration_on": 0.5,
+    "min_duration_off": 0.3,
+    "num_speakers": null
+  },
+  "timings": {
+    "time_conversion": 0.8274827999994159,
+    "time_model_load": 2.5478197999764234,
+    "time_diarization": 154.10153109999374
+  },
+  "results": {
+    "num_speakers": 19,
+    "num_segments": 381,
+    "transcribed": false,
+    "num_words": 0,
+    "num_turns": 0,
+    "total_time": 157.88683670002501,
+    "rtf": 0.05312020118725474
+  }
+}

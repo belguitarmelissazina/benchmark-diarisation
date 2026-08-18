@@ -1,0 +1,36 @@
+{
+  "pipeline_name": "diar_pipeline__silero__resnet34__gmm_bic__sc__enhanced__w1.2__h0.6__auto_1-20",
+  "file_id": "EN2002c",
+  "input_file": "benchmarks\\ami\\EN2002c.wav",
+  "audio_duration": 2972.256,
+  "params": {
+    "embed": "resnet34",
+    "estimate": "gmm_bic",
+    "cluster": "sc",
+    "enhance": true,
+    "win_len": 1.2,
+    "hop_len": 0.6,
+    "refine_vbx": false,
+    "vbx_Fa": 0.4,
+    "vbx_Fb": 17.0,
+    "num_speakers": null,
+    "min_speakers": 1,
+    "max_speakers": 20
+  },
+  "timings": {
+    "time_conversion": 1.5646468000486493,
+    "time_vad": 259.31702710001264,
+    "time_embeddings": 681.993335200008,
+    "time_similarity": 2.8192954000551254,
+    "time_clustering": 55.70215440005995
+  },
+  "results": {
+    "num_speakers": 7,
+    "num_segments": 781,
+    "transcribed": false,
+    "num_words": 0,
+    "num_turns": 0,
+    "total_time": 1069.124049599981,
+    "rtf": 0.3597011998966378
+  }
+}

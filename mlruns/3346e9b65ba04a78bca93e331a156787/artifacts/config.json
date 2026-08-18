@@ -1,0 +1,37 @@
+{
+  "pipeline_name": "diar_pipeline__silero__campplus__gmm_bic__sc__enhanced__w1.2__h0.6__auto_1-20",
+  "file_id": "018a_EARZ",
+  "input_file": "benchmarks\\summre\\018a_EARZ\\018a_EARZ.wav",
+  "audio_duration": 1317.715875,
+  "params": {
+    "embed": "campplus",
+    "estimate": "gmm_bic",
+    "cluster": "sc",
+    "enhance": true,
+    "win_len": 1.2,
+    "hop_len": 0.6,
+    "refine_vbx": false,
+    "vbx_Fa": 0.4,
+    "vbx_Fb": 17.0,
+    "num_speakers": null,
+    "min_speakers": 1,
+    "max_speakers": 20
+  },
+  "timings": {
+    "time_conversion": 0.3594164999667555,
+    "time_vad": 29.153937499970198,
+    "time_embeddings": 77.00603799999226,
+    "time_similarity": 0.24297220003791153,
+    "time_clustering": 0.03427509998437017,
+    "time_transcription": 109.300232199952
+  },
+  "results": {
+    "num_speakers": 1,
+    "num_segments": 114,
+    "transcribed": true,
+    "num_words": 2538,
+    "num_turns": 1,
+    "total_time": 253.3962536000181,
+    "rtf": 0.1922996136022252
+  }
+}

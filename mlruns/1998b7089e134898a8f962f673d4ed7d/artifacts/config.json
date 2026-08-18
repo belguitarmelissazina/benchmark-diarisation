@@ -1,0 +1,36 @@
+{
+  "pipeline_name": "diar_pipeline__silero__ecapa__nmesc__sc__enhanced__w1.2__h0.6__auto_1-20",
+  "file_id": "IS1009a",
+  "input_file": "benchmarks\\ami\\IS1009a.wav",
+  "audio_duration": 838.8333125,
+  "params": {
+    "embed": "ecapa",
+    "estimate": "nmesc",
+    "cluster": "sc",
+    "enhance": true,
+    "win_len": 1.2,
+    "hop_len": 0.6,
+    "refine_vbx": false,
+    "vbx_Fa": 0.4,
+    "vbx_Fb": 17.0,
+    "num_speakers": null,
+    "min_speakers": 1,
+    "max_speakers": 20
+  },
+  "timings": {
+    "time_conversion": 0.22648049995768815,
+    "time_vad": 11.12080820009578,
+    "time_embeddings": 67.67093250004109,
+    "time_similarity": 0.1291012999136001,
+    "time_clustering": 0.2927318000001833
+  },
+  "results": {
+    "num_speakers": 1,
+    "num_segments": 54,
+    "transcribed": false,
+    "num_words": 0,
+    "num_turns": 0,
+    "total_time": 108.66129399999045,
+    "rtf": 0.1295386012700711
+  }
+}

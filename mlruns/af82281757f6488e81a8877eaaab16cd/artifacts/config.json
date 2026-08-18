@@ -1,0 +1,34 @@
+{
+  "pipeline": "transcribe_first",
+  "file_id": "dicte_audio_3",
+  "input_file": "dicte_audio_3.m4a",
+  "audio_duration": 3286.4213125,
+  "params": {
+    "embed": "resnet34",
+    "estimate": "nmesc",
+    "cluster": "sc",
+    "enhance": true,
+    "win_len": 1.2,
+    "hop_len": 0.6,
+    "num_speakers": null,
+    "vad_model": "silero",
+    "vad_threshold": 0.4
+  },
+  "timings": {
+    "time_conversion": 3.216668299981393,
+    "time_transcription": 114.34541760000866,
+    "time_vad": 52.302715400001034,
+    "time_embeddings": 597.9753693999955,
+    "time_similarity": 4.297497900086455,
+    "time_clustering": 288.7553681000136
+  },
+  "results": {
+    "num_speakers": 3,
+    "num_segments": 155,
+    "num_words": 7339,
+    "num_turns_midpoint": 62,
+    "num_turns_boundary": 53,
+    "total_time": 1115.3582569999853,
+    "rtf": 0.33938383151231627
+  }
+}

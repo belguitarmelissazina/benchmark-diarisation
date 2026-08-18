@@ -1,0 +1,3440 @@
+[
+  {
+    "start": 7.679999828338623,
+    "end": 69.63999938964844,
+    "speaker": "SPEAKER_02",
+    "text": "BonjourNordine. Bonjourd’hui Et voici, Mathieu tout le monde est. là Bonjour à. tous Ce que je vous propose c’est un petit tour de table parce que moi je ne connais pas tout le. monde Je peux commencer si vous voulez donc moi c’est j’ai, remassé je suisexpert dataIa manager de la pratice DataIa au sein de l’élé consulting et donc par exemple travaille avec Maya sur les sujets de l’IA, générative je travaille aussi avec Della côtéRD sur la feuille de route équilibre gouvernance et régulation sur un projet d’équilibreoffre demande et la rentabilité des moyens de base etégalement côté décoffert sur desanalyses plutôtorientées. métiers Parce"
+  },
+  {
+    "start": 69.63999938964844,
+    "end": 74.5999984741211,
+    "speaker": "SPEAKER_05",
+    "text": "que je peux me présenter aussi donc moi c’est Maya, Saraoi"
+  },
+  {
+    "start": 74.5999984741211,
+    "end": 74.79999542236328,
+    "speaker": "SPEAKER_00",
+    "text": "je"
+  },
+  {
+    "start": 74.79999542236328,
+    "end": 80.1199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "suis consultante confirmée, chezIVB je travaille principalement sur"
+  },
+  {
+    "start": 80.1199951171875,
+    "end": 82.43999481201172,
+    "speaker": "SPEAKER_00",
+    "text": "des projets d’IA génératifs donc"
+  },
+  {
+    "start": 82.43999481201172,
+    "end": 88.5199966430664,
+    "speaker": "SPEAKER_03",
+    "text": "en interne et en projet que j’ai menéégalement chezRTE avec Daina etGérald et"
+  },
+  {
+    "start": 88.5199966430664,
+    "end": 89.27999877929688,
+    "speaker": "SPEAKER_05",
+    "text": "donc je"
+  },
+  {
+    "start": 89.27999877929688,
+    "end": 92.19999694824219,
+    "speaker": "SPEAKER_03",
+    "text": "suis docteur en"
+  },
+  {
+    "start": 92.19999694824219,
+    "end": 94.31999969482422,
+    "speaker": "SPEAKER_00",
+    "text": "deep learning j’ai fait un doctorat en traitement automatique"
+  },
+  {
+    "start": 94.31999969482422,
+    "end": 96.43999481201172,
+    "speaker": "SPEAKER_04",
+    "text": "des langues et"
+  },
+  {
+    "start": 96.43999481201172,
+    "end": 102.47999389648437,
+    "speaker": "SPEAKER_03",
+    "text": "je rejoins il y a deux en septembre donc, voilà j’en quelques missions en ce."
+  },
+  {
+    "start": 101.47999572753906,
+    "end": 108.87999542236328,
+    "speaker": "SPEAKER_02",
+    "text": "sens-là Je vous laisse vous."
+  },
+  {
+    "start": 106.63999938964844,
+    "end": 145.99999816894533,
+    "speaker": "SPEAKER_01",
+    "text": "présenter Allez je commence donc Bruno le méthélier donc je suis à laRD et je pilote la feuille de route Smart Cockpit. interactif Donc ça veut dire en gros si on travaille sur les assistants en particulier pour lesopérateurs en soin de. conduite, Bonjour Mathieu, sort je suis à laRD aussiRTE la thématique assistant là dont parle Bruno là ça fait une dizaine d’années au moins qu’on l’a qu’elle évolue qu’on la fait mûrir et moi je travaille dessus depuis tout ce. temps-là Très."
+  },
+  {
+    "start": 145.44000244140625,
+    "end": 150.83999633789062,
+    "speaker": "SPEAKER_02",
+    "text": "bien Dans, Dinka je"
+  },
+  {
+    "start": 150.83999633789062,
+    "end": 164.2400036621094,
+    "speaker": "SPEAKER_01",
+    "text": "suis aussi de la, ridée je travaille sur des thématiques d’implémentation des réseaux de neurones pour l’écosystème. principalement MaisJérôme,"
+  },
+  {
+    "start": 163.75999450683594,
+    "end": 164.47999572753906,
+    "speaker": "SPEAKER_02",
+    "text": "Picot moi"
+  },
+  {
+    "start": 164.47999572753906,
+    "end": 166.0,
+    "speaker": "SPEAKER_01",
+    "text": "je ne suis plus à la, grider"
+  },
+  {
+    "start": 166.0,
+    "end": 169.95999145507812,
+    "speaker": "SPEAKER_02",
+    "text": "j’y étais mais si, plus je suis dans une direction"
+  },
+  {
+    "start": 169.95999145507812,
+    "end": 170.27999877929688,
+    "speaker": "SPEAKER_01",
+    "text": "qui"
+  },
+  {
+    "start": 170.27999877929688,
+    "end": 196.63999938964844,
+    "speaker": "SPEAKER_02",
+    "text": "s’appelle maintenant intelligenceartificielle et innovation et je travaille sur des sujets principalement dits et génératives autour des, LLM, MCP. etc Très, bien est-ce que vous voulez que je présente notre société où il n’a pas? besoin De"
+  },
+  {
+    "start": 196.63999938964844,
+    "end": 238.95998962402345,
+    "speaker": "SPEAKER_01",
+    "text": "mon, côté je diseffectivement que j’aieuccasion de travailler qu’il est alors pas dans le même contexte puisqu’avant j’étais au département d’exploitation et puis encore avant j’étais au département, marche etc et. çaVoilà donc là j’ai dû croiser deux de vos collègues et plus sur des aspects voilà ça veut dire concept à moins recherche en tout cas donc, voilà je connais un petit. peu Je connais moinseffectivement vos activités là-dessus mais voilà en tout cas je crois qu’on aeu aussi l’occasion de voir de participer à des échanges sur un modèle que vous avez développé pour la gestion des congestions me semble bref voilà en tout cas de mon point de, vue c’estime vous connaître un..,"
+  },
+  {
+    "start": 234.95999145507812,
+    "end": 279.12000854492186,
+    "speaker": "SPEAKER_02",
+    "text": "peuOussiOk donc on peutzapper oui ou non., DandineOui c’est bon. seulement Donc ce que je vous propose c’est que vous discutiez un petit peu justement sur vos besoins sur l’IA générative et qu’on puisse un petit peu justement comprendre vos, besoins vos attentes et puis et puis voir comment on pourrait potentiellement travailler., ensembleOui alors peut-être donceffectivement alors je me lance donc en."
+  },
+  {
+    "start": 276.239990234375,
+    "end": 408.3999768066406,
+    "speaker": "SPEAKER_01",
+    "text": "contexte Donc nouseffectivement les. sujets Alors je parle sur la partie assistante puisque donc dans cette table on aeffectivementJérôme Carpendront la partie disciplinaire on va dire il y a lesNLP donc côtéRD on n’est plus sur la partie on va dire assistant donc mise en application un petit peu de tout ça et recherche un peu sur la question plus de l’interaction après voilà donc de ce point de vue-là, nous on s’intéresse évidemment de plus en plus à tout ce qu’on peut faire avec le LP et puis plus récemment aussi sur ce qu’il est possible de faire avec le MCP alors nous en fait ce qui nous intéresse ça va être encore une fois ces question un peu voilà l’interface d’interaction entre l’opérateur et sesoutils donc voilà si onouvre un petit peu letruc dans le fond le MCP c’est une promesse en tout cas à ce stade pour développer des mode interface quasi conversationnel et qui permettent en restant dans un taux très fluide justement d’appeler les servicesadéquats ou de dorstrer un petit peu des différentes. briquesVoilà donc des briques de, calcul, d’études d’études, réseaux. etcVoilà donc c’est des choses qu’on. souhaiteexplorerVoilà donceffectivement là comme ça on n’a pas à date aujourd’hui de mission ou quoi claire à. proposer Je pense que le but en tout cas pour moi c’étaiteffectivement Dandine nous a indiqué que Mike t’avaiseu l’occasion de travailler dans un contexte et que tu connaissais ces sujets-là donc voilà ça nous permet à ce stade en tout cas de voilà de faire connaissance de voir un peu peut-être l’onctions que tu as pu faire ou ce qu’on pourrait faire voilà comme ça on a un peu ça en tête pour la suite éventuellement et en tout cas aujourd’hui on revient paseffectivement avec untruc, cadré un besoin où, voilà c’est plus un peu de la prise de contact en tout cas en tout cas à mon."
+  },
+  {
+    "start": 407.44000244140625,
+    "end": 421.1999951171875,
+    "speaker": "SPEAKER_05",
+    "text": "niveau Donc je peux vous présenter si vous voulez justement les projets sur lesquels j’ai travaillé donc je n’ai pas la manque pour partager."
+  },
+  {
+    "start": 417.67999267578125,
+    "end": 423.75999267578123,
+    "speaker": "SPEAKER_00",
+    "text": "monécranEffectivement c’est."
+  },
+  {
+    "start": 422.91998291015625,
+    "end": 437.99998291015623,
+    "speaker": "SPEAKER_01",
+    "text": "désactivé Je sais plus qui sait qu’a envoyé la. réunion Je ne sais peut-être toi non c’est unte paraisser les activer par défaut sur la. Toy.."
+  },
+  {
+    "start": 433.44000244140625,
+    "end": 439.8399963378906,
+    "speaker": "SPEAKER_04",
+    "text": "MerciNon Donc"
+  },
+  {
+    "start": 439.8399963378906,
+    "end": 443.0799865722656,
+    "speaker": "SPEAKER_03",
+    "text": "je vais vous présenter un peu les projetsira génératifs"
+  },
+  {
+    "start": 443.0799865722656,
+    "end": 444.1999816894531,
+    "speaker": "SPEAKER_00",
+    "text": "sur lesquels on"
+  },
+  {
+    "start": 444.1999816894531,
+    "end": 444.5999755859375,
+    "speaker": "SPEAKER_03",
+    "text": "travaille de"
+  },
+  {
+    "start": 444.5999755859375,
+    "end": 446.1600036621094,
+    "speaker": "SPEAKER_00",
+    "text": "manière générale chezEly je vais"
+  },
+  {
+    "start": 446.1600036621094,
+    "end": 447.03997802734375,
+    "speaker": "SPEAKER_05",
+    "text": "me concentrer sur"
+  },
+  {
+    "start": 447.03997802734375,
+    "end": 450.3199768066406,
+    "speaker": "SPEAKER_04",
+    "text": "lesquels moi"
+  },
+  {
+    "start": 450.3199768066406,
+    "end": 452.2799987792969,
+    "speaker": "SPEAKER_03",
+    "text": "j’ai travaillé et"
+  },
+  {
+    "start": 452.2799987792969,
+    "end": 453.1999816894531,
+    "speaker": "SPEAKER_05",
+    "text": "sur d’autres missions"
+  },
+  {
+    "start": 453.1999816894531,
+    "end": 456.1999816894531,
+    "speaker": "SPEAKER_03",
+    "text": "aussi que j’ai faites avant de rejoindreYéley donc pour"
+  },
+  {
+    "start": 456.1999816894531,
+    "end": 464.08,
+    "speaker": "SPEAKER_04",
+    "text": "vous présenter un peu les compétences qu’on a chez sur desuskes comme cela donc."
+  },
+  {
+    "start": 462.5999755859375,
+    "end": 467.7200012207031,
+    "speaker": "SPEAKER_00",
+    "text": "d’IHM Pas pour commencer le positionnement en tout cas global"
+  },
+  {
+    "start": 467.7200012207031,
+    "end": 470.239990234375,
+    "speaker": "SPEAKER_03",
+    "text": "que j’aiadopté depuis que j’ai rejointYaley ces"
+  },
+  {
+    "start": 470.239990234375,
+    "end": 470.47998046875,
+    "speaker": "SPEAKER_04",
+    "text": "derniers"
+  },
+  {
+    "start": 470.47998046875,
+    "end": 473.03997802734375,
+    "speaker": "SPEAKER_05",
+    "text": "temps aussi sur les projets"
+  },
+  {
+    "start": 473.03997802734375,
+    "end": 478.47998046875,
+    "speaker": "SPEAKER_04",
+    "text": "dia génératives que sur lesquels je suis, intervenu c’était"
+  },
+  {
+    "start": 478.47998046875,
+    "end": 480.2799987792969,
+    "speaker": "SPEAKER_00",
+    "text": "globalement de transformer des"
+  },
+  {
+    "start": 480.2799987792969,
+    "end": 482.2799987792969,
+    "speaker": "SPEAKER_03",
+    "text": "contenus donc des documents complexes et"
+  },
+  {
+    "start": 482.2799987792969,
+    "end": 486.0,
+    "speaker": "SPEAKER_04",
+    "text": "hétérogènes en général multimodal en sortie"
+  },
+  {
+    "start": 486.0,
+    "end": 486.8799743652344,
+    "speaker": "SPEAKER_03",
+    "text": "actionnable donc ça"
+  },
+  {
+    "start": 486.8799743652344,
+    "end": 489.0,
+    "speaker": "SPEAKER_05",
+    "text": "peut être soitextraire de"
+  },
+  {
+    "start": 489.0,
+    "end": 492.55999755859375,
+    "speaker": "SPEAKER_04",
+    "text": "réinformation pertinentes pour"
+  },
+  {
+    "start": 492.55999755859375,
+    "end": 493.3199768066406,
+    "speaker": "SPEAKER_05",
+    "text": "faciliter"
+  },
+  {
+    "start": 493.3199768066406,
+    "end": 493.44000244140625,
+    "speaker": "SPEAKER_03",
+    "text": "de"
+  },
+  {
+    "start": 493.44000244140625,
+    "end": 495.03997802734375,
+    "speaker": "SPEAKER_04",
+    "text": "la prise de décision ou"
+  },
+  {
+    "start": 495.03997802734375,
+    "end": 496.47998046875,
+    "speaker": "SPEAKER_03",
+    "text": "créer des fiches de synthèse à"
+  },
+  {
+    "start": 496.47998046875,
+    "end": 498.7599792480469,
+    "speaker": "SPEAKER_04",
+    "text": "partir de documents hétérogènes donc"
+  },
+  {
+    "start": 498.7599792480469,
+    "end": 501.47998046875,
+    "speaker": "SPEAKER_03",
+    "text": "j’ai aussi il"
+  },
+  {
+    "start": 501.47998046875,
+    "end": 508.79998779296875,
+    "speaker": "SPEAKER_04",
+    "text": "y a toujours un volet un peu d’industrialisation on va dire où je garde une notion deversionine et"
+  },
+  {
+    "start": 508.79998779296875,
+    "end": 509.44000244140625,
+    "speaker": "SPEAKER_03",
+    "text": "une notion de"
+  },
+  {
+    "start": 509.44000244140625,
+    "end": 510.1999816894531,
+    "speaker": "SPEAKER_04",
+    "text": "monitoring aussi"
+  },
+  {
+    "start": 510.1999816894531,
+    "end": 512.1199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "donc sur les projets qu’on fait au sein de l’IAE"
+  },
+  {
+    "start": 512.1199951171875,
+    "end": 515.0399780273438,
+    "speaker": "SPEAKER_04",
+    "text": "et sur les mission que j’ai faite auparavant donc entermes de"
+  },
+  {
+    "start": 515.0399780273438,
+    "end": 517.9999829101563,
+    "speaker": "SPEAKER_03",
+    "text": "compétences on va toujours être sur du,"
+  },
+  {
+    "start": 517.1599731445312,
+    "end": 518.8800048828125,
+    "speaker": "SPEAKER_05",
+    "text": "multimodèle j’ai travaillé"
+  },
+  {
+    "start": 518.8800048828125,
+    "end": 529.08,
+    "speaker": "SPEAKER_03",
+    "text": "sur des modèles hébergés localement donc où j’ai directement fait du fine toiling sur des modèles dit à génératifs."
+  },
+  {
+    "start": 526.3599853515625,
+    "end": 531.8399658203125,
+    "speaker": "SPEAKER_04",
+    "text": "typeQNTubinefiel énormément de prétraitements donc"
+  },
+  {
+    "start": 531.8399658203125,
+    "end": 532.8399658203125,
+    "speaker": "SPEAKER_05",
+    "text": "ça c’est nécessaire"
+  },
+  {
+    "start": 532.8399658203125,
+    "end": 537.5999755859375,
+    "speaker": "SPEAKER_03",
+    "text": "et aussi donc l’utilisation des pia type"
+  },
+  {
+    "start": 537.5999755859375,
+    "end": 541.5199584960938,
+    "speaker": "SPEAKER_05",
+    "text": "mistral c’est ce qu’onutilise aujourd’hui chezYannay et"
+  },
+  {
+    "start": 541.5199584960938,
+    "end": 555.760009765625,
+    "speaker": "SPEAKER_03",
+    "text": "donc avec des gains d’usage quiont nécessité de faire du rag donc du ranking duray ranking et de la. vectorisation Des notions d’orchestration aussi donc on a chez elle on a des projets où on en est plus sur, duNUN d’autres où"
+  },
+  {
+    "start": 555.760009765625,
+    "end": 558.4400024414062,
+    "speaker": "SPEAKER_05",
+    "text": "on fait du MCP et"
+  },
+  {
+    "start": 558.4400024414062,
+    "end": 560.1599731445312,
+    "speaker": "SPEAKER_00",
+    "text": "entermes de déploiement"
+  },
+  {
+    "start": 560.1599731445312,
+    "end": 562.1599731445312,
+    "speaker": "SPEAKER_03",
+    "text": "j’ai travaillé"
+  },
+  {
+    "start": 562.1599731445312,
+    "end": 564.1199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "sur desoutils commeVLHRM"
+  },
+  {
+    "start": 564.1199951171875,
+    "end": 565.3999633789062,
+    "speaker": "SPEAKER_00",
+    "text": "ouVicorne"
+  },
+  {
+    "start": 565.3999633789062,
+    "end": 583.7599926757813,
+    "speaker": "SPEAKER_03",
+    "text": "pour déployer des, modèles des modèles que j’ai pré-entraînés et du streaminatégalement pour de la livraison de poktand. yaller Donc je vais commencer par vous présenter le projet que j’ai fait au sein."
+  },
+  {
+    "start": 581.1199951171875,
+    "end": 586.799970703125,
+    "speaker": "SPEAKER_05",
+    "text": "deRTE Je pense que ça. bloque C’est."
+  },
+  {
+    "start": 586.3999633789062,
+    "end": 598.1600170898438,
+    "speaker": "SPEAKER_03",
+    "text": "bon Donc pour le projet que j’ai fait au sein de l’équipe équilibreoffre et demande, deRTE le sujetétait de pouvoir générer des étudesEOD rentabilité des moyens de."
+  },
+  {
+    "start": 597.3200073242188,
+    "end": 604.2799682617188,
+    "speaker": "SPEAKER_00",
+    "text": "production Donc le contexte c’est que l’équipe se charge de reprendre un peu les bilans prévisionnels ou"
+  },
+  {
+    "start": 604.2799682617188,
+    "end": 608.2799682617188,
+    "speaker": "SPEAKER_03",
+    "text": "de les prendre comme référentiel comme contexte de faire des études où"
+  },
+  {
+    "start": 608.2799682617188,
+    "end": 610.1199951171875,
+    "speaker": "SPEAKER_04",
+    "text": "on prend en considération des notions donc"
+  },
+  {
+    "start": 610.1199951171875,
+    "end": 611.5199584960938,
+    "speaker": "SPEAKER_03",
+    "text": "de rentabilité donc"
+  },
+  {
+    "start": 611.5199584960938,
+    "end": 613.1999951171875,
+    "speaker": "SPEAKER_04",
+    "text": "on décline des,"
+  },
+  {
+    "start": 612.6400146484375,
+    "end": 614.2399731445313,
+    "speaker": "SPEAKER_05",
+    "text": "hypothèses on a des,"
+  },
+  {
+    "start": 613.47998046875,
+    "end": 615.0,
+    "speaker": "SPEAKER_04",
+    "text": "scénarios onanalyse la"
+  },
+  {
+    "start": 615.0,
+    "end": 617.2799682617188,
+    "speaker": "SPEAKER_05",
+    "text": "sensibilité de"
+  },
+  {
+    "start": 617.2799682617188,
+    "end": 619.1599731445312,
+    "speaker": "SPEAKER_03",
+    "text": "toutes ces études-là pour"
+  },
+  {
+    "start": 619.1599731445312,
+    "end": 620.2000122070312,
+    "speaker": "SPEAKER_05",
+    "text": "sortir avec"
+  },
+  {
+    "start": 620.2000122070312,
+    "end": 621.3999633789062,
+    "speaker": "SPEAKER_03",
+    "text": "des résultats donc"
+  },
+  {
+    "start": 621.3999633789062,
+    "end": 622.47998046875,
+    "speaker": "SPEAKER_04",
+    "text": "il y a des stimulations qui"
+  },
+  {
+    "start": 622.47998046875,
+    "end": 625.5199584960938,
+    "speaker": "SPEAKER_03",
+    "text": "sont faites avec unoutil qui est développé"
+  },
+  {
+    "start": 625.5199584960938,
+    "end": 626.5599975585938,
+    "speaker": "SPEAKER_05",
+    "text": "au sein de l’équipe qui"
+  },
+  {
+    "start": 626.5599975585938,
+    "end": 629.0399780273438,
+    "speaker": "SPEAKER_04",
+    "text": "s’appelle Power donc c’est unoutil quiressemble un"
+  },
+  {
+    "start": 629.0399780273438,
+    "end": 632.0399780273438,
+    "speaker": "SPEAKER_03",
+    "text": "peu à Antares mais qui reprend"
+  },
+  {
+    "start": 632.0399780273438,
+    "end": 634.9599609375,
+    "speaker": "SPEAKER_04",
+    "text": "des notions de rentabilité qu’on ne"
+  },
+  {
+    "start": 634.9599609375,
+    "end": 637.47998046875,
+    "speaker": "SPEAKER_05",
+    "text": "retrouve pas forcément surInternet donc"
+  },
+  {
+    "start": 637.47998046875,
+    "end": 641.2000122070312,
+    "speaker": "SPEAKER_03",
+    "text": "si l’idée c’est vraiment de faire desanalyses de rentabilité des moyens de"
+  },
+  {
+    "start": 641.2000122070312,
+    "end": 643.0799560546875,
+    "speaker": "SPEAKER_04",
+    "text": "production ensuite à"
+  },
+  {
+    "start": 643.0799560546875,
+    "end": 658.0,
+    "speaker": "SPEAKER_03",
+    "text": "la suite de ces études-là donc les membres de l’équipe vont créer des fichiersVPT ils vont stocker les résultats dans des fichiers. PPDT Donc ces fichiers-là vont contenir notamment en majeure partie des graphiques donc on est sur des données qui sont hétérogènes"
+  },
+  {
+    "start": 658.0,
+    "end": 661.1599731445312,
+    "speaker": "SPEAKER_04",
+    "text": "parce qu’on a énormément d’images très"
+  },
+  {
+    "start": 661.1599731445312,
+    "end": 670.1599560546875,
+    "speaker": "SPEAKER_03",
+    "text": "peu de textes et l’idée c’est de pouvoir par la suite par filière rédiger un rapport complet rédiger un rapport qui soitexhaustif sur toutes les."
+  },
+  {
+    "start": 669.5599975585938,
+    "end": 687.9199658203125,
+    "speaker": "SPEAKER_04",
+    "text": "filières Donc c’est à ce niveau-là donc au niveau de la rédaction du rapport complet à partir des fichiers PPT que moi je suis intervenu pour automatiser justement ce. travail-là Donc ici on est parti d’une structure de rapport qu’on a dû discuter pendant ma,"
+  },
+  {
+    "start": 687.239990234375,
+    "end": 689.1199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "mission on s’est mis d’accord sur une"
+  },
+  {
+    "start": 689.1199951171875,
+    "end": 695.9199658203125,
+    "speaker": "SPEAKER_04",
+    "text": "structure du rapport et j’ai établi donc une chaîne de traitement pour pouvoir automatiser."
+  },
+  {
+    "start": 695.5199584960938,
+    "end": 700.9199829101562,
+    "speaker": "SPEAKER_00",
+    "text": "ça Donc l’objectifétait d’accélérer la production du rapport sans en dégrader larigueur"
+  },
+  {
+    "start": 700.9199829101562,
+    "end": 701.1199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "donc"
+  },
+  {
+    "start": 701.1199951171875,
+    "end": 701.5999755859375,
+    "speaker": "SPEAKER_04",
+    "text": "ça c’est"
+  },
+  {
+    "start": 701.5999755859375,
+    "end": 703.3999633789062,
+    "speaker": "SPEAKER_03",
+    "text": "l’enjeu premier et de"
+  },
+  {
+    "start": 703.3999633789062,
+    "end": 705.1199951171875,
+    "speaker": "SPEAKER_00",
+    "text": "pouvoir en"
+  },
+  {
+    "start": 705.1199951171875,
+    "end": 712.0799560546875,
+    "speaker": "SPEAKER_04",
+    "text": "faisant çaancrer chacune des affirmations qui sont générées par monoutil dans le rapport lesancrées"
+  },
+  {
+    "start": 712.0799560546875,
+    "end": 714.2799682617188,
+    "speaker": "SPEAKER_03",
+    "text": "dans des figures où des textes y"
+  },
+  {
+    "start": 714.2799682617188,
+    "end": 720.239990234375,
+    "speaker": "SPEAKER_04",
+    "text": "sont directement cidés dans les fichiers PPT de standardiser la structure sur"
+  },
+  {
+    "start": 720.239990234375,
+    "end": 722.719970703125,
+    "speaker": "SPEAKER_05",
+    "text": "des sections sur lesquelles on s’était mis d’accord au"
+  },
+  {
+    "start": 722.719970703125,
+    "end": 723.719970703125,
+    "speaker": "SPEAKER_03",
+    "text": "préalable et"
+  },
+  {
+    "start": 723.719970703125,
+    "end": 723.9199829101562,
+    "speaker": "SPEAKER_00",
+    "text": "de"
+  },
+  {
+    "start": 723.9199829101562,
+    "end": 726.1599731445312,
+    "speaker": "SPEAKER_05",
+    "text": "permettre aussi une boucle de correction parce"
+  },
+  {
+    "start": 726.1599731445312,
+    "end": 728.3599853515625,
+    "speaker": "SPEAKER_03",
+    "text": "que l’idée c’est de produire unoutil"
+  },
+  {
+    "start": 728.3599853515625,
+    "end": 729.9199829101562,
+    "speaker": "SPEAKER_04",
+    "text": "de donneraccèsaux membres"
+  },
+  {
+    "start": 729.9199829101562,
+    "end": 730.0,
+    "speaker": "SPEAKER_05",
+    "text": "de"
+  },
+  {
+    "start": 730.0,
+    "end": 731.2000122070312,
+    "speaker": "SPEAKER_03",
+    "text": "l’équipe à cetoutil-là"
+  },
+  {
+    "start": 731.2000122070312,
+    "end": 731.3200073242188,
+    "speaker": "SPEAKER_04",
+    "text": "donc"
+  },
+  {
+    "start": 731.3200073242188,
+    "end": 753.3599682617188,
+    "speaker": "SPEAKER_03",
+    "text": "d’avoir une interface dédiée et qu’ils puissenteux-mêmes par la suiteitérer sur le rapport qui est rédigé pour le corriger avec des commentaires qui peuvent mettre sur chacune des sections. générées Donc lesentrées de mon modèle ou de, monoutil ça va être les fichiers PPT donc ça c’est la source principale et nécessaire pour générer le."
+  },
+  {
+    "start": 752.719970703125,
+    "end": 757.9199829101562,
+    "speaker": "SPEAKER_00",
+    "text": "rapport On aégalement ajouter uneoption d’ajouter une"
+  },
+  {
+    "start": 757.9199829101562,
+    "end": 760.1199951171875,
+    "speaker": "SPEAKER_04",
+    "text": "transcription vocale sousformat"
+  },
+  {
+    "start": 760.1199951171875,
+    "end": 762.6399536132812,
+    "speaker": "SPEAKER_05",
+    "text": "TXT donc ici c’est un test qu’on"
+  },
+  {
+    "start": 762.6399536132812,
+    "end": 763.2000122070312,
+    "speaker": "SPEAKER_04",
+    "text": "avait fait avec"
+  },
+  {
+    "start": 763.2000122070312,
+    "end": 765.3599853515625,
+    "speaker": "SPEAKER_03",
+    "text": "général, oui il avait repris des"
+  },
+  {
+    "start": 765.3599853515625,
+    "end": 769.3999633789062,
+    "speaker": "SPEAKER_04",
+    "text": "rapports et c’était enregistré en train il avait repris des"
+  },
+  {
+    "start": 769.3999633789062,
+    "end": 772.0399780273438,
+    "speaker": "SPEAKER_05",
+    "text": "fichiers PPD donc des, slides il s’était enregistré en"
+  },
+  {
+    "start": 772.0399780273438,
+    "end": 772.3200073242188,
+    "speaker": "SPEAKER_04",
+    "text": "train de"
+  },
+  {
+    "start": 772.3200073242188,
+    "end": 775.0,
+    "speaker": "SPEAKER_03",
+    "text": "les présenter quand on a appris"
+  },
+  {
+    "start": 775.0,
+    "end": 778.4400024414062,
+    "speaker": "SPEAKER_04",
+    "text": "cet enregistrement-là qu’on a avec"
+  },
+  {
+    "start": 778.4400024414062,
+    "end": 779.6399536132812,
+    "speaker": "SPEAKER_03",
+    "text": "un modèle de Spitch tout"
+  },
+  {
+    "start": 779.6399536132812,
+    "end": 781.2799682617188,
+    "speaker": "SPEAKER_05",
+    "text": "texte transformé"
+  },
+  {
+    "start": 781.2799682617188,
+    "end": 781.4400024414062,
+    "speaker": "SPEAKER_04",
+    "text": "en"
+  },
+  {
+    "start": 781.4400024414062,
+    "end": 783.6799926757812,
+    "speaker": "SPEAKER_05",
+    "text": "fichier TXT et ensuite on"
+  },
+  {
+    "start": 783.6799926757812,
+    "end": 785.5199584960938,
+    "speaker": "SPEAKER_00",
+    "text": "peut mettre enentrée"
+  },
+  {
+    "start": 785.5199584960938,
+    "end": 791.9199658203125,
+    "speaker": "SPEAKER_03",
+    "text": "donc cette transcription vocale-là enentrée de l’outil pour ajouter un contexte."
+  },
+  {
+    "start": 790.5199584960938,
+    "end": 795.47998046875,
+    "speaker": "SPEAKER_05",
+    "text": "supplémentaire Et donc par la suite la sortie de l’outil"
+  },
+  {
+    "start": 795.47998046875,
+    "end": 796.0,
+    "speaker": "SPEAKER_04",
+    "text": "ça va être"
+  },
+  {
+    "start": 796.0,
+    "end": 799.0399780273438,
+    "speaker": "SPEAKER_03",
+    "text": "le rapport final donc en marque doune etexportable en"
+  },
+  {
+    "start": 799.0399780273438,
+    "end": 805.840009765625,
+    "speaker": "SPEAKER_04",
+    "text": "DOK avec donc sur l’interface une possibilité de corriger une boucle de."
+  },
+  {
+    "start": 805.1599731445312,
+    "end": 810.3599853515625,
+    "speaker": "SPEAKER_05",
+    "text": "correction Donc ça c’était un peu la vision macro de ce que j’ai fait si je"
+  },
+  {
+    "start": 810.3599853515625,
+    "end": 811.0,
+    "speaker": "SPEAKER_00",
+    "text": "veux entrer un"
+  },
+  {
+    "start": 811.0,
+    "end": 816.760009765625,
+    "speaker": "SPEAKER_03",
+    "text": "peu plus dans le, détail j’ai fait une pipeline"
+  },
+  {
+    "start": 816.760009765625,
+    "end": 817.0799560546875,
+    "speaker": "SPEAKER_05",
+    "text": "sur"
+  },
+  {
+    "start": 817.0799560546875,
+    "end": 829.1199951171875,
+    "speaker": "SPEAKER_03",
+    "text": "cinq briques donc la première brique si c’est une pipelineadjentique donc je vais avoir desagents qui vont se charger de chacune des étapes à chaque, étape je vais produire desartefacts"
+  },
+  {
+    "start": 829.1199951171875,
+    "end": 830.0,
+    "speaker": "SPEAKER_05",
+    "text": "que je stocke"
+  },
+  {
+    "start": 830.0,
+    "end": 834.0799560546875,
+    "speaker": "SPEAKER_04",
+    "text": "pour pouvoir les reprendre par la suite si on veut corriger à"
+  },
+  {
+    "start": 834.0799560546875,
+    "end": 837.0399780273438,
+    "speaker": "SPEAKER_03",
+    "text": "la sortie de chacune des étapes modifier quelque chose il est"
+  },
+  {
+    "start": 837.0399780273438,
+    "end": 840.3599853515625,
+    "speaker": "SPEAKER_04",
+    "text": "possible de modifier directement l’artefact pour que"
+  },
+  {
+    "start": 840.3599853515625,
+    "end": 845.760009765625,
+    "speaker": "SPEAKER_03",
+    "text": "ça vienne directement modifier les corriger les résultats de l’étape suivante"
+  },
+  {
+    "start": 845.760009765625,
+    "end": 856.4000073242188,
+    "speaker": "SPEAKER_04",
+    "text": "ça nous permet d’avoir duversionning pour un poc qu’on peut donc par la suite développer encore plus pour avoir un vraiversionning directement sur."
+  },
+  {
+    "start": 855.47998046875,
+    "end": 865.9199829101562,
+    "speaker": "SPEAKER_03",
+    "text": "l’interface Donc la première, étape c’est qui est trèsimportante c’est de prendre le fichier PPT de le traiter comme des figures et d’avoir"
+  },
+  {
+    "start": 865.9199829101562,
+    "end": 867.47998046875,
+    "speaker": "SPEAKER_04",
+    "text": "uneanalyselight par slide"
+  },
+  {
+    "start": 867.47998046875,
+    "end": 869.3200073242188,
+    "speaker": "SPEAKER_03",
+    "text": "du PPT donc de créer"
+  },
+  {
+    "start": 869.3200073242188,
+    "end": 873.719970703125,
+    "speaker": "SPEAKER_05",
+    "text": "des descriptions qui soient assezexhaustives de chacun des slides contenus"
+  },
+  {
+    "start": 873.719970703125,
+    "end": 876.239990234375,
+    "speaker": "SPEAKER_04",
+    "text": "dans le PPT avec une classification qui"
+  },
+  {
+    "start": 876.239990234375,
+    "end": 877.0,
+    "speaker": "SPEAKER_00",
+    "text": "va me permettre de"
+  },
+  {
+    "start": 877.0,
+    "end": 881.5199584960938,
+    "speaker": "SPEAKER_05",
+    "text": "dire si ce slide est un snightanalytique et"
+  },
+  {
+    "start": 881.5199584960938,
+    "end": 881.6799926757812,
+    "speaker": "SPEAKER_00",
+    "text": "le"
+  },
+  {
+    "start": 881.6799926757812,
+    "end": 884.9599609375,
+    "speaker": "SPEAKER_03",
+    "text": "contenu du slide détaillé donc avec de"
+  },
+  {
+    "start": 884.9599609375,
+    "end": 885.760009765625,
+    "speaker": "SPEAKER_04",
+    "text": "l’OCR pour"
+  },
+  {
+    "start": 885.760009765625,
+    "end": 888.1599731445312,
+    "speaker": "SPEAKER_05",
+    "text": "pouvoir enextraire tout le texte et"
+  },
+  {
+    "start": 888.1599731445312,
+    "end": 890.3599853515625,
+    "speaker": "SPEAKER_04",
+    "text": "uneanalyse complète"
+  },
+  {
+    "start": 890.3599853515625,
+    "end": 890.5599975585938,
+    "speaker": "SPEAKER_00",
+    "text": "du"
+  },
+  {
+    "start": 890.5599975585938,
+    "end": 894.9199829101562,
+    "speaker": "SPEAKER_04",
+    "text": "contenu des graphiques s’il y en a avec donc aussi"
+  },
+  {
+    "start": 894.9199829101562,
+    "end": 896.7999877929688,
+    "speaker": "SPEAKER_03",
+    "text": "une notion"
+  },
+  {
+    "start": 896.7999877929688,
+    "end": 897.2799682617188,
+    "speaker": "SPEAKER_00",
+    "text": "de ce"
+  },
+  {
+    "start": 897.2799682617188,
+    "end": 899.5599975585938,
+    "speaker": "SPEAKER_03",
+    "text": "que contient le slide uneanalyse de ce"
+  },
+  {
+    "start": 899.5599975585938,
+    "end": 900.199951171875,
+    "speaker": "SPEAKER_04",
+    "text": "que contient le"
+  },
+  {
+    "start": 900.199951171875,
+    "end": 901.5599975585938,
+    "speaker": "SPEAKER_03",
+    "text": "slide donc tout ça"
+  },
+  {
+    "start": 901.5599975585938,
+    "end": 907.9199658203125,
+    "speaker": "SPEAKER_04",
+    "text": "est fait par pendant unagent qui prend l’image enentrée et qui nous sort une description en."
+  },
+  {
+    "start": 907.239990234375,
+    "end": 918.760009765625,
+    "speaker": "SPEAKER_05",
+    "text": "sortie Ensuite à chaque étape donc je garde l’historique de ce qui est sorti de l’étape précédente donc la deuxième étape va reprendre justement ces descriptions de snigh-là"
+  },
+  {
+    "start": 918.760009765625,
+    "end": 920.9599609375,
+    "speaker": "SPEAKER_04",
+    "text": "pour pouvoir faire un"
+  },
+  {
+    "start": 920.9599609375,
+    "end": 925.719970703125,
+    "speaker": "SPEAKER_05",
+    "text": "assignement des slidestections donc comme je l’avais dit au niveau du"
+  },
+  {
+    "start": 925.719970703125,
+    "end": 929.3200073242188,
+    "speaker": "SPEAKER_04",
+    "text": "rapport nous avions choisi d’avoir quatre sections différentes donc"
+  },
+  {
+    "start": 929.3200073242188,
+    "end": 931.8399658203125,
+    "speaker": "SPEAKER_05",
+    "text": "ici le but de cette brique c’est de pouvoir"
+  },
+  {
+    "start": 931.8399658203125,
+    "end": 934.4400024414062,
+    "speaker": "SPEAKER_03",
+    "text": "dire que telle slide devrait appartenir à"
+  },
+  {
+    "start": 934.4400024414062,
+    "end": 936.6399536132812,
+    "speaker": "SPEAKER_05",
+    "text": "une telle section et descriptive de telle section"
+  },
+  {
+    "start": 936.6399536132812,
+    "end": 936.9199829101562,
+    "speaker": "SPEAKER_00",
+    "text": "et"
+  },
+  {
+    "start": 936.9199829101562,
+    "end": 943.4000073242188,
+    "speaker": "SPEAKER_03",
+    "text": "donc qu’il devrait être cité oumentionné dans telle section ou du moins qu’il devraitvenir enrichir la rédaction de cette."
+  },
+  {
+    "start": 942.3599853515625,
+    "end": 953.6799755859375,
+    "speaker": "SPEAKER_00",
+    "text": "section-là C’est une étape que j’ai ajoutée car elle nous permet justement de ne pas voir apparaître des slidesannexes en introduction."
+  },
+  {
+    "start": 952.6399536132812,
+    "end": 1024.08,
+    "speaker": "SPEAKER_01",
+    "text": "ouautres Et l’idée de faire, oui pardoniste pour mon rang donc en fait les sections donc on est bien sur les sections qui sont prédéfinies en fait dans une structure de rapport donc ces choses qui sont fixées alors j’avoue que je vois à peu près le sujet alors je suis pas dans la partieEd là à fond donc j’ai pas forcément letruc en, tête mais voilà c’est des rapports un petit peu types en tout cas au niveau géral que dont il a été capable de vraiment défier une structure assez fine sa vie et du coup et du coup ma sous-crétion c’était pas le est-ce que par exemple pour que le modèle fonctionne bien est-ce qu’il y aeu un travail justement pour décrire un petit peu plus en détail la structure c’est-à-dire la structure si moi ça me fait juste penser à un sommaire en fait donc c’est sommaire du coup est-ce qu’il y aeu un travail pouraller un petit peu de là c’est-à-dire de dire voilà letruc trois point cinq il s’appelleX et associé à ça un travail description un peu plus détaillée justement pour aider les modèles pour lesagents parce qu’il y avait un travail?,"
+  },
+  {
+    "start": 1022.199951171875,
+    "end": 1036.4000244140625,
+    "speaker": "SPEAKER_04",
+    "text": "là-dessusOui on a établi donc on a déjà les descriptions des différentes sections par exemple l’hypothèse d’un. coupJ’ai travaillé avec des notes des descriptions qui soient, assezexhaustives assez"
+  },
+  {
+    "start": 1036.4000244140625,
+    "end": 1037.239990234375,
+    "speaker": "SPEAKER_05",
+    "text": "courtes aussi pour"
+  },
+  {
+    "start": 1037.239990234375,
+    "end": 1039.3199462890625,
+    "speaker": "SPEAKER_03",
+    "text": "que ça ne vienne pas"
+  },
+  {
+    "start": 1039.3199462890625,
+    "end": 1040.280029296875,
+    "speaker": "SPEAKER_00",
+    "text": "trop prendre"
+  },
+  {
+    "start": 1040.280029296875,
+    "end": 1040.43994140625,
+    "speaker": "SPEAKER_05",
+    "text": "de"
+  },
+  {
+    "start": 1040.43994140625,
+    "end": 1043.1199951171875,
+    "speaker": "SPEAKER_04",
+    "text": "place dans la"
+  },
+  {
+    "start": 1043.1199951171875,
+    "end": 1044.4000244140625,
+    "speaker": "SPEAKER_03",
+    "text": "fenêtre de contexte"
+  },
+  {
+    "start": 1044.4000244140625,
+    "end": 1048.3199462890625,
+    "speaker": "SPEAKER_04",
+    "text": "mais on avait des descriptions pour chacune des sections à laphase de"
+  },
+  {
+    "start": 1048.3199462890625,
+    "end": 1048.4000244140625,
+    "speaker": "SPEAKER_05",
+    "text": "la"
+  },
+  {
+    "start": 1048.4000244140625,
+    "end": 1050.3199462890625,
+    "speaker": "SPEAKER_04",
+    "text": "sélection et la signation"
+  },
+  {
+    "start": 1050.3199462890625,
+    "end": 1052.719970703125,
+    "speaker": "SPEAKER_05",
+    "text": "des slidesaux sections en"
+  },
+  {
+    "start": 1052.719970703125,
+    "end": 1053.679931640625,
+    "speaker": "SPEAKER_04",
+    "text": "plus d’avoir des"
+  },
+  {
+    "start": 1053.679931640625,
+    "end": 1056.6400146484375,
+    "speaker": "SPEAKER_03",
+    "text": "règles un peu une"
+  },
+  {
+    "start": 1056.6400146484375,
+    "end": 1057.280029296875,
+    "speaker": "SPEAKER_00",
+    "text": "surcousse"
+  },
+  {
+    "start": 1057.280029296875,
+    "end": 1057.4000244140625,
+    "speaker": "SPEAKER_03",
+    "text": "de"
+  },
+  {
+    "start": 1057.4000244140625,
+    "end": 1057.9599609375,
+    "speaker": "SPEAKER_04",
+    "text": "règles où"
+  },
+  {
+    "start": 1057.9599609375,
+    "end": 1059.8800048828125,
+    "speaker": "SPEAKER_05",
+    "text": "par exemple j’ai une section qui"
+  },
+  {
+    "start": 1059.8800048828125,
+    "end": 1060.47998046875,
+    "speaker": "SPEAKER_04",
+    "text": "contient la"
+  },
+  {
+    "start": 1060.47998046875,
+    "end": 1063.9599609375,
+    "speaker": "SPEAKER_03",
+    "text": "comparaison des études entreFrance"
+  },
+  {
+    "start": 1063.9599609375,
+    "end": 1067.5999755859375,
+    "speaker": "SPEAKER_04",
+    "text": "et d’autres pays enEurope et on s’était dit que"
+  },
+  {
+    "start": 1067.5999755859375,
+    "end": 1071.0799560546875,
+    "speaker": "SPEAKER_00",
+    "text": "par exemple les graphiques quivenaient d’écrire"
+  },
+  {
+    "start": 1071.0799560546875,
+    "end": 1071.3599853515625,
+    "speaker": "SPEAKER_03",
+    "text": "des"
+  },
+  {
+    "start": 1071.3599853515625,
+    "end": 1074.1199951171875,
+    "speaker": "SPEAKER_04",
+    "text": "résultats qui avaient été faits desanalyses qui"
+  },
+  {
+    "start": 1074.1199951171875,
+    "end": 1076.1600341796875,
+    "speaker": "SPEAKER_03",
+    "text": "avaient été faites sur d’autres pays que laFrance ne"
+  },
+  {
+    "start": 1076.1600341796875,
+    "end": 1080.1199951171875,
+    "speaker": "SPEAKER_04",
+    "text": "devrait pas apparaître en introduction ou dans la section hypothèse de"
+  },
+  {
+    "start": 1080.1199951171875,
+    "end": 1081.719970703125,
+    "speaker": "SPEAKER_05",
+    "text": "coût que ça serait plusvers"
+  },
+  {
+    "start": 1081.719970703125,
+    "end": 1083.9599609375,
+    "speaker": "SPEAKER_04",
+    "text": "la dernière section on compare les"
+  },
+  {
+    "start": 1083.9599609375,
+    "end": 1085.760009765625,
+    "speaker": "SPEAKER_05",
+    "text": "résultatsFranceVS et d’autres"
+  },
+  {
+    "start": 1085.760009765625,
+    "end": 1086.760009765625,
+    "speaker": "SPEAKER_03",
+    "text": "pays maintenant"
+  },
+  {
+    "start": 1086.760009765625,
+    "end": 1087.199951171875,
+    "speaker": "SPEAKER_04",
+    "text": "qu’on avait"
+  },
+  {
+    "start": 1087.199951171875,
+    "end": 1087.8800048828125,
+    "speaker": "SPEAKER_03",
+    "text": "des règles comme"
+  },
+  {
+    "start": 1087.8800048828125,
+    "end": 1092.7999267578125,
+    "speaker": "SPEAKER_05",
+    "text": "ça où dans laphase compréhension et, description j’allais"
+  },
+  {
+    "start": 1092.7999267578125,
+    "end": 1094.47998046875,
+    "speaker": "SPEAKER_04",
+    "text": "récupérer l’information de"
+  },
+  {
+    "start": 1094.47998046875,
+    "end": 1097.199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "quel paysétait traité dans ce slic-là et"
+  },
+  {
+    "start": 1097.199951171875,
+    "end": 1097.6400146484375,
+    "speaker": "SPEAKER_04",
+    "text": "si c’était"
+  },
+  {
+    "start": 1097.6400146484375,
+    "end": 1098.3199462890625,
+    "speaker": "SPEAKER_03",
+    "text": "unautre pays"
+  },
+  {
+    "start": 1098.3199462890625,
+    "end": 1101.0399169921875,
+    "speaker": "SPEAKER_05",
+    "text": "que laFrance dans laphase assignement j’assignais"
+  },
+  {
+    "start": 1101.0399169921875,
+    "end": 1106.799970703125,
+    "speaker": "SPEAKER_04",
+    "text": "automatiquement à la dernière section donc qui estFrance BSautre pays plutôt que hypothèse de."
+  },
+  {
+    "start": 1106.4000244140625,
+    "end": 1113.1999951171874,
+    "speaker": "SPEAKER_05",
+    "text": "coûtJ’ai complété donc on avait une description des hypothèses plus des règles d’assignement."
+  },
+  {
+    "start": 1112.6400146484375,
+    "end": 1202.799970703125,
+    "speaker": "SPEAKER_02",
+    "text": "oui Donc en, fait la partie sélection y assignation on peut apparenter ça de la catégorisation et donc savoir dans quel vraiment chapitre ça doitaller et les chapitresont une structureidentique donc en fait on a comme si on avait deuxtemplates finalement untemplate de ce que va contenir chaque chapitre et untemplate des catégories finalement à signer et pouraller aussi pour le côté interface on a cherché quelque chose de très simple ça a été un, poc c’est vraiment pour démontrer que l’IA peut apporter de la valeur sur la génération de rapports et on a fait ça en vingt-cinq., joursOui incluant les ateliers enamont donc c’est vraiment quelque chose qui a été réalisé rapidement on a un rex aussi sur ce qui fonctionne les suites à donner et donc là on est plutôt enutilisation pour continuer à rédiger le, rapport l’humain passe derrière évidemment puisque ça reste un poc et on vaitérer avecGérald pour savoir s’il y a des suites ou pas sur cette généralisation de rapports qui pourraitégalement intéresser dièse pas que le. côtéRD Tu veux peut-être parler de la partie suivante. oui., BasileOui."
+  },
+  {
+    "start": 1202.3199462890625,
+    "end": 1207.1199951171875,
+    "speaker": "SPEAKER_04",
+    "text": "oui Aussi pour ajouter un détail sur l’assignation donc en"
+  },
+  {
+    "start": 1207.1199951171875,
+    "end": 1218.43994140625,
+    "speaker": "SPEAKER_03",
+    "text": "plus des informations un peu métier sur les différentes sections et les descriptions des. sectionsJ’avaiségalement donc cette partie là c’est la partie la"
+  },
+  {
+    "start": 1218.43994140625,
+    "end": 1219.159912109375,
+    "speaker": "SPEAKER_05",
+    "text": "plus globale"
+  },
+  {
+    "start": 1219.159912109375,
+    "end": 1219.280029296875,
+    "speaker": "SPEAKER_00",
+    "text": "où"
+  },
+  {
+    "start": 1219.280029296875,
+    "end": 1222.1599560546874,
+    "speaker": "SPEAKER_05",
+    "text": "on ne se concentre pas sur une section à la,"
+  },
+  {
+    "start": 1221.760009765625,
+    "end": 1223.0,
+    "speaker": "SPEAKER_00",
+    "text": "fois mais on a où"
+  },
+  {
+    "start": 1223.0,
+    "end": 1224.5599365234375,
+    "speaker": "SPEAKER_04",
+    "text": "on a une vue globale sur"
+  },
+  {
+    "start": 1224.5599365234375,
+    "end": 1224.679931640625,
+    "speaker": "SPEAKER_03",
+    "text": "tous"
+  },
+  {
+    "start": 1224.679931640625,
+    "end": 1228.8399658203125,
+    "speaker": "SPEAKER_05",
+    "text": "les slides donc ici par exemple c’était trèsimportant et"
+  },
+  {
+    "start": 1228.8399658203125,
+    "end": 1231.8800048828125,
+    "speaker": "SPEAKER_00",
+    "text": "ça a ajouté beaucoup de valeur le fait de récupérer les"
+  },
+  {
+    "start": 1231.8800048828125,
+    "end": 1236.3599853515625,
+    "speaker": "SPEAKER_03",
+    "text": "slides qui représentaient en début de"
+  },
+  {
+    "start": 1236.3599853515625,
+    "end": 1237.4000244140625,
+    "speaker": "SPEAKER_04",
+    "text": "section au"
+  },
+  {
+    "start": 1237.4000244140625,
+    "end": 1240.0,
+    "speaker": "SPEAKER_03",
+    "text": "niveau donc du PPT pour"
+  },
+  {
+    "start": 1240.0,
+    "end": 1240.47998046875,
+    "speaker": "SPEAKER_04",
+    "text": "avoir une"
+  },
+  {
+    "start": 1240.47998046875,
+    "end": 1246.799970703125,
+    "speaker": "SPEAKER_00",
+    "text": "notion de structure globale et ne pas assigner des slides de résultats dans l’introduction par."
+  },
+  {
+    "start": 1246.199951171875,
+    "end": 1252.239990234375,
+    "speaker": "SPEAKER_04",
+    "text": "exemple Donc il y avait beaucoup de nuances à prendre en considération pour avoir une bonne classification des"
+  },
+  {
+    "start": 1252.239990234375,
+    "end": 1253.919921875,
+    "speaker": "SPEAKER_05",
+    "text": "figures et des slides et"
+  },
+  {
+    "start": 1253.919921875,
+    "end": 1257.679931640625,
+    "speaker": "SPEAKER_04",
+    "text": "une bonne assignationaux bonnes sections et ensuite donc"
+  },
+  {
+    "start": 1257.679931640625,
+    "end": 1258.3199462890625,
+    "speaker": "SPEAKER_03",
+    "text": "l’étape"
+  },
+  {
+    "start": 1258.3199462890625,
+    "end": 1259.159912109375,
+    "speaker": "SPEAKER_05",
+    "text": "d’après qui est celle"
+  },
+  {
+    "start": 1259.159912109375,
+    "end": 1261.47998046875,
+    "speaker": "SPEAKER_04",
+    "text": "de la rédaction ici la rédaction se"
+  },
+  {
+    "start": 1261.47998046875,
+    "end": 1262.1199951171875,
+    "speaker": "SPEAKER_03",
+    "text": "fait"
+  },
+  {
+    "start": 1262.1199951171875,
+    "end": 1269.5999755859375,
+    "speaker": "SPEAKER_04",
+    "text": "section par section donc je vais avoir unagent qui va rédiger une section enfin chacune des sections séparément et ici"
+  },
+  {
+    "start": 1269.5999755859375,
+    "end": 1270.159912109375,
+    "speaker": "SPEAKER_05",
+    "text": "donc"
+  },
+  {
+    "start": 1270.159912109375,
+    "end": 1276.159912109375,
+    "speaker": "SPEAKER_04",
+    "text": "ça vient après, l’assignation on rédige section par section dans un premier temps je rédige uniquement"
+  },
+  {
+    "start": 1276.159912109375,
+    "end": 1277.8399658203125,
+    "speaker": "SPEAKER_03",
+    "text": "au niveau des bullets points"
+  },
+  {
+    "start": 1277.8399658203125,
+    "end": 1278.0,
+    "speaker": "SPEAKER_05",
+    "text": "donc"
+  },
+  {
+    "start": 1278.0,
+    "end": 1281.47998046875,
+    "speaker": "SPEAKER_04",
+    "text": "je me concentre plus sur le fond que sur laforme et"
+  },
+  {
+    "start": 1281.47998046875,
+    "end": 1282.6400146484375,
+    "speaker": "SPEAKER_05",
+    "text": "une fois le bulletpoint"
+  },
+  {
+    "start": 1282.6400146484375,
+    "end": 1283.919921875,
+    "speaker": "SPEAKER_03",
+    "text": "se, produit je les"
+  },
+  {
+    "start": 1283.919921875,
+    "end": 1286.760009765625,
+    "speaker": "SPEAKER_04",
+    "text": "reprends pour pouvoir rédiger"
+  },
+  {
+    "start": 1286.760009765625,
+    "end": 1293.8800048828125,
+    "speaker": "SPEAKER_03",
+    "text": "la prose donc ajouter un texte qui soit plus lisible et où"
+  },
+  {
+    "start": 1293.8800048828125,
+    "end": 1296.6400146484375,
+    "speaker": "SPEAKER_04",
+    "text": "on ajoute plus d’informes donc ici"
+  },
+  {
+    "start": 1296.6400146484375,
+    "end": 1298.4000244140625,
+    "speaker": "SPEAKER_03",
+    "text": "j’ai apporté"
+  },
+  {
+    "start": 1298.4000244140625,
+    "end": 1303.280029296875,
+    "speaker": "SPEAKER_04",
+    "text": "énormément de valeurégalement de pouvoir séparer le front de laforme au niveau"
+  },
+  {
+    "start": 1303.280029296875,
+    "end": 1322.6399365234374,
+    "speaker": "SPEAKER_05",
+    "text": "de la rédaction et ça facilite aussi la correction puisque c’est plus simple de pouvoir corriger les bonnet Points si on le souhaite plutôt que de corriger un texte. complet Donc ici le fait de rédiger section par section aideégalement au niveau de la boucle de."
+  },
+  {
+    "start": 1321.5999755859375,
+    "end": 1328.7200146484374,
+    "speaker": "SPEAKER_04",
+    "text": "correction Après la rédaction on passe en intégration, d’intégration c’est le fait de regrouper toutes les sections entre."
+  },
+  {
+    "start": 1328.3599853515625,
+    "end": 1334.5599365234375,
+    "speaker": "SPEAKER_00",
+    "text": "ellesJ’ai un dernieragent qui vavenir redire le rapport et enlever tout ce qui est redondance et incohérence entre"
+  },
+  {
+    "start": 1334.5599365234375,
+    "end": 1342.0399169921875,
+    "speaker": "SPEAKER_04",
+    "text": "les différentes sections et à la, fin j’ai une boucle de correction qui permet d’itérer au niveau des sections donc ici on prend, lesartefacts"
+  },
+  {
+    "start": 1342.0399169921875,
+    "end": 1342.199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "les"
+  },
+  {
+    "start": 1342.199951171875,
+    "end": 1344.8800048828125,
+    "speaker": "SPEAKER_00",
+    "text": "bold Trince quiont été la"
+  },
+  {
+    "start": 1344.8800048828125,
+    "end": 1346.280029296875,
+    "speaker": "SPEAKER_05",
+    "text": "sortie de la"
+  },
+  {
+    "start": 1346.280029296875,
+    "end": 1348.199951171875,
+    "speaker": "SPEAKER_00",
+    "text": "brique d’action et"
+  },
+  {
+    "start": 1348.199951171875,
+    "end": 1354.8399658203125,
+    "speaker": "SPEAKER_05",
+    "text": "si on veut corriger par exemple une sélection donnée ici dans l’outil on peut sélectionner une section"
+  },
+  {
+    "start": 1354.8399658203125,
+    "end": 1356.0799560546875,
+    "speaker": "SPEAKER_00",
+    "text": "ajouter un commentaire et"
+  },
+  {
+    "start": 1356.0799560546875,
+    "end": 1360.1199951171875,
+    "speaker": "SPEAKER_04",
+    "text": "ça va directement donc prendre le commentaire et"
+  },
+  {
+    "start": 1360.1199951171875,
+    "end": 1366.239990234375,
+    "speaker": "SPEAKER_00",
+    "text": "l’artefact donc les bulletchpoints concernant la section en question vont"
+  },
+  {
+    "start": 1366.239990234375,
+    "end": 1368.6400146484375,
+    "speaker": "SPEAKER_04",
+    "text": "être envoyés à unagent qui"
+  },
+  {
+    "start": 1368.6400146484375,
+    "end": 1373.840009765625,
+    "speaker": "SPEAKER_05",
+    "text": "se chargera de rediger la section en fonction des commentaires quiont été."
+  },
+  {
+    "start": 1373.3599853515625,
+    "end": 1378.6400146484375,
+    "speaker": "SPEAKER_00",
+    "text": "émis Donc ça permet d’avoir une boucle de correction un peu minimale qu’on"
+  },
+  {
+    "start": 1378.6400146484375,
+    "end": 1380.0,
+    "speaker": "SPEAKER_04",
+    "text": "a réussi à réaliser en"
+  },
+  {
+    "start": 1380.0,
+    "end": 1380.280029296875,
+    "speaker": "SPEAKER_05",
+    "text": "cinq"
+  },
+  {
+    "start": 1380.280029296875,
+    "end": 1387.60001953125,
+    "speaker": "SPEAKER_03",
+    "text": "semaines qu’on peut pousser par la suite plus loin avec une notion de correction plus."
+  },
+  {
+    "start": 1385.919921875,
+    "end": 1391.9199658203124,
+    "speaker": "SPEAKER_05",
+    "text": "globale Donc je ne sais pas si vous avez des questions à ce."
+  },
+  {
+    "start": 1390.52001953125,
+    "end": 1405.760009765625,
+    "speaker": "SPEAKER_01",
+    "text": "niveau-là Moi j’ai une petite question en fait il y a quand même la contrainte d’avoir untemplate au début siadmettons qu’on n’a pas untemplate mais peut-être trois"
+  },
+  {
+    "start": 1405.760009765625,
+    "end": 1406.919921875,
+    "speaker": "SPEAKER_02",
+    "text": "ou quatre façons de"
+  },
+  {
+    "start": 1406.919921875,
+    "end": 1415.9599609375,
+    "speaker": "SPEAKER_01",
+    "text": "faire des présentations est-ce que en fait voilà ce que vous avez fait peut s’adapter facilement où il faut intégrer unagent"
+  },
+  {
+    "start": 1415.9599609375,
+    "end": 1416.0799560546875,
+    "speaker": "SPEAKER_02",
+    "text": "qui"
+  },
+  {
+    "start": 1416.0799560546875,
+    "end": 1420.8800048828125,
+    "speaker": "SPEAKER_01",
+    "text": "va faire la sélection destemplates pour faire la suite au je"
+  },
+  {
+    "start": 1420.8800048828125,
+    "end": 1424.3599853515625,
+    "speaker": "SPEAKER_05",
+    "text": "pense que ça peut s’intégrer assez facilement le besoin"
+  },
+  {
+    "start": 1424.3599853515625,
+    "end": 1428.7999267578125,
+    "speaker": "SPEAKER_04",
+    "text": "d’avoir untemplate iciétait plus un besoin métier"
+  },
+  {
+    "start": 1428.7999267578125,
+    "end": 1429.760009765625,
+    "speaker": "SPEAKER_03",
+    "text": "a vu que le"
+  },
+  {
+    "start": 1429.760009765625,
+    "end": 1431.5599365234375,
+    "speaker": "SPEAKER_00",
+    "text": "rapport final doit"
+  },
+  {
+    "start": 1431.5599365234375,
+    "end": 1432.43994140625,
+    "speaker": "SPEAKER_03",
+    "text": "être structuré"
+  },
+  {
+    "start": 1432.43994140625,
+    "end": 1434.3199462890625,
+    "speaker": "SPEAKER_04",
+    "text": "donc c’était un besoin métier de rédiger des"
+  },
+  {
+    "start": 1434.3199462890625,
+    "end": 1437.159912109375,
+    "speaker": "SPEAKER_03",
+    "text": "rapports qui soient structurés avec untemplate"
+  },
+  {
+    "start": 1437.159912109375,
+    "end": 1438.199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "assez précis"
+  },
+  {
+    "start": 1438.199951171875,
+    "end": 1443.1199951171875,
+    "speaker": "SPEAKER_04",
+    "text": "on ne pouvait pas vraiment sortir de ce, cadre-là mais"
+  },
+  {
+    "start": 1443.1199951171875,
+    "end": 1444.679931640625,
+    "speaker": "SPEAKER_03",
+    "text": "l’outil en lui-même peut"
+  },
+  {
+    "start": 1444.679931640625,
+    "end": 1449.47998046875,
+    "speaker": "SPEAKER_00",
+    "text": "êtreadapté à uneutilisation sanstemplate"
+  },
+  {
+    "start": 1449.47998046875,
+    "end": 1458.9600048828124,
+    "speaker": "SPEAKER_04",
+    "text": "au lieu de rédiger plusieurs, sections on rédigerait une seule mais avec des directives de temps et de. contenu Si je comprends bien la."
+  },
+  {
+    "start": 1458.5999755859375,
+    "end": 1463.1199169921874,
+    "speaker": "SPEAKER_01",
+    "text": "question C’est, parfait. merci."
+  },
+  {
+    "start": 1461.43994140625,
+    "end": 1509.8800048828125,
+    "speaker": "SPEAKER_02",
+    "text": "Merci L’hypothèse donc attend que. moi Si je reviens l’hypothèse d’unagent avec différentstemplates pourrait aussi fonctionner en fait donc je pense que l’outil tel qu’on l’a pensé en fait il prend untemplate donc on peut le faire tourner plusieurs, fois mais avoir multiples, sorties c’est soit une petiteadaptation soit finalement unagent qui permettrait d’orienter la sélection des, chapitres la signation et le contenu de chaque chapitre donc les deux approches peuvent se. faire Donc"
+  },
+  {
+    "start": 1509.8800048828125,
+    "end": 1510.1199951171875,
+    "speaker": "SPEAKER_00",
+    "text": "d’un"
+  },
+  {
+    "start": 1510.1199951171875,
+    "end": 1513.719970703125,
+    "speaker": "SPEAKER_05",
+    "text": "point de vue robustesse même si onétait sur une mission"
+  },
+  {
+    "start": 1513.719970703125,
+    "end": 1516.6400146484375,
+    "speaker": "SPEAKER_03",
+    "text": "assez courte et que le butétait plus de faire un"
+  },
+  {
+    "start": 1516.6400146484375,
+    "end": 1518.679931640625,
+    "speaker": "SPEAKER_04",
+    "text": "poc pour voir si onarrive à"
+  },
+  {
+    "start": 1518.679931640625,
+    "end": 1521.999921875,
+    "speaker": "SPEAKER_05",
+    "text": "automatiser justement cette tâche de,"
+  },
+  {
+    "start": 1520.679931640625,
+    "end": 1524.47998046875,
+    "speaker": "SPEAKER_04",
+    "text": "rédaction-là c’était quand mêmeimportant d’avoir certaines notions"
+  },
+  {
+    "start": 1524.47998046875,
+    "end": 1526.0799560546875,
+    "speaker": "SPEAKER_03",
+    "text": "de robustesse donc"
+  },
+  {
+    "start": 1526.0799560546875,
+    "end": 1526.47998046875,
+    "speaker": "SPEAKER_04",
+    "text": "ici par"
+  },
+  {
+    "start": 1526.47998046875,
+    "end": 1528.919921875,
+    "speaker": "SPEAKER_00",
+    "text": "exemple le fait de"
+  },
+  {
+    "start": 1528.919921875,
+    "end": 1531.2799072265625,
+    "speaker": "SPEAKER_04",
+    "text": "prendre en considération la structure finale"
+  },
+  {
+    "start": 1531.2799072265625,
+    "end": 1531.52001953125,
+    "speaker": "SPEAKER_03",
+    "text": "et"
+  },
+  {
+    "start": 1531.52001953125,
+    "end": 1532.9599609375,
+    "speaker": "SPEAKER_05",
+    "text": "de séparer la rédaction en"
+  },
+  {
+    "start": 1532.9599609375,
+    "end": 1536.679931640625,
+    "speaker": "SPEAKER_00",
+    "text": "section nous permet d’avoir une meilleure gestion"
+  },
+  {
+    "start": 1536.679931640625,
+    "end": 1537.159912109375,
+    "speaker": "SPEAKER_05",
+    "text": "deserreurs"
+  },
+  {
+    "start": 1537.159912109375,
+    "end": 1540.43994140625,
+    "speaker": "SPEAKER_00",
+    "text": "qui peuventarriver et le"
+  },
+  {
+    "start": 1540.43994140625,
+    "end": 1542.1199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "fait, l’assignement"
+  },
+  {
+    "start": 1542.1199951171875,
+    "end": 1543.2799072265625,
+    "speaker": "SPEAKER_04",
+    "text": "l’assignation pardon"
+  },
+  {
+    "start": 1543.2799072265625,
+    "end": 1548.43994140625,
+    "speaker": "SPEAKER_05",
+    "text": "des slides par section nous permet d’avoir aussi une certaine traçabilité pour savoir d’où"
+  },
+  {
+    "start": 1548.43994140625,
+    "end": 1549.5999755859375,
+    "speaker": "SPEAKER_00",
+    "text": "vient uneerreur au niveau d’une"
+  },
+  {
+    "start": 1549.5999755859375,
+    "end": 1556.47998046875,
+    "speaker": "SPEAKER_05",
+    "text": "section donc et pouvoir la corriger assez rapidement donc j’aitenu"
+  },
+  {
+    "start": 1556.47998046875,
+    "end": 1558.52001953125,
+    "speaker": "SPEAKER_00",
+    "text": "àimplémenter des garde-fous comme cela"
+  },
+  {
+    "start": 1558.52001953125,
+    "end": 1560.199951171875,
+    "speaker": "SPEAKER_04",
+    "text": "pour pouvoir avoir des"
+  },
+  {
+    "start": 1560.199951171875,
+    "end": 1567.0399169921875,
+    "speaker": "SPEAKER_05",
+    "text": "notions de robustesse même sur ce pot là et donc le fait d’avoir aussi desartefacts à"
+  },
+  {
+    "start": 1567.0399169921875,
+    "end": 1570.3199462890625,
+    "speaker": "SPEAKER_03",
+    "text": "la sortie de chacune des briques permet"
+  },
+  {
+    "start": 1570.3199462890625,
+    "end": 1571.8399658203125,
+    "speaker": "SPEAKER_04",
+    "text": "très facilement"
+  },
+  {
+    "start": 1571.8399658203125,
+    "end": 1572.0,
+    "speaker": "SPEAKER_00",
+    "text": "de"
+  },
+  {
+    "start": 1572.0,
+    "end": 1574.0,
+    "speaker": "SPEAKER_05",
+    "text": "tracer donc si"
+  },
+  {
+    "start": 1574.0,
+    "end": 1576.52001953125,
+    "speaker": "SPEAKER_04",
+    "text": "on a des hallucinucinations ou"
+  },
+  {
+    "start": 1576.52001953125,
+    "end": 1578.2799072265625,
+    "speaker": "SPEAKER_05",
+    "text": "deserreurs"
+  },
+  {
+    "start": 1578.2799072265625,
+    "end": 1578.5999755859375,
+    "speaker": "SPEAKER_00",
+    "text": "d’avoir"
+  },
+  {
+    "start": 1578.5999755859375,
+    "end": 1579.919921875,
+    "speaker": "SPEAKER_05",
+    "text": "une notion de traçabilité de"
+  },
+  {
+    "start": 1579.919921875,
+    "end": 1588.8800048828125,
+    "speaker": "SPEAKER_00",
+    "text": "savoir à quelle brique on doit corriger l’erreur et donc ça m’a énormément aidéégalement pendant la réalisation de l’outil et pendant enitérant sur"
+  },
+  {
+    "start": 1588.8800048828125,
+    "end": 1591.0,
+    "speaker": "SPEAKER_04",
+    "text": "les prompes et enitérant aussi sur l’architecture"
+  },
+  {
+    "start": 1591.0,
+    "end": 1591.919921875,
+    "speaker": "SPEAKER_05",
+    "text": "d’avoir"
+  },
+  {
+    "start": 1591.919921875,
+    "end": 1596.159912109375,
+    "speaker": "SPEAKER_04",
+    "text": "cesartefact, intermédiaires-là mais ça permet aussi"
+  },
+  {
+    "start": 1596.159912109375,
+    "end": 1597.760009765625,
+    "speaker": "SPEAKER_05",
+    "text": "pour"
+  },
+  {
+    "start": 1597.760009765625,
+    "end": 1597.919921875,
+    "speaker": "SPEAKER_00",
+    "text": "ça"
+  },
+  {
+    "start": 1597.919921875,
+    "end": 1602.1199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "fait une notion d’uneversion qui peut être pousse des plus loin avec"
+  },
+  {
+    "start": 1602.1199951171875,
+    "end": 1607.8800048828125,
+    "speaker": "SPEAKER_00",
+    "text": "cesartefacts-là où on pourrait par exemple avoir une notion deYumanine de loupe ou"
+  },
+  {
+    "start": 1607.8800048828125,
+    "end": 1610.5599365234375,
+    "speaker": "SPEAKER_04",
+    "text": "on peut intervenir à la sortie à la fin de chacune"
+  },
+  {
+    "start": 1610.5599365234375,
+    "end": 1612.4000244140625,
+    "speaker": "SPEAKER_05",
+    "text": "des briques corrigées à"
+  },
+  {
+    "start": 1612.4000244140625,
+    "end": 1613.4000244140625,
+    "speaker": "SPEAKER_03",
+    "text": "la sortie de chacune des"
+  },
+  {
+    "start": 1613.4000244140625,
+    "end": 1628.239912109375,
+    "speaker": "SPEAKER_00",
+    "text": "briques et donc avoir une validation humaine à chacun des niveaux pour avoir un résultat final qui soit. robuste Donc il y a aussi la.."
+  },
+  {
+    "start": 1625.4000244140625,
+    "end": 1632.159912109375,
+    "speaker": "SPEAKER_04",
+    "text": "partieOui Il y a aussi la notion de la correctionitérative donc ici on a"
+  },
+  {
+    "start": 1632.159912109375,
+    "end": 1633.52001953125,
+    "speaker": "SPEAKER_05",
+    "text": "une boucle de correction on"
+  },
+  {
+    "start": 1633.52001953125,
+    "end": 1634.5599365234375,
+    "speaker": "SPEAKER_04",
+    "text": "peut ajouter"
+  },
+  {
+    "start": 1634.5599365234375,
+    "end": 1634.6400146484375,
+    "speaker": "SPEAKER_03",
+    "text": "des"
+  },
+  {
+    "start": 1634.6400146484375,
+    "end": 1637.47998046875,
+    "speaker": "SPEAKER_04",
+    "text": "commentairesaux sections et pouvoir régénérer"
+  },
+  {
+    "start": 1637.47998046875,
+    "end": 1638.0799560546875,
+    "speaker": "SPEAKER_05",
+    "text": "le rapport à la"
+  },
+  {
+    "start": 1638.0799560546875,
+    "end": 1640.47998046875,
+    "speaker": "SPEAKER_04",
+    "text": "base de ces commentaires-là"
+  },
+  {
+    "start": 1640.47998046875,
+    "end": 1646.9600048828124,
+    "speaker": "SPEAKER_03",
+    "text": "et donc au final car unexport deX qui est."
+  },
+  {
+    "start": 1644.919921875,
+    "end": 1650.199951171875,
+    "speaker": "SPEAKER_00",
+    "text": "reproductible On aégalement je ne vous fais pas tout le rex"
+  },
+  {
+    "start": 1650.199951171875,
+    "end": 1652.159912109375,
+    "speaker": "SPEAKER_05",
+    "text": "ici mais on aégalement donc certaines"
+  },
+  {
+    "start": 1652.159912109375,
+    "end": 1653.1199951171875,
+    "speaker": "SPEAKER_00",
+    "text": "limites qui avaient été"
+  },
+  {
+    "start": 1653.1199951171875,
+    "end": 1654.0399169921875,
+    "speaker": "SPEAKER_05",
+    "text": "déjàmentionnées au"
+  },
+  {
+    "start": 1654.0399169921875,
+    "end": 1654.39990234375,
+    "speaker": "SPEAKER_04",
+    "text": "début de"
+  },
+  {
+    "start": 1654.39990234375,
+    "end": 1656.8399658203125,
+    "speaker": "SPEAKER_05",
+    "text": "la mission donc c’était des limites"
+  },
+  {
+    "start": 1656.8399658203125,
+    "end": 1658.239990234375,
+    "speaker": "SPEAKER_03",
+    "text": "qui étaient horscopes mais"
+  },
+  {
+    "start": 1658.239990234375,
+    "end": 1660.39990234375,
+    "speaker": "SPEAKER_00",
+    "text": "qu’il estimportant de garder en"
+  },
+  {
+    "start": 1660.39990234375,
+    "end": 1666.0799560546875,
+    "speaker": "SPEAKER_03",
+    "text": "tête par exemple le fait qu’on n’ait pasimplémenté decheckin chiffré sur"
+  },
+  {
+    "start": 1666.0799560546875,
+    "end": 1668.9599609375,
+    "speaker": "SPEAKER_00",
+    "text": "les valeurs dont on faisait l’extraction"
+  },
+  {
+    "start": 1668.9599609375,
+    "end": 1669.159912109375,
+    "speaker": "SPEAKER_05",
+    "text": "à"
+  },
+  {
+    "start": 1669.159912109375,
+    "end": 1670.39990234375,
+    "speaker": "SPEAKER_00",
+    "text": "partir des"
+  },
+  {
+    "start": 1670.39990234375,
+    "end": 1672.43994140625,
+    "speaker": "SPEAKER_03",
+    "text": "graphiques c’était"
+  },
+  {
+    "start": 1672.43994140625,
+    "end": 1674.239990234375,
+    "speaker": "SPEAKER_00",
+    "text": "horscope l’idée n’était pas de"
+  },
+  {
+    "start": 1674.239990234375,
+    "end": 1693.52001953125,
+    "speaker": "SPEAKER_05",
+    "text": "faire ça dans cette, premièreitération-là mais c’est quelque chose qui peut se faire avec desargentsanti-hallucination ou en vérifiant des intervalles de confiance des différentes valeurs qui. sontextraites On ne peut pas à ce niveau-là aussi donc dans cetteitération-là on"
+  },
+  {
+    "start": 1693.52001953125,
+    "end": 1696.6400146484375,
+    "speaker": "SPEAKER_00",
+    "text": "ne fait pas de reconstruction depuis des données brutes donc"
+  },
+  {
+    "start": 1696.6400146484375,
+    "end": 1699.1199169921874,
+    "speaker": "SPEAKER_04",
+    "text": "on avait à disposition des,"
+  },
+  {
+    "start": 1697.9599609375,
+    "end": 1701.679931640625,
+    "speaker": "SPEAKER_05",
+    "text": "fichiersExcel mais ça ne faisait pas partie du scot de"
+  },
+  {
+    "start": 1701.679931640625,
+    "end": 1702.679931640625,
+    "speaker": "SPEAKER_00",
+    "text": "la missionégalement de"
+  },
+  {
+    "start": 1702.679931640625,
+    "end": 1704.239990234375,
+    "speaker": "SPEAKER_04",
+    "text": "reconstruire des graphiques à partir"
+  },
+  {
+    "start": 1704.239990234375,
+    "end": 1706.8800048828125,
+    "speaker": "SPEAKER_05",
+    "text": "de ces données brutes-là"
+  },
+  {
+    "start": 1706.8800048828125,
+    "end": 1707.239990234375,
+    "speaker": "SPEAKER_00",
+    "text": "et"
+  },
+  {
+    "start": 1707.239990234375,
+    "end": 1707.760009765625,
+    "speaker": "SPEAKER_03",
+    "text": "le fait que"
+  },
+  {
+    "start": 1707.760009765625,
+    "end": 1708.8800048828125,
+    "speaker": "SPEAKER_05",
+    "text": "la correction pour"
+  },
+  {
+    "start": 1708.8800048828125,
+    "end": 1718.47990234375,
+    "speaker": "SPEAKER_04",
+    "text": "l’instant se fasse au niveau des sections est non à un niveau macro donc on ne peut pasimposer un temps global sur tout le rapportaux données en commentaire global sur tout le."
+  },
+  {
+    "start": 1717.9599609375,
+    "end": 1723.4399853515624,
+    "speaker": "SPEAKER_05",
+    "text": "rapport C’est plus des commentaires au niveau des sections pour l’instant mais ça peut."
+  },
+  {
+    "start": 1721.9599609375,
+    "end": 1732.55998046875,
+    "speaker": "SPEAKER_00",
+    "text": "s’implémenterégalement Donc voilà pour ce premier projet pour ce projet qui a été fait avecRTE et."
+  },
+  {
+    "start": 1731.159912109375,
+    "end": 1743.4399853515624,
+    "speaker": "SPEAKER_04",
+    "text": "l’équipeED Je ne sais pas si vous avez des questions déjà à ce, niveau-là sinon je peux passer à la présentation de quelquesautres projets de présentation un peu macro de projets sur lesquels j’ai."
+  },
+  {
+    "start": 1742.2799072265625,
+    "end": 1747.279951171875,
+    "speaker": "SPEAKER_05",
+    "text": "travaillé Ilétait direct pour."
+  },
+  {
+    "start": 1746.3599853515625,
+    "end": 1755.279951171875,
+    "speaker": "SPEAKER_01",
+    "text": "l’appel La durée c’était j’ai beaucoup passé quelques mois si ça c’était entre septembre et il n’y a pas longtemps qu’en fait c’était."
+  },
+  {
+    "start": 1755.0,
+    "end": 1757.0399609375,
+    "speaker": "SPEAKER_02",
+    "text": "ça."
+  },
+  {
+    "start": 1756.239990234375,
+    "end": 1850.47990234375,
+    "speaker": "SPEAKER_01",
+    "text": "Semaine Les vingt-cinq janvier c’est ce que tu veux, etok tu hés à la, pardon j’avais retenu., septansOk., trenteOk. merci Après, ouieffectivement sur les questions. donc Donc làeffectivement alors on est peut-être ces deux cas d’usage qui nous peuvent nous intéresser c’est plus la partieeffectivement un peu synthèse générative ou à peu. près Donc ça c’est vrai que nous on peut avoir aussi des cas d’usage là-dessus à savoir la capacité de pouvoir en fait voilà prendre des sources de données hétérogènes des, spatues. etc Peut-être pour les aider à sthister les choses lire des rapports d’événements par. exempleGenre de. choses Il y a toujours cette question de synthèse et c’est un peu dans les deux sens et s’il y a de tout à l’heure je parlais du tempsentrant donc le sens un peu fronting et là il n’en s’en sortanteffectivement il y a aussi cette question de synthèse d’événements ou synthèse de données donc là je comprends que ça range un petit peu ce qu’a duZalk et donc du coup voilà d’où ma question justement sur l’autre sens sur justement tout ce qui est MCP est-ce que c’est des donc ça c’était pas l’objet de ces travaux-là est-ce qu’il y a des choses sur lesquelles voilà vous avez pueu l’occasion de travailler donc plus dans uneoptique un petit peuorchestration quoi avec plusieurs.,"
+  },
+  {
+    "start": 1848.7999267578125,
+    "end": 1854.5999755859375,
+    "speaker": "SPEAKER_00",
+    "text": "briquesOui ici je peux peut-êtrealler sur"
+  },
+  {
+    "start": 1854.5999755859375,
+    "end": 1855.0,
+    "speaker": "SPEAKER_03",
+    "text": "d’autres"
+  },
+  {
+    "start": 1855.0,
+    "end": 1855.5999755859375,
+    "speaker": "SPEAKER_04",
+    "text": "projets qu’on"
+  },
+  {
+    "start": 1855.5999755859375,
+    "end": 1859.5198974609375,
+    "speaker": "SPEAKER_00",
+    "text": "a fait en interne donc le premier"
+  },
+  {
+    "start": 1859.5198974609375,
+    "end": 1861.3599853515625,
+    "speaker": "SPEAKER_05",
+    "text": "projet c’est unoutil de"
+  },
+  {
+    "start": 1861.3599853515625,
+    "end": 1865.8399658203125,
+    "speaker": "SPEAKER_04",
+    "text": "rédaction àeau où pour le coup on fait de l’orchestration mais"
+  },
+  {
+    "start": 1865.8399658203125,
+    "end": 1867.199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "on est plus surN8N"
+  },
+  {
+    "start": 1867.199951171875,
+    "end": 1867.47998046875,
+    "speaker": "SPEAKER_03",
+    "text": "que"
+  },
+  {
+    "start": 1867.47998046875,
+    "end": 1868.919921875,
+    "speaker": "SPEAKER_05",
+    "text": "sur du MCP donc"
+  },
+  {
+    "start": 1868.919921875,
+    "end": 1871.5198974609375,
+    "speaker": "SPEAKER_00",
+    "text": "ici on a plusieursagents"
+  },
+  {
+    "start": 1871.5198974609375,
+    "end": 1871.8399658203125,
+    "speaker": "SPEAKER_04",
+    "text": "qui sont"
+  },
+  {
+    "start": 1871.8399658203125,
+    "end": 1874.9599609375,
+    "speaker": "SPEAKER_03",
+    "text": "basés sur des racks qui sont"
+  },
+  {
+    "start": 1874.9599609375,
+    "end": 1881.3199462890625,
+    "speaker": "SPEAKER_00",
+    "text": "spécialisés donc soit dans unagent CV l’objectif final"
+  },
+  {
+    "start": 1881.3199462890625,
+    "end": 1883.2799072265625,
+    "speaker": "SPEAKER_05",
+    "text": "c’est d’assister"
+  },
+  {
+    "start": 1883.2799072265625,
+    "end": 1886.679931640625,
+    "speaker": "SPEAKER_00",
+    "text": "à les collaborateurs dans la rédaction de réponsesaux"
+  },
+  {
+    "start": 1886.679931640625,
+    "end": 1887.6400146484375,
+    "speaker": "SPEAKER_05",
+    "text": "appels d’offres donc"
+  },
+  {
+    "start": 1887.6400146484375,
+    "end": 1902.39990234375,
+    "speaker": "SPEAKER_00",
+    "text": "on a développé plusieurs modèles qui sont des modèles au final desagentségalement donc des. règles On a un rack qui est fait sur les CV entermes y, aillé un rack qui est fait sur les références un sur un"
+  },
+  {
+    "start": 1902.39990234375,
+    "end": 1905.5999755859375,
+    "speaker": "SPEAKER_04",
+    "text": "sur les réponses AO de manière générale et ensuite on"
+  },
+  {
+    "start": 1905.5999755859375,
+    "end": 1911.760009765625,
+    "speaker": "SPEAKER_00",
+    "text": "va avoir unoutil qui est modulaire où on peut faire appel à"
+  },
+  {
+    "start": 1911.760009765625,
+    "end": 1914.1199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "chacun de cesoutils-là si"
+  },
+  {
+    "start": 1914.1199951171875,
+    "end": 1916.7999267578125,
+    "speaker": "SPEAKER_00",
+    "text": "on veut récupérer par exemple mettre enentrée"
+  },
+  {
+    "start": 1916.7999267578125,
+    "end": 1918.39990234375,
+    "speaker": "SPEAKER_04",
+    "text": "une réponse"
+  },
+  {
+    "start": 1918.39990234375,
+    "end": 1918.6400146484375,
+    "speaker": "SPEAKER_05",
+    "text": "un"
+  },
+  {
+    "start": 1918.6400146484375,
+    "end": 1923.2799072265625,
+    "speaker": "SPEAKER_00",
+    "text": "appel d’offre et demander à l’outil de nous générer de"
+  },
+  {
+    "start": 1923.2799072265625,
+    "end": 1936.7200146484374,
+    "speaker": "SPEAKER_05",
+    "text": "nous donner la liste de CV intéressants pour cet appel, d’offres-là la liste de références qui pourrait être intéressant pour cet AO ou de rédiger le contexte et la."
+  },
+  {
+    "start": 1935.6400146484375,
+    "end": 1945.6799755859374,
+    "speaker": "SPEAKER_03",
+    "text": "méthode Donc ici on est sur duN8 avec plusieursoutils qui peuvent être questionnés avec."
+  },
+  {
+    "start": 1943.0799560546875,
+    "end": 1948.8399658203125,
+    "speaker": "SPEAKER_00",
+    "text": "uneorchestrationN8N, Ensuite on aégalement unautre projet"
+  },
+  {
+    "start": 1948.8399658203125,
+    "end": 1950.3199462890625,
+    "speaker": "SPEAKER_05",
+    "text": "fin c’est un projet sur lequel"
+  },
+  {
+    "start": 1950.3199462890625,
+    "end": 1957.5999755859375,
+    "speaker": "SPEAKER_00",
+    "text": "je suis en train de travailler actuellement qui est unoutil de génération de résumé de réunion où"
+  },
+  {
+    "start": 1957.5999755859375,
+    "end": 1962.799970703125,
+    "speaker": "SPEAKER_05",
+    "text": "donc là j’en suis au début de l’implémentation de."
+  },
+  {
+    "start": 1962.0,
+    "end": 1972.8399658203125,
+    "speaker": "SPEAKER_00",
+    "text": "l’outil L’objectif final c’est de pouvoir à partir donc d’avoir unoutil qui soit interactif"
+  },
+  {
+    "start": 1972.8399658203125,
+    "end": 1981.760009765625,
+    "speaker": "SPEAKER_05",
+    "text": "donc que ce soit en chatbod pour l’instant c’est là où j’en suis plus avec un MCP faire appel à plusieursoutils qui"
+  },
+  {
+    "start": 1981.760009765625,
+    "end": 1985.9599609375,
+    "speaker": "SPEAKER_00",
+    "text": "sont développés en interne chez elleyégalement ou à desIPI pour"
+  },
+  {
+    "start": 1985.9599609375,
+    "end": 1987.8399658203125,
+    "speaker": "SPEAKER_05",
+    "text": "l’instant je suis plus sur desoutils"
+  },
+  {
+    "start": 1987.8399658203125,
+    "end": 1989.43994140625,
+    "speaker": "SPEAKER_04",
+    "text": "développés en interne"
+  },
+  {
+    "start": 1989.43994140625,
+    "end": 1991.239990234375,
+    "speaker": "SPEAKER_00",
+    "text": "donc unoutil qui peutaller"
+  },
+  {
+    "start": 1991.239990234375,
+    "end": 1992.2799072265625,
+    "speaker": "SPEAKER_05",
+    "text": "chercher directement sur"
+  },
+  {
+    "start": 1992.2799072265625,
+    "end": 1999.5999755859375,
+    "speaker": "SPEAKER_00",
+    "text": "le sherpoint des notes de réunion et générer une synthèse"
+  },
+  {
+    "start": 1999.5999755859375,
+    "end": 1999.7999267578125,
+    "speaker": "SPEAKER_05",
+    "text": "ou"
+  },
+  {
+    "start": 1999.7999267578125,
+    "end": 2012.3599853515625,
+    "speaker": "SPEAKER_00",
+    "text": "unoutil qui peut permettre d’exporter les notes de synthèse qui sont. générées Ensuite l’idée ça serait de pouvoir donc ajouter lesformes augmenter notre"
+  },
+  {
+    "start": 2012.3599853515625,
+    "end": 2016.5999755859375,
+    "speaker": "SPEAKER_05",
+    "text": "liste d’outils qui seraientorchestrés par"
+  },
+  {
+    "start": 2016.5999755859375,
+    "end": 2023.8399658203125,
+    "speaker": "SPEAKER_00",
+    "text": "un MCP notamment en ajoutant donc une possibilité d’enregistrement vocal des réunions ou"
+  },
+  {
+    "start": 2023.8399658203125,
+    "end": 2026.6400146484375,
+    "speaker": "SPEAKER_03",
+    "text": "une possibilité de générer des mindomad par"
+  },
+  {
+    "start": 2026.6400146484375,
+    "end": 2027.679931640625,
+    "speaker": "SPEAKER_05",
+    "text": "exemple donc"
+  },
+  {
+    "start": 2027.679931640625,
+    "end": 2028.0399169921875,
+    "speaker": "SPEAKER_04",
+    "text": "fais ça"
+  },
+  {
+    "start": 2028.0399169921875,
+    "end": 2034.5999755859375,
+    "speaker": "SPEAKER_03",
+    "text": "avec l’interface LM qui servirait et qui va"
+  },
+  {
+    "start": 2034.5999755859375,
+    "end": 2039.3599853515625,
+    "speaker": "SPEAKER_04",
+    "text": "servir de client avec unaccès globalauxoutils qu’on est en train de"
+  },
+  {
+    "start": 2039.3599853515625,
+    "end": 2041.43994140625,
+    "speaker": "SPEAKER_00",
+    "text": "construire petit à petit toujours"
+  },
+  {
+    "start": 2041.43994140625,
+    "end": 2042.43994140625,
+    "speaker": "SPEAKER_05",
+    "text": "autour de ce cas"
+  },
+  {
+    "start": 2042.43994140625,
+    "end": 2043.3199462890625,
+    "speaker": "SPEAKER_03",
+    "text": "d’usage-là qui"
+  },
+  {
+    "start": 2043.3199462890625,
+    "end": 2044.919921875,
+    "speaker": "SPEAKER_00",
+    "text": "est d’augmenter les"
+  },
+  {
+    "start": 2044.919921875,
+    "end": 2047.199951171875,
+    "speaker": "SPEAKER_04",
+    "text": "consultants et d’automatiser la"
+  },
+  {
+    "start": 2047.199951171875,
+    "end": 2054.47990234375,
+    "speaker": "SPEAKER_05",
+    "text": "génération de synthèse et de la compréhension de manière générale des réunions qu’on."
+  },
+  {
+    "start": 2053.47998046875,
+    "end": 2073.119873046875,
+    "speaker": "SPEAKER_01",
+    "text": "fait Donc c’est du coup ça c’est un travail que vous faites pour entre guillemets gagner en souveraineté par rapport à l’association de l’apparence ça fait penser à notre bouquet typiquement ou d’autres marché c’est pour gagner en souveraineté on va dire au sein des sureau"
+  },
+  {
+    "start": 2073.119873046875,
+    "end": 2077.56005859375,
+    "speaker": "SPEAKER_04",
+    "text": "pour gagner des notions de confidentialité et"
+  },
+  {
+    "start": 2077.56005859375,
+    "end": 2078.199951171875,
+    "speaker": "SPEAKER_00",
+    "text": "gagner peut-être"
+  },
+  {
+    "start": 2078.199951171875,
+    "end": 2080.159912109375,
+    "speaker": "SPEAKER_04",
+    "text": "en précision aussi parce qu’àterme on"
+  },
+  {
+    "start": 2080.159912109375,
+    "end": 2082.9599609375,
+    "speaker": "SPEAKER_03",
+    "text": "voudrait peut-être avoir le LNM"
+  },
+  {
+    "start": 2082.9599609375,
+    "end": 2084.639892578125,
+    "speaker": "SPEAKER_04",
+    "text": "qui soit en rac directement sur"
+  },
+  {
+    "start": 2084.639892578125,
+    "end": 2086.9599609375,
+    "speaker": "SPEAKER_03",
+    "text": "des donnéesopen data"
+  },
+  {
+    "start": 2086.9599609375,
+    "end": 2092.159912109375,
+    "speaker": "SPEAKER_04",
+    "text": "énergie donc avoir unagent qui soit vraiment spécialisé dans nos sujets à nous et qui"
+  },
+  {
+    "start": 2092.159912109375,
+    "end": 2093.159912109375,
+    "speaker": "SPEAKER_05",
+    "text": "puisse générer"
+  },
+  {
+    "start": 2093.159912109375,
+    "end": 2094.159912109375,
+    "speaker": "SPEAKER_00",
+    "text": "des synthèses et"
+  },
+  {
+    "start": 2094.159912109375,
+    "end": 2101.0399609375,
+    "speaker": "SPEAKER_04",
+    "text": "même augmenter les synthèses et faire des propositions plus complètes et mieuxadapter à notre."
+  },
+  {
+    "start": 2100.320068359375,
+    "end": 2129.52001953125,
+    "speaker": "SPEAKER_02",
+    "text": "contexte C’est aussi pour cloisonner c’est-à-dire que si onutilise cetoutil par exemple au sein deRTE c’est pour que ça reste côtéRTE et que ce ne soit pas finalement côté gaillé donc il y a tout cet aspect aussi on cherche à avoir une souveraineté qui soitliée à l’outil et à l’environnement dans lequel l’outil. estutilisé Donc"
+  },
+  {
+    "start": 2129.52001953125,
+    "end": 2130.43994140625,
+    "speaker": "SPEAKER_00",
+    "text": "pour les"
+  },
+  {
+    "start": 2130.43994140625,
+    "end": 2132.239990234375,
+    "speaker": "SPEAKER_05",
+    "text": "deux missionsorchestration au"
+  },
+  {
+    "start": 2132.239990234375,
+    "end": 2134.919921875,
+    "speaker": "SPEAKER_03",
+    "text": "sein de sur lesquelles j’ai"
+  },
+  {
+    "start": 2134.919921875,
+    "end": 2138.639892578125,
+    "speaker": "SPEAKER_05",
+    "text": "travaillé ces deux cas d’usage-là sinon"
+  },
+  {
+    "start": 2138.639892578125,
+    "end": 2139.9599609375,
+    "speaker": "SPEAKER_04",
+    "text": "on a unautre projet qui"
+  },
+  {
+    "start": 2139.9599609375,
+    "end": 2141.0400390625,
+    "speaker": "SPEAKER_03",
+    "text": "est en courségalement qui"
+  },
+  {
+    "start": 2141.0400390625,
+    "end": 2142.760009765625,
+    "speaker": "SPEAKER_00",
+    "text": "est unagent de"
+  },
+  {
+    "start": 2142.760009765625,
+    "end": 2145.0400390625,
+    "speaker": "SPEAKER_04",
+    "text": "planification de pok et"
+  },
+  {
+    "start": 2145.0400390625,
+    "end": 2148.0400390625,
+    "speaker": "SPEAKER_03",
+    "text": "donc on n’est pas sur de l’orchestration"
+  },
+  {
+    "start": 2148.0400390625,
+    "end": 2148.199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "parce"
+  },
+  {
+    "start": 2148.199951171875,
+    "end": 2150.800048828125,
+    "speaker": "SPEAKER_04",
+    "text": "que ça se fait autobre l’accès à"
+  },
+  {
+    "start": 2150.800048828125,
+    "end": 2153.599853515625,
+    "speaker": "SPEAKER_03",
+    "text": "unoutil qui va faire de lawebSir tu pourrais récupérer"
+  },
+  {
+    "start": 2153.599853515625,
+    "end": 2156.119873046875,
+    "speaker": "SPEAKER_04",
+    "text": "de la bibliographie à"
+  },
+  {
+    "start": 2156.119873046875,
+    "end": 2156.639892578125,
+    "speaker": "SPEAKER_05",
+    "text": "partir d’un"
+  },
+  {
+    "start": 2156.639892578125,
+    "end": 2162.0,
+    "speaker": "SPEAKER_00",
+    "text": "sujet donné et de proposer uneodmap pour mettre"
+  },
+  {
+    "start": 2162.0,
+    "end": 2163.56005859375,
+    "speaker": "SPEAKER_05",
+    "text": "en place un projet donné se fait"
+  },
+  {
+    "start": 2163.56005859375,
+    "end": 2167.0400390625,
+    "speaker": "SPEAKER_04",
+    "text": "automatiquement pour l’instant on n’a pas encoreimplémenté de, MCP"
+  },
+  {
+    "start": 2167.0400390625,
+    "end": 2168.119873046875,
+    "speaker": "SPEAKER_05",
+    "text": "mais àterme l’idée ça"
+  },
+  {
+    "start": 2168.119873046875,
+    "end": 2171.639892578125,
+    "speaker": "SPEAKER_00",
+    "text": "serait d’avoir unagent qui peut où"
+  },
+  {
+    "start": 2171.639892578125,
+    "end": 2173.52001953125,
+    "speaker": "SPEAKER_05",
+    "text": "on peututiliser plusieursoutils"
+  },
+  {
+    "start": 2173.52001953125,
+    "end": 2176.719970703125,
+    "speaker": "SPEAKER_00",
+    "text": "donc dans un premier temps faire de"
+  },
+  {
+    "start": 2176.719970703125,
+    "end": 2178.8798828125,
+    "speaker": "SPEAKER_03",
+    "text": "la bibliographie grâce à"
+  },
+  {
+    "start": 2178.8798828125,
+    "end": 2190.159833984375,
+    "speaker": "SPEAKER_05",
+    "text": "cetoutil-là mais aussi avoiraccès à plusieursoutils de simulation pour pouvoir mettre en place l’époque justement sur lesquelles on veut."
+  },
+  {
+    "start": 2189.639892578125,
+    "end": 2195.83984375,
+    "speaker": "SPEAKER_03",
+    "text": "travailler Donc l’idée c’est de vraiment pouvoir avoir une pipeline un peu un twend qui"
+  },
+  {
+    "start": 2195.83984375,
+    "end": 2196.919921875,
+    "speaker": "SPEAKER_05",
+    "text": "propose"
+  },
+  {
+    "start": 2196.919921875,
+    "end": 2197.199951171875,
+    "speaker": "SPEAKER_04",
+    "text": "un"
+  },
+  {
+    "start": 2197.199951171875,
+    "end": 2198.52001953125,
+    "speaker": "SPEAKER_00",
+    "text": "poc minimal sur"
+  },
+  {
+    "start": 2198.52001953125,
+    "end": 2200.0,
+    "speaker": "SPEAKER_03",
+    "text": "un sujet donné on"
+  },
+  {
+    "start": 2200.0,
+    "end": 2208.08,
+    "speaker": "SPEAKER_04",
+    "text": "fait beaucoup de hackaton par exemple au sein deID et ça nous permettrait d’aller plus vite sur ce genre de."
+  },
+  {
+    "start": 2206.43994140625,
+    "end": 2277.239912109375,
+    "speaker": "SPEAKER_02",
+    "text": "sujet-là Donc, là c’est aussi une aide pour avoir un côté démonstrateur donc enallant chercher assez rapidement tout ce qui est état de l’art comprendre finalement comment des problématiques peuvent être résolues en étant tout dettes sur la partie recherche et développement en se basant sur duRKEVX par exemple ou d’autres types de sources qui permettent d’avoir ces nouvelles tendances et potentiellement d’arriver à en faire un pox c’est-à-dire que lesagents codent et puissent avoir uneffet mêmeQuickanderty mais apporter cette démonstration et ensuite évidemment c’est de faire l’ingénierie logicielle qui va.. derrièreOkEst-ce que vous avez des questions par rapport à ça ou Maya je crois que tu avais encore une ou deux un ou deux projets à?"
+  },
+  {
+    "start": 2275.639892578125,
+    "end": 2281.56005859375,
+    "speaker": "SPEAKER_05",
+    "text": "présenter Il en rester un, projet je n’ai pas vomis tous les projets sur"
+  },
+  {
+    "start": 2281.56005859375,
+    "end": 2282.9599609375,
+    "speaker": "SPEAKER_00",
+    "text": "lesquels j’allais travaillé mais"
+  },
+  {
+    "start": 2282.9599609375,
+    "end": 2285.199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "il me restait un"
+  },
+  {
+    "start": 2285.199951171875,
+    "end": 2287.199951171875,
+    "speaker": "SPEAKER_03",
+    "text": "projet sur lequel j’avais travaillé"
+  },
+  {
+    "start": 2287.199951171875,
+    "end": 2288.83984375,
+    "speaker": "SPEAKER_00",
+    "text": "pour le coup avant de"
+  },
+  {
+    "start": 2288.83984375,
+    "end": 2290.0400390625,
+    "speaker": "SPEAKER_03",
+    "text": "rejoindreYéley mais"
+  },
+  {
+    "start": 2290.0400390625,
+    "end": 2293.39990234375,
+    "speaker": "SPEAKER_00",
+    "text": "qui est toujours sûr de lier générative"
+  },
+  {
+    "start": 2293.39990234375,
+    "end": 2297.47998046875,
+    "speaker": "SPEAKER_05",
+    "text": "donc j’ai ajouté ce projet-là parce qu’au"
+  },
+  {
+    "start": 2297.47998046875,
+    "end": 2298.8798828125,
+    "speaker": "SPEAKER_03",
+    "text": "coup"
+  },
+  {
+    "start": 2298.8798828125,
+    "end": 2299.0,
+    "speaker": "SPEAKER_04",
+    "text": "c’est"
+  },
+  {
+    "start": 2299.0,
+    "end": 2304.119873046875,
+    "speaker": "SPEAKER_00",
+    "text": "un projet quiétait hébergé donc en prem et"
+  },
+  {
+    "start": 2304.119873046875,
+    "end": 2307.639892578125,
+    "speaker": "SPEAKER_03",
+    "text": "où j’ai travaillé sur l’objectif du projetétait de"
+  },
+  {
+    "start": 2307.639892578125,
+    "end": 2309.39990234375,
+    "speaker": "SPEAKER_04",
+    "text": "pouvoirextraire des informations à"
+  },
+  {
+    "start": 2309.39990234375,
+    "end": 2314.56005859375,
+    "speaker": "SPEAKER_00",
+    "text": "partir de documents scannésadministocumentsadministratifs"
+  },
+  {
+    "start": 2314.56005859375,
+    "end": 2315.52001953125,
+    "speaker": "SPEAKER_05",
+    "text": "scannés"
+  },
+  {
+    "start": 2315.52001953125,
+    "end": 2319.9599609375,
+    "speaker": "SPEAKER_00",
+    "text": "de pouvoir enextraire donc par exemple des salaires nets brut total"
+  },
+  {
+    "start": 2319.9599609375,
+    "end": 2321.679931640625,
+    "speaker": "SPEAKER_03",
+    "text": "de les classifier le"
+  },
+  {
+    "start": 2321.679931640625,
+    "end": 2324.0,
+    "speaker": "SPEAKER_00",
+    "text": "métier de la, personne etc et"
+  },
+  {
+    "start": 2324.0,
+    "end": 2326.199951171875,
+    "speaker": "SPEAKER_04",
+    "text": "d’avoir unoutilVLM"
+  },
+  {
+    "start": 2326.199951171875,
+    "end": 2326.43994140625,
+    "speaker": "SPEAKER_00",
+    "text": "qui"
+  },
+  {
+    "start": 2326.43994140625,
+    "end": 2333.0399609375,
+    "speaker": "SPEAKER_04",
+    "text": "puisse nous dire si estimer un pourcentage de conformité du."
+  },
+  {
+    "start": 2332.35986328125,
+    "end": 2338.079833984375,
+    "speaker": "SPEAKER_05",
+    "text": "document Donc ici l’idée c’est par exemple d’extraire le salaire et le métier de la personne et"
+  },
+  {
+    "start": 2338.079833984375,
+    "end": 2338.83984375,
+    "speaker": "SPEAKER_03",
+    "text": "de regarder par"
+  },
+  {
+    "start": 2338.83984375,
+    "end": 2341.119873046875,
+    "speaker": "SPEAKER_00",
+    "text": "rapport à tous les documents qu’on"
+  },
+  {
+    "start": 2341.119873046875,
+    "end": 2342.159912109375,
+    "speaker": "SPEAKER_05",
+    "text": "a déjà sur lesquels on a"
+  },
+  {
+    "start": 2342.159912109375,
+    "end": 2344.0400390625,
+    "speaker": "SPEAKER_00",
+    "text": "déjà travaillé si"
+  },
+  {
+    "start": 2344.0400390625,
+    "end": 2345.119873046875,
+    "speaker": "SPEAKER_05",
+    "text": "le salaire par rapport au"
+  },
+  {
+    "start": 2345.119873046875,
+    "end": 2351.43986328125,
+    "speaker": "SPEAKER_00",
+    "text": "métier est tout le temps dans une intervalle de confiance donc ça nous donne une notion de conformité dans le."
+  },
+  {
+    "start": 2350.800048828125,
+    "end": 2357.719970703125,
+    "speaker": "SPEAKER_05",
+    "text": "document C’est unoutil de détection de froide et donc ici j’avais"
+  },
+  {
+    "start": 2357.719970703125,
+    "end": 2361.83984375,
+    "speaker": "SPEAKER_00",
+    "text": "travaillé sur toute la partie prétraitement des documents qui"
+  },
+  {
+    "start": 2361.83984375,
+    "end": 2363.9599609375,
+    "speaker": "SPEAKER_03",
+    "text": "étaient quand même assez prenantes mais"
+  },
+  {
+    "start": 2363.9599609375,
+    "end": 2371.760009765625,
+    "speaker": "SPEAKER_00",
+    "text": "la partieégalement la partie donc apprentissage et fin une journée du modèle du"
+  },
+  {
+    "start": 2371.760009765625,
+    "end": 2374.679931640625,
+    "speaker": "SPEAKER_05",
+    "text": "visuo lingo du modèle donc ici je vais travailler sur leFining"
+  },
+  {
+    "start": 2374.679931640625,
+    "end": 2378.39990234375,
+    "speaker": "SPEAKER_00",
+    "text": "deQuendInfibeVL et donc"
+  },
+  {
+    "start": 2378.39990234375,
+    "end": 2380.159912109375,
+    "speaker": "SPEAKER_05",
+    "text": "en récupérant la sortie structurée"
+  },
+  {
+    "start": 2380.159912109375,
+    "end": 2380.800048828125,
+    "speaker": "SPEAKER_03",
+    "text": "de"
+  },
+  {
+    "start": 2380.800048828125,
+    "end": 2382.56005859375,
+    "speaker": "SPEAKER_05",
+    "text": "toutes les informations qu’on"
+  },
+  {
+    "start": 2382.56005859375,
+    "end": 2387.0,
+    "speaker": "SPEAKER_00",
+    "text": "voulaitextraire et ensuite sur la partie contrôle d’anomalie et"
+  },
+  {
+    "start": 2387.0,
+    "end": 2388.8798828125,
+    "speaker": "SPEAKER_05",
+    "text": "aussi sur le"
+  },
+  {
+    "start": 2388.8798828125,
+    "end": 2393.39990234375,
+    "speaker": "SPEAKER_00",
+    "text": "déploiement du modèle avecVLM etUVCorn et"
+  },
+  {
+    "start": 2393.39990234375,
+    "end": 2393.639892578125,
+    "speaker": "SPEAKER_05",
+    "text": "sur"
+  },
+  {
+    "start": 2393.639892578125,
+    "end": 2394.35986328125,
+    "speaker": "SPEAKER_00",
+    "text": "un Dashboard donc"
+  },
+  {
+    "start": 2394.35986328125,
+    "end": 2396.159912109375,
+    "speaker": "SPEAKER_03",
+    "text": "qui permettait"
+  },
+  {
+    "start": 2396.159912109375,
+    "end": 2406.52001953125,
+    "speaker": "SPEAKER_00",
+    "text": "de monitorer toute cette chaîne de traitement-là et les résultats qu’onobtenait en prod pour pouvoir détecter des drifts par exemple en performance donc"
+  },
+  {
+    "start": 2406.52001953125,
+    "end": 2410.199951171875,
+    "speaker": "SPEAKER_05",
+    "text": "c’est un projet que j’ai cité parce qu’il sort un peu du lot"
+  },
+  {
+    "start": 2410.199951171875,
+    "end": 2412.0,
+    "speaker": "SPEAKER_00",
+    "text": "de ce qu’on a cité des"
+  },
+  {
+    "start": 2412.0,
+    "end": 2414.919921875,
+    "speaker": "SPEAKER_05",
+    "text": "projets que je citais avant"
+  },
+  {
+    "start": 2414.919921875,
+    "end": 2415.599853515625,
+    "speaker": "SPEAKER_00",
+    "text": "dix-huitans parce"
+  },
+  {
+    "start": 2415.599853515625,
+    "end": 2416.52001953125,
+    "speaker": "SPEAKER_05",
+    "text": "que ici c’est un"
+  },
+  {
+    "start": 2416.52001953125,
+    "end": 2420.56005859375,
+    "speaker": "SPEAKER_00",
+    "text": "modèle qui est hébergé en local et"
+  },
+  {
+    "start": 2420.56005859375,
+    "end": 2420.760009765625,
+    "speaker": "SPEAKER_05",
+    "text": "c’est"
+  },
+  {
+    "start": 2420.760009765625,
+    "end": 2421.079833984375,
+    "speaker": "SPEAKER_04",
+    "text": "aussi un"
+  },
+  {
+    "start": 2421.079833984375,
+    "end": 2422.39990234375,
+    "speaker": "SPEAKER_03",
+    "text": "modèle il"
+  },
+  {
+    "start": 2422.39990234375,
+    "end": 2441.0400390625,
+    "speaker": "SPEAKER_00",
+    "text": "y aeu un travail de file chauni donc pour dire que il y a peut-être des projets qui peuvent nécessiter que je filtonine sur lesquels on peutégalement intervenir. chezYelVoilà et ici enfin le finang c’était par rapport à la qualité des données enentrée mais aussi"
+  },
+  {
+    "start": 2441.0400390625,
+    "end": 2441.760009765625,
+    "speaker": "SPEAKER_05",
+    "text": "parce que les documents"
+  },
+  {
+    "start": 2441.760009765625,
+    "end": 2449.0399609375,
+    "speaker": "SPEAKER_00",
+    "text": "étaient souvent rédigés enarabe donc ça le filetooningétait assezadéquat pour ce cas."
+  },
+  {
+    "start": 2447.9599609375,
+    "end": 2461.0399609375,
+    "speaker": "SPEAKER_05",
+    "text": "d’usage-làEst-ce que vous avez des questions?,"
+  },
+  {
+    "start": 2458.800048828125,
+    "end": 2471.759931640625,
+    "speaker": "SPEAKER_01",
+    "text": "ouiOui pardon là sur le scan c’est tu l’as peut-être dit vous l’a peut-être dit et pardon c’était manuscrit ou pas."
+  },
+  {
+    "start": 2470.0,
+    "end": 2476.08,
+    "speaker": "SPEAKER_04",
+    "text": "lesentrées Il pouvait avoir des documents manuscrits."
+  },
+  {
+    "start": 2475.639892578125,
+    "end": 2481.31982421875,
+    "speaker": "SPEAKER_00",
+    "text": "oui, D’accord c’était assez horigène que j’avais unagent"
+  },
+  {
+    "start": 2481.31982421875,
+    "end": 2485.119873046875,
+    "speaker": "SPEAKER_05",
+    "text": "qui faisait d’abord la classification en manuscrit"
+  },
+  {
+    "start": 2485.119873046875,
+    "end": 2485.35986328125,
+    "speaker": "SPEAKER_00",
+    "text": "ou"
+  },
+  {
+    "start": 2485.35986328125,
+    "end": 2486.0400390625,
+    "speaker": "SPEAKER_03",
+    "text": "rédigeait"
+  },
+  {
+    "start": 2486.0400390625,
+    "end": 2490.079833984375,
+    "speaker": "SPEAKER_00",
+    "text": "donc en non manuscrit et ensuite unagent"
+  },
+  {
+    "start": 2490.079833984375,
+    "end": 2492.119873046875,
+    "speaker": "SPEAKER_05",
+    "text": "quivenait faire la classification sur le type de"
+  },
+  {
+    "start": 2492.119873046875,
+    "end": 2493.599853515625,
+    "speaker": "SPEAKER_00",
+    "text": "document et"
+  },
+  {
+    "start": 2493.599853515625,
+    "end": 2496.0,
+    "speaker": "SPEAKER_04",
+    "text": "il en avait certains cas où on"
+  },
+  {
+    "start": 2496.0,
+    "end": 2497.47998046875,
+    "speaker": "SPEAKER_03",
+    "text": "avait des modèles qui défunt"
+  },
+  {
+    "start": 2497.47998046875,
+    "end": 2498.639892578125,
+    "speaker": "SPEAKER_05",
+    "text": "une journée spécialement pour"
+  },
+  {
+    "start": 2498.639892578125,
+    "end": 2507.60001953125,
+    "speaker": "SPEAKER_00",
+    "text": "ces cas-là d’autres cas où un coin tout pointfive poitrand et non fineétait."
+  },
+  {
+    "start": 2506.52001953125,
+    "end": 2511.43986328125,
+    "speaker": "SPEAKER_04",
+    "text": "suffisant Mais on avait donc les deux."
+  },
+  {
+    "start": 2509.280029296875,
+    "end": 2521.0400390625,
+    "speaker": "SPEAKER_05",
+    "text": "possibilitésEst-ce que"
+  },
+  {
+    "start": 2521.0400390625,
+    "end": 2561.280029296875,
+    "speaker": "SPEAKER_02",
+    "text": "ça vous inspire certaines choses par rapport à des cas d’usage donc peut-être que le texte n’est pas trop votre sujet à part pour les rapports côté actif peut-être ou les synthèses à générer est-ce que ça vous inspire quelque chose est-ce que vous vouliez partager les cas d’usage qu’on pourrait peut-êtreessayer de réfléchir et de rebondir sur notre vision pour vous la? partager Alorseffectivement"
+  },
+  {
+    "start": 2561.280029296875,
+    "end": 2700.880048828125,
+    "speaker": "SPEAKER_01",
+    "text": "c’est pour ça qu’on a cet échange-là donceffectivement on est bien sur le même type de cas d’usage après là nos vues de ce que je vois c’est vrai qu’on est peut-être pluseffectivement sur des choses assezorientées parce que alors je parlais un peu de la, partieorchestration etc parce que va être nous qui peut nous intéresser ça peut être de travailler peut-être plus sur la partie MCP en tant que. telle, Là c’est les travaux à s’orienterNLP alors encore une, fois ce n’est pas le premiertruc auquel j’avais pensé par rapport au MCP mais c’est aussi les cas d’usage qu’on a comme je le disais le fait de pouvoir synthétiser les choses ou le fait de justement de synthétiser des sources de données assez disparates n’importe quoi des blocs d’alarme des messages ou des petites choses assez fragmentées puis Derruel estallait synthétiser donc ça correspondait à ce qui a été fait. ici Je parlais là de l’aspect manuscrit parce que mon sais aussi des choses qu’on regarde même si on a déjà des travaux en cours là-dessus donc mais peut-être dans un temps un peu plus moyenterme on va dire peut-êtrearriver à continuer sur ces questions-là de texte. manuscritVoilà je vois le coheneffectivement c’est ce qu’on avait vu là de potentialité pour les notes manuscrits de dispatcher en fait c’est quelusage c’est un périle ce quiressentait un peu notre beichman donc c’est pour ça que je le voilà et ça me fait. penserVoilà donc ça voudrait que là de ce que je vois c’est que ça m’évoque plus un travail assez focalisé enNLP encore une, fois c’est aussi des choses qu’on a peut-être moins MCP, voilà c’est un petit retour comme ça à chaud parce qu’après encore une, fois c’est vrai que sur, leNCP il y a la question du LLM mais finalement il y a aussi la question du serveur MCP en tant que. tel Je pense le fait la capacité finalement de dire on a desoutils d’études qui peuvent être voilà assez complexes donc commentarriver à faire cette interaction à. l’élèmeVoilà c’est un premier retour à chaud donc moi je vois des connexions avec certains cas d’usage qu’on a peut-être moins sur la MCP mais voilà comme ça à chaud ça reste."
+  },
+  {
+    "start": 2699.8798828125,
+    "end": 2705.639892578125,
+    "speaker": "SPEAKER_05",
+    "text": "pertinent Mais je vous rejoins aussi sur le MCP ça"
+  },
+  {
+    "start": 2705.639892578125,
+    "end": 2708.079833984375,
+    "speaker": "SPEAKER_00",
+    "text": "a faitégalement partie de notre feuille de route"
+  },
+  {
+    "start": 2708.079833984375,
+    "end": 2713.199951171875,
+    "speaker": "SPEAKER_03",
+    "text": "entermes justement d’avoir des serveurs MCP où on peut directement se"
+  },
+  {
+    "start": 2713.199951171875,
+    "end": 2715.919921875,
+    "speaker": "SPEAKER_05",
+    "text": "brancher sur desoutils de simulation justement"
+  },
+  {
+    "start": 2715.919921875,
+    "end": 2718.0400390625,
+    "speaker": "SPEAKER_00",
+    "text": "l’idée"
+  },
+  {
+    "start": 2718.0400390625,
+    "end": 2723.43986328125,
+    "speaker": "SPEAKER_03",
+    "text": "du poc de l’outil qui puisse perdu un."
+  },
+  {
+    "start": 2721.639892578125,
+    "end": 2729.280029296875,
+    "speaker": "SPEAKER_00",
+    "text": "pocNoën L’idée n’est pas uniquement d’avoir une proposition d’un"
+  },
+  {
+    "start": 2729.280029296875,
+    "end": 2731.639892578125,
+    "speaker": "SPEAKER_03",
+    "text": "plan de travail mais plutôt d’appliquer par la suite le"
+  },
+  {
+    "start": 2731.639892578125,
+    "end": 2733.9599609375,
+    "speaker": "SPEAKER_00",
+    "text": "plan de travail donc de prendre le"
+  },
+  {
+    "start": 2733.9599609375,
+    "end": 2736.8798828125,
+    "speaker": "SPEAKER_03",
+    "text": "plan de travail qui est généré par le premieragent"
+  },
+  {
+    "start": 2736.8798828125,
+    "end": 2737.919921875,
+    "speaker": "SPEAKER_00",
+    "text": "comme des directives"
+  },
+  {
+    "start": 2737.919921875,
+    "end": 2739.280029296875,
+    "speaker": "SPEAKER_05",
+    "text": "et d’aller chercher dans"
+  },
+  {
+    "start": 2739.280029296875,
+    "end": 2740.800048828125,
+    "speaker": "SPEAKER_04",
+    "text": "via un MCP"
+  },
+  {
+    "start": 2740.800048828125,
+    "end": 2740.9599609375,
+    "speaker": "SPEAKER_00",
+    "text": "dans"
+  },
+  {
+    "start": 2740.9599609375,
+    "end": 2742.35986328125,
+    "speaker": "SPEAKER_04",
+    "text": "lesoutils internes"
+  },
+  {
+    "start": 2742.35986328125,
+    "end": 2742.599853515625,
+    "speaker": "SPEAKER_00",
+    "text": "qu’on"
+  },
+  {
+    "start": 2742.599853515625,
+    "end": 2745.280029296875,
+    "speaker": "SPEAKER_05",
+    "text": "a ou lesoutils de simulation quiexistent"
+  },
+  {
+    "start": 2745.280029296875,
+    "end": 2754.64005859375,
+    "speaker": "SPEAKER_04",
+    "text": "de récupérer le bonoutil et de faire la simulation avec les données quiont été proposées par le premieragent donc c’est complètement dans notre feuille de."
+  },
+  {
+    "start": 2753.079833984375,
+    "end": 2759.800048828125,
+    "speaker": "SPEAKER_05",
+    "text": "routeégalement Mais"
+  },
+  {
+    "start": 2759.800048828125,
+    "end": 2771.239912109375,
+    "speaker": "SPEAKER_01",
+    "text": "non mais je réagissaiseffectivement plus sur la dans l’immédiat encore une fois à chose sur les travaux que je voyais aprèseux je comprends si vous avez ça dans votre."
+  },
+  {
+    "start": 2770.800048828125,
+    "end": 2871.0400390625,
+    "speaker": "SPEAKER_02",
+    "text": "patrie Si pour ça qu’on avait évoqué avecGérald puisque sur la partie rentabilité des moyens de production en, fait on aeu un scope qui a été ciblé sur les moyens de production mais finalement on a une matrice en attente avec un certain nombre d’études à dérouler et donc l’idée c’était aussi d’avoir finalement ce MCP qui puisse préparer toutes les, simulations lesorchestrer et brancher derrière l’outil de génération de rapports et c’est aussi ce qu’on avait en tête qui pouvait potentiellement intéresser, dèse c’est-à-dire qu’il y a le côté finalement pré-rapport puisque de toute façon il faut toujours qu’il soit, relu ça passe devant des, comités mais ça pourrait aussi faire toute cette partieamont qui est de préparer les, scénarios les, études de les, lancer de faire uncheckpoint sur est-ce que finalement l’étude est équilibrée d’avoir un contrôle humain pour dire ce qu’il faut, modifier voire potentiellement unagent quiarrive à le modifier et de continuer finalement à aider cette partie lancement des simulations deNT et que l’humain puisse derrière avoir la valeur. ajoutée L’étude on sait qu’il y a les, robustes on a l’étude de sensibilité qui a été, faite on a les sorties, d’analyse on a les premiers, résultats on a finalement un, pré-rapport on n’a plus qu’à travailler et donner la bonne direction pour finalement le BP ou le futur., énergétiqueOuieffectivement c’est"
+  },
+  {
+    "start": 2871.0400390625,
+    "end": 2975.1200390625,
+    "speaker": "SPEAKER_01",
+    "text": "intéressant oui cetteorchestration d’études donc nous en tout, cas alors évidemment le contexte n’est pas le dumentaire donc il y a d’autres types d’outils mais on sera bien un peu sur ce type de choses-là c’est-à-dire savoir naviguer entre des, hypothèses etc parce que c’est la problématique qu’on peut avoir souvent en temps réel donc récupérer des hypothèses un petit peu à droite à gauche parce que passer déjà récupérer les données d’entrée de l’étude, consommation, production, programmation machin et échange sur chacune de ces choses-làarriver à se dire des stratégies un petit peu d’hypothèse de scénario et puis derrièrevenir jongler entre un simulateur unoutil, d’études unoutil de, visualisation voilà ce genre de. choses Donc vous voyez çaressemble un petit peu à ce que vous évoquez sur des échanges différentes mais çaressemble un petit peu à., çaOk bon enfin en tout cas moi j’ai une bonne vision donc c’est vrai que sur le comme disait on aura peut-être plus parlé de la partieNP mais encore une fois qui est aussi très intéressante pour nous et aussi de ce que vous avez vu dans le futur sur la MCP donc en tout cas moi de mon point de, vue j’ai une bonne vision et puis voilà on peut alorseffectivement vous avez travaillé avec le géral qui est pas très loin de nos. bureauxVoilà donc très. bien En tout cas, voilà pour, moi c’était bon j’avais près du réponses à mes questions."
+  },
+  {
+    "start": 2974.280029296875,
+    "end": 3017.0399609375,
+    "speaker": "SPEAKER_02",
+    "text": "éventuelles Très, bien est-ce que vous voulez qu’on fasse une petite réflexion sur un cas d’usage un peu plusorienté sur par exemple le MCP votre si vous présentez finalement le cas d’usage dans lequel vous voulez intégrer un MCP on pourrait peut-être y réfléchir nous de notre côté et présenter notre vision et puis potentiellement avoir un second échange ou est-ce que finalement vous préférez qu’on se refasse un point sur nos avancées sur nos travaux et qu’on vous représente ce que l’on peut faire côté."
+  },
+  {
+    "start": 3014.760009765625,
+    "end": 3159.1200390625,
+    "speaker": "SPEAKER_01",
+    "text": "MCP Alors il y a plusieurs possibilités alors sur le cas d’usage que l’on réfléchirait comme je faisais donc à l’EMCP mais il y en a d’autres aussi donc à. voir Alors je réfléchis un peu tôt mais moi je pense que nous on peut comme je dis on n’a pas là comme ça d’idée de besoins encore. clairs Donc peut-être qu’au regard de ce qu’on a vu, aujourd’hui il faut tout simplement qu’on regarde et puis qu’on tienne tout simplement informer si jamais il y a quelque chose de plus précis qui se dégage que ce soit MCP ou plusNLP voilà après sur l’avancée de vos, travaux ça peut être intéressant donc avoir un focus MCP même si là voilà pour être transparent sur le MCP on va on a quand même déjà des actions qui sont prévues pourexplorer cette chose-là donc ce ne serait pas non plus tout de suite c’est-à-dire que si vous nous présentez vos travaux sur la partie, MCP clairement enfin là ce n’était pas du tout de. suiteVoilà donc l’aurait tendance à dire que le plus problématique c’est peut-être qu’on revient tout simplementvers vous si on a quelque chose d’un peu plus précis voilà pour éviter qu’on discute mais sans qu’il yait quelque chose de précis, derrière je pense que c’est pas forcément souhaitable non plus voilà sinon on n’a pas de quoi concrétiser autant qu’on attende voilà moi j’aurais tendance à partir là-dessus et puis voilà on tiens on a vos contacts donc on revientvers vous en tout cas voilà ce qui a été présenté ça pourrait entrer plutôt patronage de ce qu’on fait après avoir dans l’agenda et dans l’ordonnancement et tout ça des projets qu’on mène parce que aussi pour faire avancer tous ces, projets-là il faut que nous-mêmes soyons, dispos il faut qu’on travaille avec lesopérateurs aussi donc ça c’est peut-être un petit peu une particularité c’est qu’on peut avoir des fois un petit boulot d’étranglement sur le fait que lesopérateurs et c’est en quantité, finie on va dire leur temps de disposition en tout cas il y a plein d’autres travaux aussi au cours donc voilà on ne peut pas non plus trop pencherempiler les, choses même si voilà on peut vous solliciter en tant que, partenaireexterne, voilà donc ça peut pas le contexte.."
+  },
+  {
+    "start": 3157.199951171875,
+    "end": 3228.239912109375,
+    "speaker": "SPEAKER_02",
+    "text": "doncVoilà Alors j’ai une information aussi à vous, donner je pense que c’est peut-être intéressant nous côté galet on travaille aussi avec de l’huileUX design et donc on est en contact avec certains cabinets et on a discuté avecOlivier Maserol pour justement mettre un petit peu ce type de nouvelleUX nouvelleU pour la contrôleroom du, futur donc ça peut être aussi des choses qu’on pourrait. envisagerVoilà c’est simplement une information et deuxièmement c’est plutôt une proposition si vous voulez peut-être qu’on fasse un atelier purement design où on pourrait réfléchir à des cas, d’usage les, prioriser. etc C’est aussi quelque chose qui nous ferait plaisir et qui pourrait peut-êtreaboutir sur vous une, vision nous un partage et après., onverraOk je note le."
+  },
+  {
+    "start": 3226.599853515625,
+    "end": 3256.39982421875,
+    "speaker": "SPEAKER_01",
+    "text": "point Il faut voir en pratique là comme, ça je peux pas vous dire mais je peux pas vous dire, oui je comprends l’intérêt du, point je ne m’attends pas de répons tout de suite., dessinOuais, d’accord ça. marcheOk en tout cas c’est, oui c’est intéressant que vous ayez de discuter laisse ma partieUX. avecOlivierVoilà on n’a pas parlé mais bon il a dû vous en, parler je pense aussi bien voir mieux.,, quoiOkécoutez très, vite elle se doté en tout."
+  },
+  {
+    "start": 3255.8798828125,
+    "end": 3276.8798046875,
+    "speaker": "SPEAKER_02",
+    "text": "casEh, bien merci beaucoup à moins que d’autres personnes veuillent aussi s’exprimer ou. non Très, bien merci. beaucoup Très bon. après-midi. Bonweek-end Au. revoir"
+  }
+]

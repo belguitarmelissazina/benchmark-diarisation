@@ -1,0 +1,27 @@
+{
+  "pipeline": "pyannote_onnx_extended",
+  "file_id": "IS1009a",
+  "input_file": "benchmarks\\ami\\IS1009a.wav",
+  "audio_duration": 838.8333125,
+  "params": {
+    "onset": 0.5,
+    "offset": 0.5,
+    "min_duration_on": 0.5,
+    "min_duration_off": 0.3,
+    "num_speakers": null
+  },
+  "timings": {
+    "time_conversion": 1.6093504999298602,
+    "time_model_load": 13.721182800014503,
+    "time_diarization": 83.10082779999357
+  },
+  "results": {
+    "num_speakers": 7,
+    "num_segments": 103,
+    "transcribed": false,
+    "num_words": 0,
+    "num_turns": 0,
+    "total_time": 98.81849019997753,
+    "rtf": 0.1178046802951421
+  }
+}

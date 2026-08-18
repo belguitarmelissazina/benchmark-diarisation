@@ -1,0 +1,37 @@
+{
+  "pipeline_name": "diar_pipeline__silero__resnet34__nmesc__sc__enhanced__w1.2__h0.6__vbx_Fa0.05_Fb5.0__auto_1-20",
+  "file_id": "IS1009a",
+  "input_file": "benchmarks\\ami\\IS1009a.wav",
+  "audio_duration": 838.8333125,
+  "params": {
+    "embed": "resnet34",
+    "estimate": "nmesc",
+    "cluster": "sc",
+    "enhance": true,
+    "win_len": 1.2,
+    "hop_len": 0.6,
+    "refine_vbx": true,
+    "vbx_Fa": 0.05,
+    "vbx_Fb": 5.0,
+    "num_speakers": null,
+    "min_speakers": 1,
+    "max_speakers": 20
+  },
+  "timings": {
+    "time_conversion": 0.7147456000093371,
+    "time_vad": 26.36244129994884,
+    "time_embeddings": 120.02964339999016,
+    "time_similarity": 0.4611552000278607,
+    "time_clustering": 18.31242570001632,
+    "time_vbx": 2.065009400015697
+  },
+  "results": {
+    "num_speakers": 5,
+    "num_segments": 83,
+    "transcribed": false,
+    "num_words": 0,
+    "num_turns": 0,
+    "total_time": 287.3381088000024,
+    "rtf": 0.3425449425031059
+  }
+}

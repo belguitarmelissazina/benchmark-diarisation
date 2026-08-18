@@ -1,0 +1,96 @@
+{
+  "exec_summary": "La réunion a débuté par un tour de table entre **SPEAKER_00** (DataIa Manager) et ses collaborateurs (**Maya**, **Della**, **Dinka**) pour identifier les besoins en IA générative au sein d’Élé Consulting, tandis que **SPEAKER_02** (Bruno), pilote de la feuille de route Smart Cockpit, a souligné l’intérêt croissant pour des interfaces conversationnelles fluides et des solutions techniques comme les LLM ou MCP. Après une exploration informelle des compétences en IA générative (**SPEAKER_01**) – incluant la transformation multimodale, le fine-tuning local et l’orchestration de modèles –, les échanges se sont concentrés sur l’automatisation de rapports (ex : génération de fiches synthétiques à partir de PowerPoint) et des ajustements méthodologiques pour une meilleure assignation des slides. La discussion a aussi abordé la validation d’un outil multi-templates avec garde-fous, ainsi que des projets comme la détection de fraudes via des VLM ou l’orchestration de données énergétiques à travers le MCP (Machine Processed Content), soulignant la nécessité d’une souveraineté technique et d’une traçabilité robuste. Aucune décision formelle n’a été prise pour avancer sur ces pistes, mais des pistes techniques et collaboratives ont émergé sans engagement explicite.",
+  "n_sections": 11,
+  "n_decisions_total": 0,
+  "n_actions_total": 0,
+  "sections_summary": [
+    {
+      "chunk_id": 0,
+      "titre": "Tour de table sur les besoins en IA générative et échanges entre R&D et pratique DataIa",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 0.0,
+      "end_time": 38.0
+    },
+    {
+      "chunk_id": 1,
+      "titre": "Prise de contact et exploration des besoins sans décision formelle",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 38.0,
+      "end_time": 45.0
+    },
+    {
+      "chunk_id": 2,
+      "titre": "Présentation des compétences en IA générative chez Ely",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 45.0,
+      "end_time": 60.0
+    },
+    {
+      "chunk_id": 3,
+      "titre": "Automatisation de la rédaction des rapports d'études EOD – Pipeline et structure des fichiers PPT",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 60.0,
+      "end_time": 97.0
+    },
+    {
+      "chunk_id": 4,
+      "titre": "Validation et ajustements du processus de catégorisation et d’assignation dans les rapports générés par IA",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 97.0,
+      "end_time": 128.0
+    },
+    {
+      "chunk_id": 5,
+      "titre": "Validation de l'approche technique pour un outil d'agent multi-templates avec garde-fous robustes",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 128.0,
+      "end_time": 153.0
+    },
+    {
+      "chunk_id": 6,
+      "titre": "Analyse des cas d’usage pour une synthèse avancée de données et événements via orchestration MCP",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 153.0,
+      "end_time": 175.0
+    },
+    {
+      "chunk_id": 7,
+      "titre": "Amélioration des synthèses et intégration d’une pipeline automatisée pour projets ID",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 175.0,
+      "end_time": 185.0
+    },
+    {
+      "chunk_id": 8,
+      "titre": "Présentation de projets liés à l'extraction d'informations et au contrôle de conformité via des modèles VLM",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 185.0,
+      "end_time": 205.0
+    },
+    {
+      "chunk_id": 9,
+      "titre": "Analyse des cas d’usage NLP, MCP et orchestration dans le cadre des rapports énergétiques",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 205.0,
+      "end_time": 235.0
+    },
+    {
+      "chunk_id": 10,
+      "titre": "Orientation des échanges sur le cas d’usage MCP et proposition d’atelier UX",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 235.0,
+      "end_time": 266.0
+    }
+  ]
+}

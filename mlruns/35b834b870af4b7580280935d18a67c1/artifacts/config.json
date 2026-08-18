@@ -1,0 +1,36 @@
+{
+  "pipeline_name": "diar_pipeline__silero__resnet34__nmesc__sc__enhanced__w1.2__h0.6__auto_1-20",
+  "file_id": "033a_EBRH",
+  "input_file": "benchmarks\\summre\\033a_EBRH\\033a_EBRH.wav",
+  "audio_duration": 1267.427625,
+  "params": {
+    "embed": "resnet34",
+    "estimate": "nmesc",
+    "cluster": "sc",
+    "enhance": true,
+    "win_len": 1.2,
+    "hop_len": 0.6,
+    "refine_vbx": false,
+    "vbx_Fa": 0.05,
+    "vbx_Fb": 5.0,
+    "num_speakers": null,
+    "min_speakers": 1,
+    "max_speakers": 20
+  },
+  "timings": {
+    "time_conversion": 0.27920009999070317,
+    "time_vad": 26.569508900051005,
+    "time_embeddings": 250.8431884999154,
+    "time_similarity": 0.5407631999114528,
+    "time_clustering": 22.33346870006062
+  },
+  "results": {
+    "num_speakers": 4,
+    "num_segments": 200,
+    "transcribed": false,
+    "num_words": 0,
+    "num_turns": 0,
+    "total_time": 345.8129981000675,
+    "rtf": 0.2728463474196939
+  }
+}

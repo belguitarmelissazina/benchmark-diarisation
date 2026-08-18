@@ -1,0 +1,96 @@
+{
+  "exec_summary": "Le groupe discute autour de la feuille de route Smart Cockpit, mettant en avant l'intérêt des assistants opérateurs avec IA générative. Ils abordent les briques de calcul et études, ainsi que les compétences d'industrielsisation de contenus complexes. SPEAKER_01 propose automatiquement la création et rédaction des rapports EOD rentabilité, en intégrant plusieurs briques de traitement automatisé. La discussion évolue vers le coût des projets, l'interface utilisateur, la génération de rapports par IA, ainsi que la robustesse des outils. Les participants discutent également de l'automatisation de la rédaction et de l'orchestrage de réunions, soulignant les projets en cours sur le développement d'outils d'orchestration (N8) et de génération de synthèses. Ils abordent ensuite les cas d'utilisation MCP, avancées des travaux et la nécessité de clarifier les besoins.",
+  "n_sections": 11,
+  "n_decisions_total": 5,
+  "n_actions_total": 9,
+  "sections_summary": [
+    {
+      "chunk_id": 0,
+      "titre": "Définition de la feuille de route Smart Cockpit",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 0.0,
+      "end_time": 38.0
+    },
+    {
+      "chunk_id": 1,
+      "titre": "Discussion des briques de calcul et études",
+      "n_decisions": 0,
+      "n_actions": 1,
+      "start_time": 38.0,
+      "end_time": 45.0
+    },
+    {
+      "chunk_id": 2,
+      "titre": "Présentation des compétences et projets IHM",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 45.0,
+      "end_time": 60.0
+    },
+    {
+      "chunk_id": 3,
+      "titre": "Automatisation du rapport sur les études EOD rentabilité",
+      "n_decisions": 2,
+      "n_actions": 2,
+      "start_time": 60.0,
+      "end_time": 97.0
+    },
+    {
+      "chunk_id": 4,
+      "titre": "Analyse du coût et structure des rapports",
+      "n_decisions": 1,
+      "n_actions": 4,
+      "start_time": 97.0,
+      "end_time": 128.0
+    },
+    {
+      "chunk_id": 5,
+      "titre": "Discussion sur l'automatisation de la rédaction et robustesse des outils",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 128.0,
+      "end_time": 153.0
+    },
+    {
+      "chunk_id": 6,
+      "titre": "Synthèse et orchestration de réunions",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 153.0,
+      "end_time": 175.0
+    },
+    {
+      "chunk_id": 7,
+      "titre": "Discussion sur les outils et projets",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 175.0,
+      "end_time": 185.0
+    },
+    {
+      "chunk_id": 8,
+      "titre": "Analyse de projets",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 185.0,
+      "end_time": 205.0
+    },
+    {
+      "chunk_id": 9,
+      "titre": "Discussion sur les cas d'usage, MCP et orchestrage",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 205.0,
+      "end_time": 235.0
+    },
+    {
+      "chunk_id": 10,
+      "titre": "Discussion sur le cas d'usage MCP et avancées des travaux",
+      "n_decisions": 2,
+      "n_actions": 2,
+      "start_time": 235.0,
+      "end_time": 266.0
+    }
+  ]
+}

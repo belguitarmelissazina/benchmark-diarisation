@@ -1,0 +1,37 @@
+{
+  "pipeline_name": "diar_pipeline__silero__resnet34__nmesc__sc__enhanced__w1.2__h0.6__auto_1-20",
+  "file_id": "018a_EARZ",
+  "input_file": "benchmarks\\summre\\018a_EARZ\\018a_EARZ.wav",
+  "audio_duration": 1317.715875,
+  "params": {
+    "embed": "resnet34",
+    "estimate": "nmesc",
+    "cluster": "sc",
+    "enhance": true,
+    "win_len": 1.2,
+    "hop_len": 0.6,
+    "refine_vbx": false,
+    "vbx_Fa": 0.4,
+    "vbx_Fb": 17.0,
+    "num_speakers": null,
+    "min_speakers": 1,
+    "max_speakers": 20
+  },
+  "timings": {
+    "time_conversion": 0.39190940000116825,
+    "time_vad": 19.4664009999251,
+    "time_embeddings": 103.50984509999398,
+    "time_similarity": 0.20688770001288503,
+    "time_clustering": 9.512443999992684,
+    "time_transcription": 46.938418700010516
+  },
+  "results": {
+    "num_speakers": 4,
+    "num_segments": 186,
+    "transcribed": true,
+    "num_words": 2538,
+    "num_turns": 85,
+    "total_time": 209.5509343999438,
+    "rtf": 0.159025885910302
+  }
+}

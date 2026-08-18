@@ -1,0 +1,96 @@
+{
+  "exec_summary": "Cette réunion vise à établir une collaboration structurée autour des enjeux liés à l’intelligence artificielle générative et ses applications opérationnelles au sein de RTE. Les participants, experts en Data & IA (comme Nordine ou Maya) ainsi que spécialistes des systèmes interactifs pour les opérateurs (Bruno Mélière, Dinka), explorent d’abord un besoin flou de prise de contact pour mieux identifier leurs attentes et compétences communes, sans encore définir de mission précise. L’accent est mis sur l’exploration des interfaces conversationnelles fluides entre humains et outils, notamment via des modèles comme les LLM ou MCP, afin d’améliorer la gestion des tâches techniques (études énergétiques, orchestration de projets) ou la production automatisée de documents synthétiques (rapports de rentabilité).\n\nSi aucune décision claire n’a été prise pour orienter une mission spécifique, l’objectif immédiat reste de clarifier les attentes et d’affiner un cadre commun pour des échanges futurs, notamment en croisant les expertises sur des cas concrets comme la gestion des congestions ou l’automatisation partielle des synthèses de données. La réunion marque ainsi une étape préliminaire vers une collaboration plus ciblée, sans engagement immédiat sur des livrables définis.",
+  "n_sections": 11,
+  "n_decisions_total": 0,
+  "n_actions_total": 0,
+  "sections_summary": [
+    {
+      "chunk_id": 0,
+      "titre": "Présentation des participants et discussion préliminaire sur les besoins en IA générative",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 0.0,
+      "end_time": 38.0
+    },
+    {
+      "chunk_id": 1,
+      "titre": "Prise de contact et exploration des besoins pour une collaboration future",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 38.0,
+      "end_time": 45.0
+    },
+    {
+      "chunk_id": 2,
+      "titre": "Présentation des projets d'intelligence artificielle générative chez Ely et compétences clés",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 45.0,
+      "end_time": 60.0
+    },
+    {
+      "chunk_id": 3,
+      "titre": "Automatisation de la rédaction des rapports d'études de rentabilité des moyens de production",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 60.0,
+      "end_time": 97.0
+    },
+    {
+      "chunk_id": 4,
+      "titre": "Stratégie de catégorisation et d’assignation pour les rapports via un POG (Proof of Concept)",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 97.0,
+      "end_time": 128.0
+    },
+    {
+      "chunk_id": 5,
+      "titre": "Robustesse et gestion des artefacts dans un outil d'automatisation de rédaction multi-templates",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 128.0,
+      "end_time": 153.0
+    },
+    {
+      "chunk_id": 6,
+      "titre": "Cas d’usage de synthèse générative et orchestration d’agents pour la gestion de réunions",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 153.0,
+      "end_time": 175.0
+    },
+    {
+      "chunk_id": 7,
+      "titre": "Amélioration des synthèses et propositions pour l’orchestration et la planification des projets",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 175.0,
+      "end_time": 185.0
+    },
+    {
+      "chunk_id": 8,
+      "titre": "Présentation de projets liés à l'état de l'art, au traitement automatisé des documents administratifs et à la détection de conformité",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 185.0,
+      "end_time": 205.0
+    },
+    {
+      "chunk_id": 9,
+      "titre": "Échanges sur les cas d’usage NLP, MCP et orchestration des études énergétiques",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 205.0,
+      "end_time": 235.0
+    },
+    {
+      "chunk_id": 10,
+      "titre": "Décisions et pistes de réflexion sur les cas d’usage MCP et NLP",
+      "n_decisions": 0,
+      "n_actions": 0,
+      "start_time": 235.0,
+      "end_time": 266.0
+    }
+  ]
+}

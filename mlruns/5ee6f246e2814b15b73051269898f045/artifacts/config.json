@@ -1,0 +1,28 @@
+{
+  "pipeline": "pyannote_onnx_extended",
+  "file_id": "018a_EARZ",
+  "input_file": "benchmarks\\summre\\018a_EARZ\\018a_EARZ.wav",
+  "audio_duration": 1317.715875,
+  "params": {
+    "onset": 0.5,
+    "offset": 0.5,
+    "min_duration_on": 0.5,
+    "min_duration_off": 0.3,
+    "num_speakers": null
+  },
+  "timings": {
+    "time_conversion": 0.3630725999828428,
+    "time_model_load": 4.242049099993892,
+    "time_diarization": 65.07199490000494,
+    "time_transcription": 115.67663639993407
+  },
+  "results": {
+    "num_speakers": 4,
+    "num_segments": 237,
+    "transcribed": true,
+    "num_words": 2538,
+    "num_turns": 67,
+    "total_time": 186.0167095999932,
+    "rtf": 0.14116602306243992
+  }
+}

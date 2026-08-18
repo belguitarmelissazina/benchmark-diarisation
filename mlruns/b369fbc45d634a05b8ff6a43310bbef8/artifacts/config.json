@@ -1,0 +1,36 @@
+{
+  "pipeline_name": "diar_pipeline__silero__resnet34__nmesc__sc__enhanced__w1.2__h0.6__auto_1-20",
+  "file_id": "TS3003a",
+  "input_file": "benchmarks\\ami\\sdm\\TS3003a.wav",
+  "audio_duration": 1505.642625,
+  "params": {
+    "embed": "resnet34",
+    "estimate": "nmesc",
+    "cluster": "sc",
+    "enhance": true,
+    "win_len": 1.2,
+    "hop_len": 0.6,
+    "refine_vbx": false,
+    "vbx_Fa": 0.05,
+    "vbx_Fb": 5.0,
+    "num_speakers": null,
+    "min_speakers": 1,
+    "max_speakers": 20
+  },
+  "timings": {
+    "time_conversion": 1.4368235999718308,
+    "time_vad": 23.29448219994083,
+    "time_embeddings": 66.02836599992588,
+    "time_similarity": 0.176708500017412,
+    "time_clustering": 2.540445699938573
+  },
+  "results": {
+    "num_speakers": 2,
+    "num_segments": 224,
+    "transcribed": false,
+    "num_words": 0,
+    "num_turns": 0,
+    "total_time": 120.26097549998667,
+    "rtf": 0.07987351945484851
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "pipeline_name": "diar_pipeline__silero__resnet34__nmesc__sc__enhanced__w1.2__h0.6__vbx_Fa0.05_Fb5.0__auto_1-20",
+  "file_id": "069c_EEPL",
+  "input_file": "benchmarks\\summre\\069c_EEPL\\069c_EEPL.wav",
+  "audio_duration": 1261.3080625,
+  "params": {
+    "embed": "resnet34",
+    "estimate": "nmesc",
+    "cluster": "sc",
+    "enhance": true,
+    "win_len": 1.2,
+    "hop_len": 0.6,
+    "refine_vbx": true,
+    "vbx_Fa": 0.05,
+    "vbx_Fb": 5.0,
+    "num_speakers": null,
+    "min_speakers": 1,
+    "max_speakers": 20
+  },
+  "timings": {
+    "time_conversion": 0.3437136000720784,
+    "time_vad": 25.508300799992867,
+    "time_embeddings": 193.94293500005733,
+    "time_similarity": 0.5563167999498546,
+    "time_clustering": 25.252278300002217,
+    "time_vbx": 0.1789244000101462,
+    "time_transcription": 82.24316139996517
+  },
+  "results": {
+    "num_speakers": 3,
+    "num_segments": 111,
+    "transcribed": true,
+    "num_words": 3011,
+    "num_turns": 65,
+    "total_time": 358.2737682000734,
+    "rtf": 0.2840493760818035
+  }
+}
