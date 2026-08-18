@@ -1,0 +1,566 @@
+[00:04.00 - 00:18.40]  SPEAKER_00 : On attend encore une ou deux minutes et on y. va
+[00:18.40 - 00:31.68]  SPEAKER_01 : Et je l’ai reçu dans des invitations àouvrir lesressources qui pourraient de laquelle en premier alors je sais pas ce que c’est cette histoire d’ouvrir. lesressourcesJ’ai
+[00:31.68 - 00:36.24]  SPEAKER_03 : fini par le capier et vous inviter àaccéder au fichier atelier P augmenté et la
+[00:36.24 - 00:37.44]  SPEAKER_00 : deuxième c’est Po
+[00:37.44 - 00:38.00]  SPEAKER_03 : augmenté
+[00:38.00 - 00:42.44]  SPEAKER_00 : par. l’IA Lesautres vous
+[00:42.44 - 00:45.08]  SPEAKER_01 : avezeu ça? aussi
+[00:45.08 - 00:46.12]  SPEAKER_03 : Je vaisarrivé à l’un pour en
+[00:46.12 - 00:49.68]  SPEAKER_00 : produire de fonds, oui, oui j’ai deux.
+[00:48.20 - 00:53.56]  SPEAKER_03 : habitationsécoutezNon
+[00:53.56 - 00:58.92]  SPEAKER_01 : sauf un. BCF Je pense que c’est le deuxième est augmentée par. l’IA
+[00:58.92 - 01:05.88]  SPEAKER_03 : Le deuxième il y en a desphases discores et. tout Après ce qu’il faut suivre, tonécran je suis sur
+[01:05.88 - 01:10.04]  SPEAKER_01 : tonécran ou dans tout à l’heure vousallez contribuer donc
+[01:10.04 - 01:12.32]  SPEAKER_00 : vous. pouvez
+[01:12.32 - 01:25.44]  SPEAKER_01 : Mais normalement ça devrait s’afficher directement dans s’intégrer dans Team c’est pour ça que je suis. étonné
+[01:25.44 - 01:29.04]  SPEAKER_03 : Augmenter c’est ouvert dans le pliant léger de l’applicationWhite.
+[01:28.32 - 01:42.48]  SPEAKER_00 : pas. D’accord, Alors on va. yaller Je regarde.
+[01:41.24 - 01:50.40]  SPEAKER_01 : si Je vous raconte l’histoire
+[01:50.40 - 01:58.60]  SPEAKER_00 : et puis on commence tac à mine
+[01:58.60 - 02:05.80]  SPEAKER_01 : Charles à TimWilliam qui ne sera pas des nôtres finalement, àécoutez on est, bon on
+[02:05.80 - 02:06.48]  SPEAKER_00 : y.
+[02:05.88 - 02:09.52]  SPEAKER_01 : va, Allons-y je t’écoute donc histoire est la
+[02:09.52 - 02:14.24]  SPEAKER_00 : suivante donc
+[02:14.24 - 02:17.36]  SPEAKER_01 : Doveorganise ce qu’il appelle donc
+[02:17.36 - 02:17.56]  SPEAKER_00 : un
+[02:17.56 - 02:18.08]  SPEAKER_01 : vieil
+[02:18.08 - 02:22.52]  SPEAKER_00 : meeting avec des
+[02:22.52 - 02:30.48]  SPEAKER_01 : gens deRTE qui sont à la tête du projet plasma en. l’occurrence Il y
+[02:30.48 - 02:32.32]  SPEAKER_00 : aura
+[02:32.32 - 02:40.64]  SPEAKER_01 : deux sujets présentés lors de ce viny Bye PFD meeting. pardon L’objet duVP meeding c’est tout simplement c’est de vous montrer cette présenter les
+[02:40.64 - 02:43.20]  SPEAKER_00 : savoir-faireauxexpériences
+[02:43.20 - 02:44.84]  SPEAKER_01 : de ya sur un
+[02:44.84 - 02:48.56]  SPEAKER_00 : domaine. particulier
+[02:48.56 - 02:54.56]  SPEAKER_01 : Il y aura deux, sujets ça va durer à peu près une heure trente et l’un des deux sujets ce
+[02:54.56 - 02:57.16]  SPEAKER_00 : sera
+[02:57.16 - 02:57.44]  SPEAKER_01 : ça
+[02:57.44 - 03:00.52]  SPEAKER_00 : sera
+[03:00.52 - 03:04.32]  SPEAKER_01 : donc P augmenté parIa comment est-ce
+[03:04.32 - 03:04.96]  SPEAKER_00 : que
+[03:04.96 - 03:12.08]  SPEAKER_01 : l’IA va permettre à des Po de travailler plus rapidement et.
+[03:10.40 - 03:12.56]  SPEAKER_00 : plusefficacement
+[03:12.56 - 03:13.40]  SPEAKER_01 : Le contexte
+[03:13.40 - 03:15.20]  SPEAKER_00 : particulier
+[03:15.20 - 03:15.96]  SPEAKER_03 : du projet
+[03:15.96 - 03:18.00]  SPEAKER_01 : plasma c’est qu’ils sont étapes que je
+[03:18.00 - 03:18.92]  SPEAKER_00 : comprends en
+[03:18.92 - 03:19.52]  SPEAKER_01 : réduction de
+[03:19.52 - 03:20.24]  SPEAKER_03 : budget
+[03:20.24 - 03:20.64]  SPEAKER_00 : et donc
+[03:20.64 - 03:25.64]  SPEAKER_01 : ils se posent la question tout simplement de comment faire aussi bien qu’avant mais avec moins
+[03:25.64 - 03:26.32]  SPEAKER_00 : de.
+[03:25.72 - 03:30.72]  SPEAKER_01 : moyens C’est ça. l’idée Du, coup en, fait
+[03:30.72 - 03:33.24]  SPEAKER_00 : ce que je vous
+[03:33.24 - 03:38.40]  SPEAKER_01 : propose en, fait c’est qu’on n’est pas très nombreux donc c’est qu’on regarde
+[03:38.40 - 03:40.84]  SPEAKER_00 : ensemble
+[03:40.84 - 03:44.80]  SPEAKER_01 : les différentes activités d’un producteur
+[03:44.80 - 03:45.32]  SPEAKER_00 : et
+[03:45.32 - 03:54.44]  SPEAKER_01 : qu’onessaie de se dire ensemble ce qui nous permet ce qui nous paraît très dans ces activités-là qu’on fait tous les jours ce qui en
+[03:54.44 - 03:55.68]  SPEAKER_03 : quoi est-ce que l’IA pourrait
+[03:55.68 - 03:56.84]  SPEAKER_01 : nous aider donc il n’y
+[03:56.84 - 03:57.60]  SPEAKER_03 : a pas de, mauvaiseidée
+[03:57.60 - 03:58.08]  SPEAKER_01 : il s’agit de
+[03:58.08 - 03:58.72]  SPEAKER_00 : noter
+[03:58.72 - 04:03.36]  SPEAKER_01 : toutes lesidées en vrac donc on se fait une première passe comme
+[04:03.36 - 04:04.48]  SPEAKER_00 : ça
+[04:04.48 - 04:11.40]  SPEAKER_01 : et puis ensuite dans un deuxième, temps onessaiera d’identifier lesidées qui nous semblent non
+[04:11.40 - 04:11.88]  SPEAKER_03 : pas
+[04:11.88 - 04:18.36]  SPEAKER_01 : les plus, matures mais simplement les plus comment dire. prometteuses Et c’est
+[04:18.36 - 04:20.16]  SPEAKER_00 : ensuite
+[04:20.16 - 04:23.36]  SPEAKER_01 : munie en fait des résultats de cetactéria
+[04:23.36 - 04:24.40]  SPEAKER_03 : que DIA
+[04:24.40 - 04:26.40]  SPEAKER_01 : représenté parJérôme
+[04:26.40 - 04:28.92]  SPEAKER_00 : Masset
+[04:28.92 - 04:34.68]  SPEAKER_01 : en fait fera un travail de bushmarking et de veille sur ces
+[04:34.68 - 04:36.00]  SPEAKER_03 : sujets-là
+[04:36.00 - 04:43.08]  SPEAKER_01 : et de façon d’une part à justementarriver avec de la matière lors de ce vie épinétique et
+[04:43.08 - 04:43.92]  SPEAKER_00 : puis aussi
+[04:43.92 - 04:50.32]  SPEAKER_01 : et bien de nous faire un retour sur les trouvailles qu’ilsont faites est-ce que je l’ai bien?? ditJérôme
+[04:50.32 - 04:55.24]  SPEAKER_02 : C’est à peu près. ça. D’accord
+[04:55.24 - 04:59.80]  SPEAKER_01 : Donc les différentes activités d’un PE en, fait
+[04:59.80 - 05:00.08]  SPEAKER_00 : je
+[05:00.08 - 05:03.92]  SPEAKER_01 : lesai décomposées en cinq,
+[05:03.20 - 05:04.20]  SPEAKER_03 : parties la
+[05:04.20 - 05:10.72]  SPEAKER_01 : partie, doncamont le discouru c’est le moment où on discute avec des métiers de
+[05:10.72 - 05:12.40]  SPEAKER_00 : leurs.
+[05:10.96 - 05:22.60]  SPEAKER_01 : besoins, Onidentifie on cadre les. sujets Il y a ensuite on les reste la deuxième partie qui est
+[05:22.60 - 05:25.20]  SPEAKER_03 : l’écriture du.
+[05:23.28 - 05:28.96]  SPEAKER_01 : baclog La rédaction d’ayur, Story
+[05:28.96 - 05:29.64]  SPEAKER_03 : la troisième
+[05:29.64 - 05:30.32]  SPEAKER_01 : partie c’est le
+[05:30.32 - 05:31.04]  SPEAKER_00 : moment
+[05:31.04 - 05:33.48]  SPEAKER_01 : où sprintanimatine
+[05:33.48 - 05:34.12]  SPEAKER_00 : et donc
+[05:34.12 - 05:34.56]  SPEAKER_01 : on choisit
+[05:34.56 - 05:35.00]  SPEAKER_03 : les durs
+[05:35.00 - 05:37.92]  SPEAKER_01 : story qui vontaller dans le bac Lot de sprint
+[05:37.92 - 05:41.36]  SPEAKER_03 : et les développeurs. développent
+[05:41.36 - 05:51.44]  SPEAKER_01 : Ensuite on a la partie recette recette fonctionnelle et recette métier et puis toutes les activités qui
+[05:51.44 - 05:53.12]  SPEAKER_00 : sontliées
+[05:53.12 - 06:00.32]  SPEAKER_01 : à la mettre et au post-mute de la, documentation de la commande de communicationutilisateur
+[06:00.32 - 06:06.68]  SPEAKER_00 : et des choses comme. ça, Donc je
+[06:06.68 - 06:07.76]  SPEAKER_01 : vais
+[06:07.76 - 06:14.32]  SPEAKER_00 : débloquer
+[06:14.32 - 06:24.48]  SPEAKER_01 : le bord là normalement après à partir de maintenant vous pouvez directement naviguer où vous voulez d’accord pour naviguer en fait il suffit de faire un clic droit avec la souris
+[06:24.48 - 06:25.52]  SPEAKER_03 : et de le déplacer
+[06:25.52 - 06:26.56]  SPEAKER_00 : les. choses
+[06:26.56 - 06:36.48]  SPEAKER_01 : Et ce que je vous, propose c’est que on commence par le disqueri et onessaie d’identifier ensemble
+[06:36.48 - 06:37.56]  SPEAKER_03 : en quoi l’IA
+[06:37.56 - 06:38.12]  SPEAKER_01 : pourrait nous
+[06:38.12 - 06:39.80]  SPEAKER_00 : aider
+[06:39.80 - 06:40.36]  SPEAKER_03 : lors de la
+[06:40.36 - 06:41.96]  SPEAKER_01 : partie.
+[06:41.12 - 06:44.32]  SPEAKER_00 : discovery Et on les
+[06:44.32 - 06:56.64]  SPEAKER_01 : note tout. simplement Et c’est. bienFaciliter les actions de
+[06:56.64 - 07:00.80]  SPEAKER_00 : Batchmark
+[07:00.80 - 07:03.76]  SPEAKER_01 : rédaction de serre.
+[07:01.64 - 10:38.28]  SPEAKER_00 : d’atelier. Maxoupeau, Ensemble
+[10:38.28 - 10:41.40]  SPEAKER_01 : est-ce que vous voulez qu’on commence à en parler
+[10:41.40 - 11:07.00]  SPEAKER_00 : deux minutes parce que je pense que déjà beaucoup de. choses Alors papa, papa alors on. vaessayer Je sais pas ce que t’en penses on vaessayer de les donner les
+[11:07.00 - 11:28.44]  SPEAKER_01 : classer parce que là j’ai pas d’arriver parce qu’il y a un tel volume de, choses c’est. bien Donc on a rédaction de, serre atelier plus création deworkflow, cadrageidentification des risques et capacité de
+[11:28.44 - 11:34.64]  SPEAKER_00 : mixigation
+[11:34.64 - 11:42.12]  SPEAKER_01 : à cetemplacer, jambes c’est. ça Je les voyais bouger dans tous les. sens Tu les classes comment on va dire raconte-nous les musique de classement à laquelle
+[11:42.12 - 11:46.64]  SPEAKER_02 : tu. penses Là c’est la même thématique autour des.
+[11:45.36 - 11:49.52]  SPEAKER_00 : ateliers,. D’accordok
+[11:49.52 - 11:50.32]  SPEAKER_01 : Pas d’action tout
+[11:50.32 - 12:02.76]  SPEAKER_02 : à., faitVoilà il y a tout ce qui estanalyse documentaire après il faudra peut-être les trier dans le séquencement lors de la discoverie en. fait Là pour l’instant je les regroupe
+[12:02.76 - 12:04.24]  SPEAKER_00 : selon
+[12:04.24 - 12:04.48]  SPEAKER_02 : leur
+[12:04.48 - 12:07.40]  SPEAKER_01 : contenu d’un
+[12:07.40 - 12:09.28]  SPEAKER_00 : macro, besoin
+[12:09.28 - 12:12.24]  SPEAKER_01 : c’était les bonsarguments.
+[12:10.68 - 12:13.76]  SPEAKER_00 : àutiliserJ’ai
+[12:13.76 - 12:23.36]  SPEAKER_01 : l’impression qu’il y a toute une partie qui en fait qui parle de comment dire de collecter les informations de base et ensuite il y a une deuxième partie qui a trait
+[12:23.36 - 12:23.68]  SPEAKER_03 : à
+[12:23.68 - 12:28.88]  SPEAKER_01 : l’analyse de ces informations pour créer les livrables finaux
+[12:28.88 - 12:38.16]  SPEAKER_03 : en.. faitOui
+[12:38.16 - 12:50.44]  SPEAKER_01 : Analyse une grosse passe de, documents description de, l’environnementanalyse, documentaireanalyse, sentiment synthèse de retour et définition et donc là on est plutôt sur la
+[12:50.44 - 12:52.64]  SPEAKER_00 : partie
+[12:52.64 - 12:54.68]  SPEAKER_01 : que le mets comment en haut en bas à gauche à
+[12:54.68 - 12:59.60]  SPEAKER_02 : droite pour l’instant je fais une ligne par.
+[12:58.56 - 13:02.08]  SPEAKER_03 : thème Tu fais une ligne
+[13:02.08 - 13:05.00]  SPEAKER_01 : par. thème
+[13:05.00 - 13:09.84]  SPEAKER_02 : Donc en bas il y a tout ce qui estanalyse feedback sentiment en.
+[13:08.72 - 13:10.96]  SPEAKER_00 : fait,
+[13:10.32 - 13:10.92]  SPEAKER_03 : Au-dessus
+[13:10.92 - 13:15.60]  SPEAKER_02 : il y a tout ce qui estlié au, document à.
+[13:14.12 - 13:18.80]  SPEAKER_00 : l’environnement
+[13:18.80 - 13:20.28]  SPEAKER_02 : Là ça c’est un
+[13:20.28 - 13:22.36]  SPEAKER_00 : mix
+[13:22.36 - 13:24.72]  SPEAKER_02 : positionnement marché ça je pense que c’est
+[13:24.72 - 13:27.88]  SPEAKER_00 : enamont
+[13:27.88 - 13:28.20]  SPEAKER_02 : ça
+[13:28.20 - 13:29.60]  SPEAKER_00 : c’est
+[13:29.60 - 13:29.80]  SPEAKER_02 : en
+[13:29.80 - 13:31.52]  SPEAKER_00 : dessous
+[13:31.52 - 13:43.20]  SPEAKER_02 : a un peu chiant. l’outil Je fais des conneries avec hop je
+[13:43.20 - 13:48.00]  SPEAKER_00 : le. serreÇa
+[13:48.00 - 13:50.00]  SPEAKER_02 : c’est l’analyse
+[13:50.00 - 13:52.56]  SPEAKER_00 : et l’argument
+[13:52.56 - 13:56.32]  SPEAKER_02 : BenchmarkN à la compréhension
+[13:56.32 - 13:59.76]  SPEAKER_00 : produit.
+[13:59.12 - 14:04.40]  SPEAKER_02 : fleur Bon je pense que c’est à peu près classé. rapidement
+[14:04.40 - 14:06.40]  SPEAKER_00 : Pas d’action d’atmosphère
+[14:06.40 - 14:18.04]  SPEAKER_01 : segmentation d’un macro, besoin segmentation, desutilisateurs positionnement de marché faisait faciliter les actions de Benchmark et recherche historique plus cetâge l’art
+[14:18.04 - 14:28.24]  SPEAKER_00 : d’accord. pur
+[14:28.24 - 14:33.84]  SPEAKER_02 : Alors après c’est pas forcément dans. l’ordre
+[14:33.84 - 14:40.00]  SPEAKER_00 : Je ne saisorganisation de préparation. atelier
+[14:40.00 - 14:42.36]  SPEAKER_02 : On peut peut-être le mettre là-dedans si, ça je
+[14:42.36 - 14:44.56]  SPEAKER_00 : sais.
+[14:42.52 - 15:02.48]  SPEAKER_02 : pas Dans le. cadrage Bon il y a six thématiques de glossaire ça peut faire document documentallez on va le mettre dans les documents. aussi Et.
+[14:59.96 - 15:07.12]  SPEAKER_00 : systémotiqueHop
+[15:07.12 - 15:11.88]  SPEAKER_01 : et mauvaises-y de bas en haut c’est quoi les thématiquestélé moi je vais mettre les titres à. côté
+[15:11.88 - 15:21.04]  SPEAKER_02 : Les, thématiques tout ce qui est finalement état de, l’art, Benchmark. positionnement
+[15:21.04 - 15:22.96]  SPEAKER_01 : Donc c’est en, bas c’est, ça, oui c’est.
+[15:22.56 - 15:24.00]  SPEAKER_02 : çaNon c’était la première
+[15:24.00 - 15:31.44]  SPEAKER_01 : ligne à part base, mois donc de haut en. basVous positionner
+[15:31.44 - 15:32.64]  SPEAKER_03 : l’étale
+[15:32.64 - 15:36.96]  SPEAKER_00 : voisine continue
+[15:36.96 - 15:45.92]  SPEAKER_02 : positionnement état de l’art, oui. Benchmark Potentiellementrajouter veille
+[15:45.92 - 15:47.20]  SPEAKER_00 : si
+[15:47.20 - 15:54.96]  SPEAKER_02 : mais la veille sera pas forcément dans le disque. vrai Ensuite on a tout ce qui est
+[15:54.96 - 15:57.64]  SPEAKER_00 : segmentation
+[15:57.64 - 16:26.32]  SPEAKER_02 : du macro besoin besoinutilisateur et rédaction du cadrage donc en fait c’est le premier niveau de. cadrage Deuxième niveau de, cadrage ça va être finalement le vrai cadrage avec l’identification des, risques, l’argumentaire le
+[16:26.32 - 16:27.84]  SPEAKER_00 : challenge
+[16:27.84 - 16:49.64]  SPEAKER_02 : du besoin et la définition. desobjectifs Tout ça s’obtient grâce à des ateliers donc assistants d’atelier avec
+[16:49.64 - 16:52.68]  SPEAKER_00 : CR
+[16:52.68 - 17:05.28]  SPEAKER_02 : enrichissement documentaire donc construire la base de connaissancesliées au, projet tout ce qui va être plan. d’action
+[17:05.28 - 17:07.28]  SPEAKER_01 : Doncanimation d’atelier en général
+[17:07.28 - 17:09.20]  SPEAKER_00 : ou on va.
+[17:08.04 - 17:20.72]  SPEAKER_02 : dire Après c’est tout ce qui estanalyse documentaire et constitution documentaire donc par exemple le.
+[17:17.72 - 17:28.40]  SPEAKER_00 : glossaire Et constitution
+[17:28.40 - 18:07.12]  SPEAKER_02 : base documentaire et le dernier point ça va être tout ce qui est feedback et. sentiment Donc ces météoéquipes météo clients potentiellementidentification de nouveaux risques voilà et surtout intégration des feedbacksutilisateurs. clients On peutidentifier le niveau de, résistance etc avec ce genre de choses dans des.
+[18:06.20 - 18:09.88]  SPEAKER_01 : ateliers C’est, bien je ne m’attendais pas du tout
+[18:09.88 - 18:10.60]  SPEAKER_00 : à
+[18:10.60 - 18:13.32]  SPEAKER_01 : une telle densité
+[18:13.32 - 18:14.08]  SPEAKER_00 : de sujet pour
+[18:14.08 - 18:24.68]  SPEAKER_02 : le. coupEst-ce que certains veulent le repréciser leur post-it ou est-ce qu’on a bien?,
+[18:19.12 - 18:31.16]  SPEAKER_03 : résuméOui en fait j’ai juste une remarque mais par là on peut la discuter ensemble après mais c’est
+[18:31.16 - 18:31.48]  SPEAKER_01 : bien sûr
+[18:31.48 - 18:32.08]  SPEAKER_03 : bien.
+[18:31.64 - 18:32.40]  SPEAKER_00 : sûr En
+[18:32.40 - 18:45.36]  SPEAKER_03 : vrai pour moi quand producteur d’archip en fait laphase discoverie certes il y a toujours un projet qui a une date de début on commence à, découvrir mais en fait laphase des scories il est tout au
+[18:45.36 - 18:46.56]  SPEAKER_00 : long
+[18:46.56 - 19:00.04]  SPEAKER_03 : du process qui est en fait transverse tout ce qu’on fait là en fait on le répète à chaqueopération c’est-à-dire le vachemark et tout parce qu’il faut en fait s’adapter à l’évolution du. marché
+[19:00.04 - 19:01.20]  SPEAKER_01 : Ah bien. sûr
+[19:01.20 - 19:02.04]  SPEAKER_00 : Tout à.,
+[19:01.48 - 19:02.24]  SPEAKER_01 : faitOui c’est
+[19:02.24 - 19:05.68]  SPEAKER_03 : juste pour trouver que ça c’est la première étape je.
+[19:04.84 - 19:09.96]  SPEAKER_01 : crois Alors c’est juste que dans cet atelier il faut bien penser quelque, part mais on est., bienOui moi c’est,
+[19:09.72 - 19:10.56]  SPEAKER_00 : sûr par, exemple
+[19:10.56 - 19:11.56]  SPEAKER_01 : on n’arrête pas de
+[19:11.56 - 19:18.80]  SPEAKER_03 : le., faireOk
+[19:18.80 - 19:19.72]  SPEAKER_01 : alors du coup ce
+[19:19.72 - 19:20.24]  SPEAKER_00 : que je vous
+[19:20.24 - 19:26.48]  SPEAKER_01 : propose c’est qu’on passe à la deuxième partie et donc la deuxième,
+[19:25.48 - 19:29.40]  SPEAKER_03 : partie c’est la partie
+[19:29.40 - 19:30.20]  SPEAKER_00 : où
+[19:30.20 - 19:37.76]  SPEAKER_01 : on prépare le backlog rédaction des yeux story critère d’acceptation des ateliers où on
+[19:37.76 - 19:38.64]  SPEAKER_00 : discute
+[19:38.64 - 19:47.88]  SPEAKER_01 : avec les développeurs pour leur présenter une vie, story les estimations et la vérification du DOR les discours en la.
+[19:47.08 - 19:49.20]  SPEAKER_03 : main.
+[19:48.32 - 22:37.84]  SPEAKER_00 : Parti Et,
+[22:37.32 - 22:41.20]  SPEAKER_01 : voilà. non Du coup je vais faire de la place sur la droite
+[22:41.20 - 22:44.56]  SPEAKER_00 : pour qu’on puisse s’étendre un petit.
+[22:43.36 - 24:09.32]  SPEAKER_01 : peuJ’ai l’impression qu’on a beaucoup de choses
+[24:09.32 - 24:11.60]  SPEAKER_00 : encore une.
+[24:09.80 - 24:16.68]  SPEAKER_01 : fois Mais tutermines
+[24:16.68 - 25:02.12]  SPEAKER_00 : à, ranger c’est ça peut être la.. scèneOuais.. AlorsEstimation
+[25:02.12 - 25:05.92]  SPEAKER_01 : Comment on fait tu veux qu’on parte de tu haut et qu’on commence à regarder de haut en bas
+[25:05.92 - 25:06.64]  SPEAKER_00 : c’est.
+[25:06.16 - 25:10.48]  SPEAKER_01 : ça On a besoin de t’as à peu près. vu Allez c’est.
+[25:09.32 - 25:18.24]  SPEAKER_00 : parti, Alors première partie
+[25:18.24 - 25:27.96]  SPEAKER_01 : découpage et picUS séparation desUS création d’un ticket cahier des charges décompression autour d’épique en fitcher et fituer àURS story
+[25:27.96 - 25:30.12]  SPEAKER_00 : donc tout est dit c’est
+[25:30.12 - 25:40.96]  SPEAKER_01 : le découpage une position de. découpage Définition des compétences nécessaires Charles à quoi tu penses quand tu
+[25:40.96 - 25:43.60]  SPEAKER_00 : dis. ça Ce que je pense
+[25:43.60 - 25:47.12]  SPEAKER_03 : faire à partir de, ça c’est que dans certaines qui magies qui
+[25:47.12 - 25:47.32]  SPEAKER_00 : peuvent
+[25:47.32 - 25:53.60]  SPEAKER_03 : êtreorganisées par au lieu de compétences un développeur qui aura des compétences
+[25:53.60 - 25:54.88]  SPEAKER_00 : pour
+[25:54.88 - 26:00.48]  SPEAKER_03 : certains comment dire pour certaines futurs on n’aura pas par exemple pour d’autres dates qui
+[26:00.48 - 26:01.32]  SPEAKER_00 : sont
+[26:01.32 - 26:06.80]  SPEAKER_03 : à la condition, actuelle il y en a qui a desarchitectes des développeurs au
+[26:06.80 - 26:13.80]  SPEAKER_00 : sens du SU qui sont plus spécialisés sur
+[26:13.80 - 26:15.16]  SPEAKER_03 : je dirais le
+[26:15.16 - 26:17.80]  SPEAKER_00 : protecttertiairetéléphonique
+[26:17.80 - 26:20.28]  SPEAKER_03 : sur Data Center par. exemple
+[26:20.28 - 26:29.76]  SPEAKER_00 : Et en.., faitVoilàOk
+[26:29.76 - 26:33.60]  SPEAKER_01 : très. clair, Ensuite on a donc
+[26:33.60 - 26:35.60]  SPEAKER_00 : conformité
+[26:35.60 - 26:37.28]  SPEAKER_01 : au DORanalyse des
+[26:37.28 - 26:38.48]  SPEAKER_00 : risque
+[26:38.48 - 26:45.80]  SPEAKER_01 : desUS validation, métieragentIa
+[26:45.80 - 26:56.72]  SPEAKER_02 : on peut définir unagentIa qui prenne le rôle métier et qui fait une première validation plutôt que d’aller le proposer.
+[26:55.00 - 27:00.72]  SPEAKER_01 : directementEffectivement c’est untruc que j’aimerais,
+[26:59.96 - 27:01.80]  SPEAKER_00 : oublié mais
+[27:01.80 - 27:15.48]  SPEAKER_01 : je pensais que dans laphase vioveryeffectivement on pouvait créer uneespèce d’agent qui représenterait unutilisateur et ensuite dialoguer avec lui pour simuler pour simuler une discussion
+[27:15.48 - 27:17.72]  SPEAKER_00 : avec un
+[27:17.72 - 27:18.64]  SPEAKER_01 : vraiutilisateur
+[27:18.64 - 27:22.32]  SPEAKER_02 : un vraiutilisateur les.
+[27:19.92 - 27:27.76]  SPEAKER_01 : deux Je vais lerajouter ce qu’un création d’unagent qui représente
+[27:27.76 - 27:45.32]  SPEAKER_00 : unutilisateur. clé Pardon de
+[27:45.32 - 27:49.72]  SPEAKER_01 : chartourne conformité au DR une liste de risques DUS
+[27:49.72 - 27:56.04]  SPEAKER_00 : validation. métierJ’avoue
+[27:56.04 - 28:03.00]  SPEAKER_01 : que je sais pas direexactement qu’est-ce qu’ellesont en commun ces
+[28:03.00 - 28:04.48]  SPEAKER_03 : trois. post-its
+[28:04.48 - 28:05.96]  SPEAKER_02 : La conformité on va dire
+[28:05.96 - 28:09.08]  SPEAKER_00 : conformité
+[28:09.08 - 28:16.44]  SPEAKER_02 : des définitionsofferRayness Lavoyd alors l’analyse de risque qui fait qu’on peutaller conforme en
+[28:16.44 - 28:17.36]  SPEAKER_00 : fait
+[28:17.36 - 28:22.48]  SPEAKER_02 : etaller. valider Donc pour, moi c’est la conformité au sens.
+[28:21.32 - 28:25.84]  SPEAKER_01 : large La conformité.
+[28:24.32 - 28:27.04]  SPEAKER_00 : validation
+[28:27.04 - 28:37.12]  SPEAKER_01 : Donc, conformité validation donc en fait ce qui se passe que ce dont tu parles c’est en fait le fait qu’elle soitaccèsacceptablement dans un. spect
+[28:37.12 - 28:37.84]  SPEAKER_00 : C’est ça.
+[28:37.48 - 28:48.40]  SPEAKER_02 : quoi C’est. l’acceptabilité.
+[28:47.36 - 28:54.60]  SPEAKER_01 : Marche Ensuite on a quatre ou, cinq je crois qu’on a du tout tous le mettre quinze visiblement
+[28:54.60 - 28:55.76]  SPEAKER_00 : sur
+[28:55.76 - 29:03.00]  SPEAKER_01 : une estimation à l’estimation desUS en fonction du backlog desUS. précédentes
+[29:03.00 - 29:11.12]  SPEAKER_00 : C’est..
+[29:03.24 - 29:27.32]  SPEAKER_01 : çaEstimation Proposer des modifications de vos actions pour les rendre claires et visibles relecture critique d’une documentation quelles créations l’ancrée pour avoir pertinence desUS contrôle d’occurrence des épiques donc ça ce sont des vraiment sur l’aide à la rédaction là pour le coup j’ai.,
+[29:26.16 - 29:36.08]  SPEAKER_02 : l’impressionOui aide à la rédaction et finalement à la, non-interprétation c’est vraiment la clarté en.
+[29:35.68 - 29:41.60]  SPEAKER_01 : fait.. LevénisambiguïtésOui
+[29:41.60 - 29:56.32]  SPEAKER_02 : Avec un contrôle de cohérence pour éviter d’avoir peut-être desUS qui peuvent se recouvrir et donc d’arriver à lesidentifier pour en faire peut-être les, spliquer les, décomposer les
+[29:56.32 - 30:18.64]  SPEAKER_00 : rationaliser.. quoiRationalisation Traçabilité., picuesJérôme.
+[30:17.92 - 30:25.84]  SPEAKER_02 : c’estOk C’est l’arbre en fait d’où tu, viens c’est tout ton. héritage C’est une vraie traçabilité en.
+[30:25.56 - 30:28.80]  SPEAKER_01 : fait C’est la représentation de la hiérarchie en fait
+[30:28.80 - 30:30.48]  SPEAKER_00 : entre
+[30:30.48 - 30:33.12]  SPEAKER_01 : les, épiques les futurs lesUS et tout, ça c’est. çaOui
+[30:33.12 - 30:46.28]  SPEAKER_02 : et le lien avec finalement tu peux avoir uneUS qui dépend d’uneautre donc il y a une relation ou alors il faut cetteUS avant de passer à l’autre donc il y a tout cet aspect un petit
+[30:46.28 - 30:47.76]  SPEAKER_00 : peu
+[30:47.76 - 30:54.44]  SPEAKER_02 : visuel des dépendances interdépendances et relations et. héritage
+[30:54.44 - 30:57.12]  SPEAKER_01 : D’accord donc c’est la gestion des pendance quoi de façon générale
+[30:57.12 - 31:00.84]  SPEAKER_02 : ou gestion d’aimez-le séquencement qui
+[31:00.84 - 31:07.08]  SPEAKER_01 : en.. découleHéritage
+[31:07.08 - 31:11.44]  SPEAKER_02 : Donc soit proposer un, séquencement soit visualiser le.
+[31:10.36 - 31:18.72]  SPEAKER_00 : séquencementVisualiser séquencementok
+[31:18.72 - 31:31.76]  SPEAKER_01 : rédaction des critères d’acceptation proposition de, macroplanning proposition de séquence développement et du coup la proposition des séquences de développement c’est pareil que ça remonte au-dessus c’est tout,
+[31:31.52 - 31:40.36]  SPEAKER_02 : ça c’est unephaseamont et une fois que tu as ces dépendances visuelles ou, représentées tu peux faire un macroplanning et proposer un
+[31:40.36 - 31:47.20]  SPEAKER_00 : vrai., séquencementEstimation
+[31:47.20 - 31:48.52]  SPEAKER_01 : comparaison de la colle en
+[31:48.52 - 31:51.76]  SPEAKER_02 : compte grâce à. l’éclair,
+[31:51.28 - 31:56.88]  SPEAKER_01 : D’accord tellement ça travaille avec la vélocité pouressayer, d’ajuster supprimer une, Scha tu peux nous en dire un peu plus
+[31:56.88 - 31:57.72]  SPEAKER_00 : s’ilte?
+[31:57.20 - 31:59.40]  SPEAKER_03 : plaît C’est pas chat
+[31:59.40 - 32:00.60]  SPEAKER_00 : qui sait c’est moi parce que
+[32:00.60 - 32:01.48]  SPEAKER_03 : moi j’ai,
+[32:01.08 - 32:01.64]  SPEAKER_00 : copié j’ai
+[32:01.64 - 32:03.28]  SPEAKER_03 : collé posté.
+[32:02.60 - 32:03.84]  SPEAKER_00 : plusieurs
+[32:03.84 - 32:05.20]  SPEAKER_03 : Copier.
+[32:04.24 - 32:06.48]  SPEAKER_00 : Charlène,
+[32:05.84 - 32:06.68]  SPEAKER_03 : D’accord
+[32:06.68 - 32:08.28]  SPEAKER_02 : c’est tomber en Dans, charte
+[32:08.28 - 32:33.68]  SPEAKER_03 : c’est., çaOui dans mais aussi quand on est en fait un producteur clop chrétien dans le, backlock il va estimer si en fait sa charge de travail pour ce sprint-là estadéquate avec notre vie de vélocité où il faut plus le découper enautres tâches pour qu’on puisse livrer quelque. chose C’est-à-dire c’est juste faire une.
+[32:32.84 - 32:34.76]  SPEAKER_00 : estimationÇa
+[32:34.76 - 32:42.32]  SPEAKER_03 : peut être là comme ça peut être dans la partie sprint planning. aussi Si t’es pas clair
+[32:42.32 - 32:57.12]  SPEAKER_02 : ou maintenant pour moi c’est, clair c’est vraiment finalement une fois qu’on a le mot macroplanning c’est en mode un
+[32:57.12 - 32:58.48]  SPEAKER_00 : peu
+[32:58.48 - 33:06.64]  SPEAKER_02 : prévisionnel c’est de constituer ce burnonciart et puis après tu vas le suivre dès lors que tues en bulle en.
+[33:05.40 - 33:23.84]  SPEAKER_00 : faitÇa., marcheOui
+[33:23.84 - 33:29.00]  SPEAKER_02 : vous? connaissezObéa
+[33:29.00 - 33:31.72]  SPEAKER_01 : Moi je sais ce que c’est mais je vousai une connaissance très littaire
+[33:31.72 - 33:33.52]  SPEAKER_00 : mais
+[33:33.52 - 33:36.44]  SPEAKER_01 : je sais que tu pesais bien toi j’ai vraiment. pluseffectivement
+[33:36.44 - 33:46.64]  SPEAKER_02 : Ce serait peut-être unoutil pour justement concevoir cetteombe représenter le projet avec finalement un côté, cambant.
+[33:45.36 - 33:46.96]  SPEAKER_03 : etc
+[33:46.96 - 34:03.32]  SPEAKER_02 : Le burndershirt pour la. réalisation Donc ça pourrait y avoir unagent qui maintient cetteObéa. aussi Je pense que c’est à mettre à côté du. suivi Je vais. lerajouter
+[34:03.32 - 34:07.52]  SPEAKER_01 : Tu peux nous redire ce que c’est qu’Obéa non parce que ça.
+[34:07.04 - 34:41.36]  SPEAKER_02 : rappelle-le C’est une représentation visuelle en fait de ton projet pour communiquer et partager en gros t’as ce côté qu’en banque et visuel pour savoir ce qui a été, réalisé c’est ce qu’onécrit généralement sur les murs dans une, salleagile c’est là où on a aussi la représentation de ce qui a été dépensé et les. projectionsÇa permet d’aligner en fait sur le sprint en, cours sur l’état d’esprin précédent une visualisation du futur en.
+[34:40.36 - 34:42.96]  SPEAKER_01 : fait Donc en fait unespèce de coque
+[34:42.96 - 34:47.68]  SPEAKER_02 : et. virtuel C’est. ça
+[34:47.68 - 34:50.32]  SPEAKER_03 : Donc là on a ce que je t’ai mis en,
+[34:48.64 - 35:23.28]  SPEAKER_02 : commentaireJérôme je.. regardeOuais C’est. ça Donc j’ai. synthétisé Donc c’est partager la, vision avoir les, personas l’état du, produit le, plan notre performance et puis ce qui reste à faire.
+[35:22.76 - 35:24.52]  SPEAKER_00 : quoi
+[35:24.52 - 35:24.80]  SPEAKER_02 : Les
+[35:24.80 - 35:41.56]  SPEAKER_00 : axes.. d’améliorationHop. Allez, Ensuite on
+[35:41.56 - 35:45.08]  SPEAKER_01 : va passer à laphase suivante
+[35:45.08 - 35:45.44]  SPEAKER_00 : donc
+[35:45.44 - 35:59.80]  SPEAKER_01 : la partie sprint planning meeting. etexécution
+[35:59.80 - 36:00.52]  SPEAKER_00 : Donc
+[36:00.52 - 36:01.80]  SPEAKER_01 : ça y est nos aides sont
+[36:01.80 - 38:05.36]  SPEAKER_00 : rédigés et le sprint va. démarrer
+[38:05.36 - 38:08.44]  SPEAKER_01 : On a l’impression que
+[38:08.44 - 38:24.96]  SPEAKER_00 : on a fait à peu près le tout parce que c’est bon pour tout le. monde Donc nous avons
+[38:24.96 - 38:30.52]  SPEAKER_01 : quand tues disridentification desUS nonarbitrables qu’est-ce que tu veux dire par?
+[38:29.20 - 38:36.96]  SPEAKER_03 : làQue je vais dire par là c’est que c’est un appui ça peut être unaccès à la. décision
+[38:36.96 - 38:41.76]  SPEAKER_01 : Pardis-moi j’ai mal posé ma question qu’est-ce que c’est qu’uneUS monarbitrable pour toi c’est uneUS qui estimpée de chiffrer c’est ça
+[38:41.76 - 38:44.56]  SPEAKER_03 : en., faitNon du tout c’est uneUS qu’on ne peut pas
+[38:44.56 - 38:46.68]  SPEAKER_00 : déprogrammer. typiquementOui
+[38:46.68 - 38:56.44]  SPEAKER_03 : est d’accord une, huète ça dépendances sur le train, d’avant le train d’après ou qui dois avoir des suites sur les deux prochains. sprints C’est en fait quand tu fais une brique
+[38:56.44 - 38:57.60]  SPEAKER_01 : qui sans elle
+[38:57.60 - 39:00.24]  SPEAKER_03 : ton livrable final n’est.
+[38:59.04 - 39:02.48]  SPEAKER_00 : pasopérationnel.
+[39:01.44 - 39:06.40]  SPEAKER_01 : MerciÀ priorisation autour du backlock sont lesurgences
+[39:06.40 - 39:36.96]  SPEAKER_00 : aléas. inopinées, L’indépendance uneidentification. automatique Agent de classification de véhicules pour la finalisation
+[39:36.96 - 40:21.20]  SPEAKER_01 : desRenisation des ticketsembarqués en fonction de la capacité à faire du chiffrage et des compétences. disponibles On est d’accord que quand on voit tiens je suis pas curieux qu’il y a un étiquetutilisateur inconnuoptimisation des ticketsembarqués en fonction de la capacité à, faire du chiffrage il s’agit que de faire des propositions que je., supposeOuais c’est parce que j’ai fait un client c’est pour ça que c’est l’utilisateur
+[40:21.20 - 40:22.12]  SPEAKER_03 : inconnu
+[40:22.12 - 40:23.76]  SPEAKER_02 : et l’idée c’était de faire
+[40:23.76 - 40:24.20]  SPEAKER_03 : le lien
+[40:24.20 - 40:25.32]  SPEAKER_02 : avec les points qu’on avait mis
+[40:25.32 - 40:26.60]  SPEAKER_01 : précédemment précédemment
+[40:26.60 - 40:27.32]  SPEAKER_03 : c’est-à-dire de faire le
+[40:27.32 - 40:28.16]  SPEAKER_01 : lien entreOK
+[40:28.16 - 40:29.08]  SPEAKER_02 : j’ai rédigé uneUS j’ai
+[40:29.08 - 40:30.76]  SPEAKER_01 : un contextetechnique
+[40:30.76 - 40:31.68]  SPEAKER_03 : voilà les compétences
+[40:31.68 - 40:35.48]  SPEAKER_01 : qu’il me faut et l’idée d’un chiffrage de dire
+[40:35.48 - 40:36.28]  SPEAKER_02 : c’est traité théorique
+[40:36.28 - 40:39.36]  SPEAKER_01 : et ça demande une bonne maturité et un bon suivi de
+[40:39.36 - 40:40.04]  SPEAKER_02 : sa vélocité
+[40:40.04 - 40:40.28]  SPEAKER_01 : mais de
+[40:40.28 - 40:42.52]  SPEAKER_03 : dire j’ai trente jours hommes qui sont répartis
+[40:42.52 - 40:43.08]  SPEAKER_01 : sur tel DEF
+[40:43.08 - 40:45.56]  SPEAKER_03 : tel dev tel def pour ce bagage de compétences-là
+[40:45.56 - 40:46.92]  SPEAKER_02 : comment théoriquement
+[40:46.92 - 40:47.20]  SPEAKER_01 : sans
+[40:47.20 - 40:49.16]  SPEAKER_00 : aléa
+[40:49.16 - 40:50.12]  SPEAKER_03 : je peuxembarquer le plus
+[40:50.12 - 40:51.16]  SPEAKER_02 : de tickets possibles tout en
+[40:51.16 - 40:51.52]  SPEAKER_03 : livrant
+[40:51.52 - 40:59.40]  SPEAKER_01 : quelque. chose Et voilà donc c’est uneespèce de simulateur de contenu sprint c’est. ça C’est ça c’est que l’optimisation sous contrainte si tu veuxessayer
+[40:59.40 - 41:00.00]  SPEAKER_02 : de dire
+[41:00.00 - 41:01.68]  SPEAKER_03 : voilà les compétences que, j’ai voilà le temps que
+[41:01.68 - 41:03.68]  SPEAKER_01 : j’ai voilà ce que je dois faire comment est-ce que je charge le
+[41:03.68 - 41:07.96]  SPEAKER_03 : plusefficacement.. possibleJ’entends
+[41:07.96 - 41:11.76]  SPEAKER_01 : Très.,.
+[41:08.24 - 41:37.08]  SPEAKER_00 : intéressantOuiabsolumentForcément
+[41:37.08 - 41:39.16]  SPEAKER_01 : il y a beaucoup de choses sur lesquelle la gestion des questions
+[41:39.16 - 41:41.56]  SPEAKER_00 : réponses
+[41:41.56 - 41:53.36]  SPEAKER_01 : propositionidentification donc on a en fait beaucoup de choses autour de comment dire du choix desUS d’un
+[41:53.36 - 41:57.96]  SPEAKER_00 : sprint
+[41:57.96 - 41:59.84]  SPEAKER_03 : de l’aide au choix
+[41:59.84 - 42:27.28]  SPEAKER_01 : de l’aide à la création du bacFlock de. sprint Beaucoup de choses sur les.. questions-réponsesVoilà Donc TTS transcript est perdu des,
+[42:26.44 - 42:33.84]  SPEAKER_00 : lignes je pense que c’est
+[42:33.84 - 42:49.24]  SPEAKER_01 : très. clair Adame les risque suite au sprint planning, meeting actualisation, l’avance l’évaluation de l’avancement du sprint plusanticiper lesalertes
+[42:49.24 - 42:50.64]  SPEAKER_00 : Charles
+[42:50.64 - 42:51.40]  SPEAKER_01 : ah oui d’accord
+[42:51.40 - 42:55.44]  SPEAKER_00 : donc tu
+[42:55.44 - 43:08.88]  SPEAKER_01 : compris donc en fait ce que tu baiser c’est qu’il y a unoutil qui est grosso modo en fonction des informations collectées par exemple dansGira sur l’avancement réel desUS est capable d’anticiper de lever desalertes en avance de, face c’est
+[43:08.88 - 43:09.92]  SPEAKER_00 : ça
+[43:09.92 - 43:25.84]  SPEAKER_03 : potentiellement et surtout sur des tâches qui vont avoir des dépendances postérieures pour permettre de dire attention de, celles-là il faut mettre un renfort parce qu’elle doit être thermique ou attention celle-là s’avère plus rapide que, prévue il y a peut-être besoin d’unaccompagnement senior par.
+[43:25.12 - 43:29.68]  SPEAKER_01 : exemple Prémidior des,
+[43:28.88 - 43:33.12]  SPEAKER_00 : risques
+[43:33.12 - 43:34.20]  SPEAKER_01 : desaccidents de
+[43:34.20 - 43:39.64]  SPEAKER_00 : sprint en quelque. sorte L’idée c’est
+[43:39.64 - 43:40.56]  SPEAKER_03 : de se servir de lien
+[43:40.56 - 43:56.04]  SPEAKER_01 : pour. l’anticipation
+[43:56.04 - 44:02.12]  SPEAKER_00 : Puis on vaessachage sur. réponse Si on voyez
+[44:02.12 - 44:02.52]  SPEAKER_01 : on passe à
+[44:02.52 - 44:07.44]  SPEAKER_00 : la, suite il me reste deux à faire encore
+[44:07.44 - 44:13.52]  SPEAKER_01 : àem tendance à mètre où tu as commencé la suite la validation et qualité c’est
+[44:13.52 - 44:16.36]  SPEAKER_00 : ça., TimNon
+[44:16.36 - 44:17.32]  SPEAKER_01 : je pense que c’est juste un
+[44:17.32 - 44:18.68]  SPEAKER_03 : deux en fait j’avais
+[44:18.68 - 44:21.00]  SPEAKER_01 : commencé à mettre un post-it sur la partie suivante mais
+[44:21.00 - 44:21.36]  SPEAKER_00 : je ne l’ai pas
+[44:21.36 - 44:22.00]  SPEAKER_03 : encore.
+[44:21.60 - 44:23.96]  SPEAKER_00 : fait
+[44:23.96 - 44:26.72]  SPEAKER_01 : Alors validation et qualité donc lesES
+[44:26.72 - 45:22.44]  SPEAKER_00 : sont. livrés Alors on parle de je pense
+[45:22.44 - 45:26.40]  SPEAKER_01 : qu’on parle de recette fonctionnelles et aussi
+[45:26.40 - 45:27.00]  SPEAKER_00 : de
+[45:27.00 - 45:28.68]  SPEAKER_01 : recettes métiers à
+[45:28.68 - 47:11.64]  SPEAKER_00 : mon.. avisIciUneexpression.,
+[47:10.40 - 47:18.32]  SPEAKER_01 : deuxOui. bien Création de jeunes données notamment pour des tests en,
+[47:17.64 - 47:24.24]  SPEAKER_00 : masse vérification automatique du respect des critères, enacceptant.
+[47:21.96 - 47:52.32]  SPEAKER_01 : etcNotion de couverture de test conformité DOD de. l’organisationOui
+[47:52.32 - 47:57.84]  SPEAKER_00 : et, oui bien. sûr
+[47:57.84 - 48:01.52]  SPEAKER_01 : Donc jete faire celui-là
+[48:01.52 - 48:02.60]  SPEAKER_00 : découpage
+[48:02.60 - 48:33.00]  SPEAKER_01 : en plan de test d’écart TUPV proposition de scénarios de test de bouton, goût génération de stratégies de test basées surYor Story proposition de testaux. limites Analyste et résultat de test cahier de, recette scénario PV rédaction de PL de. recette Charles, s’envoque tu penses à quoi en l’occurrence avec le
+[48:33.00 - 48:35.40]  SPEAKER_00 : lien
+[48:35.40 - 48:37.68]  SPEAKER_03 : éventuellement servir de modèle un peu
+[48:37.68 - 48:39.20]  SPEAKER_00 : plus
+[48:39.20 - 48:57.96]  SPEAKER_03 : développé que desIA comme part avec TGPT et tout ça pour pouvoir simuler des environnements qui n’existeraient. pas Typiquement là chez, Matran ils n’ont pas d’environnement de recette ou de préproduction pour la plupart de leurs codes donc souvent le pot dans lequel je suis il balancent leur
+[48:57.96 - 48:59.08]  SPEAKER_01 : code
+[48:59.08 - 49:16.88]  SPEAKER_03 : en prod directement et puis ils gèrent les soucis en tant à présent on s’est dîner ça pourrait permettre de faire des prétests en stimulant des tissanté stimulant un serviceentrant mais un service.
+[49:15.04 - 49:19.36]  SPEAKER_00 : portant. D’accord
+[49:19.36 - 49:32.20]  SPEAKER_03 : Encore une fois j’ai mis un point d’interrogation parce que je sais pas trop de pas forcément l’idée de quel type d’il y a on parlait et comment çaait des capacités réelles des différents moteurs qui soient publics ou à construire en interne.
+[49:31.36 - 49:43.92]  SPEAKER_00 : quoiÀ
+[49:43.92 - 49:45.72]  SPEAKER_01 : la suite donneranimation de
+[49:45.72 - 49:49.04]  SPEAKER_00 : données sans mox
+[49:49.04 - 50:00.40]  SPEAKER_01 : conformité DOD l’organisationadmise prédictive de la satisfactionutilisateur parUSO. Story Si ça,
+[49:58.24 - 50:10.84]  SPEAKER_00 : marche c’est.. beauOk, Donc
+[50:10.84 - 50:12.40]  SPEAKER_01 : le premier c’est je vais me données je
+[50:12.40 - 50:17.64]  SPEAKER_02 : dirais environnement
+[50:17.64 - 50:18.68]  SPEAKER_01 : et environnement
+[50:18.68 - 50:20.88]  SPEAKER_00 : tout à.
+[50:19.04 - 50:23.40]  SPEAKER_02 : fait C’est pas. bête
+[50:23.40 - 50:27.96]  SPEAKER_00 : Absolument unespritive
+[50:27.96 - 50:29.00]  SPEAKER_01 : ce deuxième
+[50:29.00 - 50:31.56]  SPEAKER_00 : c’est un peu du je sais
+[50:31.56 - 50:34.24]  SPEAKER_01 : pas comment lesrassembler la deuxième
+[50:34.24 - 50:40.36]  SPEAKER_02 : ligneextrémité et. satisfaction Je pense que ça se résume comme
+[50:40.36 - 50:42.08]  SPEAKER_00 : ça
+[50:42.08 - 50:55.44]  SPEAKER_02 : donc c’est conforme à ce qu’il fallait et en plus on est content parce que c’est vraiment il y a unalignement entre le, réaliser, l’attendu.
+[50:53.76 - 51:01.00]  SPEAKER_01 : voilàVérification automatique des respects
+[51:01.00 - 51:01.16]  SPEAKER_00 : des
+[51:01.16 - 51:16.32]  SPEAKER_01 : critères. d’acceptance C’est les propositions couverture de, testtechnique découpage en. plantesJ’ai l’impression que les deux lignes suivantes se regroupent en fait c’est ça c’est dans tous les cas de figure on est sur la création de stratégies et de plans de
+[51:16.32 - 51:22.48]  SPEAKER_02 : tests et plus critères critères et tests pour.
+[51:21.52 - 51:24.40]  SPEAKER_00 : moi
+[51:24.40 - 51:24.84]  SPEAKER_02 : Après
+[51:24.84 - 51:35.40]  SPEAKER_01 : ces.. recettesRelation
+[51:35.40 - 51:44.08]  SPEAKER_00 : Plan de test quatre tests.
+[51:39.76 - 51:53.56]  SPEAKER_03 : critère Moi si je puis me permettre le lien c’était aussi dans la notion. d’outil La gride grise tête de robustesse c’est par exemple si on veut être sûr qu’un service résiste à dix mille appels
+[51:53.56 - 51:55.16]  SPEAKER_02 : par. jour Les tests fissoriales
+[51:55.16 - 51:55.40]  SPEAKER_03 : qui s’en
+[51:55.40 - 51:56.00]  SPEAKER_00 : chargent
+[51:56.00 - 52:02.76]  SPEAKER_02 : avec, l’escalabilité. etcÇa. revient C’est à peu près tout le
+[52:02.76 - 52:12.56]  SPEAKER_03 : temps si vous voulez fairevenir la notion d’outillage dans le paie juste création de plans de, cas de critères que c’est une préfectionnel qui estutilisé untructechnique.
+[52:12.20 - 52:13.76]  SPEAKER_00 : quoi. Deuxième
+[52:13.76 - 52:39.76]  SPEAKER_03 : Il y a une question ça peut rentrer aussi dans la définition définitionof Dun chez on ne va pas livrer quelque chose si on ne vérifie pas que il est robuste il est conforme à ce qu’on a comme. environnement
+[52:39.76 - 52:40.60]  SPEAKER_01 : Si on teste limite
+[52:40.60 - 52:41.08]  SPEAKER_00 : qu’est-ce que c’est
+[52:41.08 - 53:28.36]  SPEAKER_01 : celui-làanalyse des résultats de? test Test position test non. fonctionnel Et dans une action de PV de reteste donc là on est vraiment sur l’avant-dernière, ligne on est vraiment sur la clôture clôture des. tests EtGodobo. livraison Il y en a
+[53:28.36 - 53:30.36]  SPEAKER_00 : encore une synthèse
+[53:30.36 - 53:34.40]  SPEAKER_01 : des reviews pour sortir des axes. d’améliorationabsolument
+[53:34.40 - 53:35.44]  SPEAKER_00 : C’est,
+[53:34.64 - 53:38.00]  SPEAKER_01 : vrai CR sprint et mise à jourObé
+[53:38.00 - 53:39.12]  SPEAKER_00 : caféi un tout à
+[53:39.12 - 53:51.60]  SPEAKER_02 : fait un peu dans un. texte On va dire et la préparation de l’itération suivante. quoi
+[53:51.60 - 54:02.24]  SPEAKER_00 : Il ne reste quatre. minutes. MerciEmmeric
+[54:02.24 - 54:07.96]  SPEAKER_01 : Mise en production etanalyseanalyse, post-livraison,
+[54:07.36 - 55:11.40]  SPEAKER_00 : feedback. loupeUne rédaction est chutes de personnalisent automatique de l’impact, alimentation. classification
+[55:11.40 - 55:15.60]  SPEAKER_01 : Si je vous propose qu’onarrête ce dernier pavé en
+[55:15.60 - 55:20.52]  SPEAKER_00 : trois minutes et qu’ensuite chacun d’entre
+[55:20.52 - 55:22.00]  SPEAKER_03 : nous pointe les dos troistenues
+[55:22.00 - 55:22.28]  SPEAKER_01 : paraissent
+[55:22.28 - 55:24.24]  SPEAKER_00 : le.
+[55:22.40 - 55:27.12]  SPEAKER_01 : plusimportantÇa ne dépendra pas trop je
+[55:27.12 - 55:27.64]  SPEAKER_00 : pense qu’on ne va
+[55:27.64 - 55:48.52]  SPEAKER_03 : pas pouvoir regarder très. longtemps
+[55:48.52 - 55:50.80]  SPEAKER_00 : L’impact de chaque figuration
+[55:50.80 - 55:51.64]  SPEAKER_03 : juste de changer de
+[55:51.64 - 55:56.36]  SPEAKER_00 : sol et je suis. avant
+[55:56.36 - 55:59.04]  SPEAKER_01 : Donc je vais soit sur la type des parties prenantesimpactées
+[55:59.04 - 56:01.36]  SPEAKER_00 : par la.
+[55:59.40 - 56:05.52]  SPEAKER_01 : règlezinNos. scienceutilisateurs
+[56:05.52 - 56:13.68]  SPEAKER_00 : Pas. d’action Doncutilisateur
+[56:13.68 - 56:17.04]  SPEAKER_01 : génération rapport plusanimation ou plus transcriptiontenir
+[56:17.04 - 56:17.48]  SPEAKER_00 : un tel y
+[56:17.48 - 56:18.96]  SPEAKER_01 : restitution support de com sur
+[56:18.96 - 56:51.28]  SPEAKER_00 : le sprintUps Matt. un Donc encore une minute et puis ensuite on va passer à votre.
+[56:48.80 - 57:23.28]  SPEAKER_01 : final Et cetexercice et élément de cap d’utilisation à créer ou à mettre à
+[57:23.28 - 57:24.68]  SPEAKER_00 : jour
+[57:24.68 - 57:25.04]  SPEAKER_01 : dans le
+[57:25.04 - 57:30.96]  SPEAKER_00 : cadre.
+[57:25.76 - 57:43.16]  SPEAKER_01 : d’OT Listeexhaustive d’éléments de captivisation à créer ou à mettre à jour jusque là je vois très bien mais c’est dans le cadre de la DOD si je
+[57:43.16 - 57:43.80]  SPEAKER_03 : suis un peu
+[57:43.80 - 57:52.88]  SPEAKER_01 : de alors, oui je ne fais pas le a oui parce que dans la DOD il y aeffectivement des éléments de captisation à mettre à jour c’est. ça C’est pour ça que comme.
+[57:52.56 - 57:54.56]  SPEAKER_00 : ça Tous
+[57:54.56 - 57:58.08]  SPEAKER_03 : les documents de construction etégalement ça permet de prendre aussi
+[57:58.08 - 57:59.48]  SPEAKER_00 : ce qu’il y a autour
+[57:59.48 - 58:02.12]  SPEAKER_03 : de le supra comme les plans d’architecture
+[58:02.12 - 58:03.04]  SPEAKER_00 : globaux
+[58:03.04 - 58:12.20]  SPEAKER_03 : ou alors lesoutils d’utilisation si c’est un serviceexposé à l’interne ou à, l’externe il peut y avoir de la cristallisationautre que celle qui estutilisée crée dans le cadre du développements qui sont pour
+[58:12.20 - 58:13.64]  SPEAKER_00 : autantimpactées
+[58:13.64 - 58:15.28]  SPEAKER_03 : par la nature de ce.
+[58:14.60 - 58:22.76]  SPEAKER_01 : développement. AbsolumentÇa me paraît pertinent tout à fait et puis surtout parce que pendant
+[58:22.76 - 58:26.84]  SPEAKER_00 : l’urgence moi
+[58:26.84 - 58:29.44]  SPEAKER_01 : on n’entie pas qu’il y a un sujet particulier sur lequel il
+[58:29.44 - 58:42.04]  SPEAKER_00 : faut, capitaliser pense pas le., faireOk
+[58:42.04 - 58:46.52]  SPEAKER_01 : c’est délicatorzeerreurszéro une si je peux vous garder est-ce que je peux vous regarder cinq minutes
+[58:46.52 - 58:47.12]  SPEAKER_00 : encore
+[58:47.12 - 58:48.96]  SPEAKER_03 : ou? pas Cinq grands
+[58:48.96 - 58:50.88]  SPEAKER_00 : mac pour moialler
+[58:50.88 - 58:51.68]  SPEAKER_02 : deux cinq
+[58:51.68 - 58:52.24]  SPEAKER_00 : différences pour
+[58:52.24 - 58:53.40]  SPEAKER_01 : toi aussi c’est bon pendant dix
+[58:53.40 - 58:57.04]  SPEAKER_02 : minutes que je suis en retard sur ma. suivante
+[58:57.04 - 58:59.44]  SPEAKER_01 : Mais je pense que ça veut dire, oui j’aie ton.
+[58:58.72 - 59:03.12]  SPEAKER_02 : sourire Je préviens juste que je suis en retard sur la.
+[59:01.96 - 59:04.40]  SPEAKER_00 : suivante.
+[59:03.40 - 59:07.40]  SPEAKER_01 : D’accordVous avez un, cœur
+[59:07.40 - 59:08.32]  SPEAKER_03 : je vous propose d’aller
+[59:08.32 - 59:12.88]  SPEAKER_01 : poser des, cœurs de poser on a droit à trois cœurs chacun d’aller poser des cœurs sur
+[59:12.88 - 59:14.60]  SPEAKER_03 : lesidées
+[59:14.60 - 59:17.72]  SPEAKER_01 : qui vous font le plus envie celles
+[59:17.72 - 59:18.12]  SPEAKER_03 : dont vous
+[59:18.12 - 59:22.96]  SPEAKER_01 : bénéficieriez le plus c’est que vousêtes le plus pressé de voirarriver
+[59:22.96 - 59:24.24]  SPEAKER_00 : tout. simplement
+[59:24.24 - 59:26.24]  SPEAKER_03 : Parception ou au global
+[59:26.24 - 59:27.44]  SPEAKER_00 : au.
+[59:26.44 - 59:32.00]  SPEAKER_03 : global Je me. servi
+[59:32.00 - 59:36.56]  SPEAKER_01 : Tu viens dete servirer de quoi à un nom de la Savoysord.
+[59:35.28 - 59:39.16]  SPEAKER_00 : deWhatboard
+[59:39.16 - 59:40.04]  SPEAKER_03 : Je suis en train de se faire la fenêtre
+[59:40.04 - 59:42.88]  SPEAKER_00 : dehentification. Microsoft
+[59:42.88 - 59:43.76]  SPEAKER_03 : Je.
+[59:43.00 - 59:49.60]  SPEAKER_00 : reviensVous
+[59:49.60 - 59:56.88]  SPEAKER_01 : vous en voulez plus vous voulez quatre ou cinq. heures D’une.
+[59:54.56 - 61:33.44]  SPEAKER_00 : manière
+[61:33.44 - 61:38.56]  SPEAKER_01 : Très. bien Je vais, remet ça devra
+[61:38.56 - 61:44.56]  SPEAKER_02 : tout, ça c’est pas mal encore et, mince c’est pas mal
+[61:44.56 - 61:49.44]  SPEAKER_00 : tout., çaOuais
+[61:49.44 - 61:53.40]  SPEAKER_02 : a synthétiser bon déjà une petite capture ce sera pas mal tu peux nous envoyer
+[61:53.40 - 61:54.56]  SPEAKER_00 : ça
+[61:54.56 - 61:56.36]  SPEAKER_01 : bien. sûr
+[61:56.36 - 61:57.20]  SPEAKER_00 : Tout à,
+[61:56.72 - 61:57.92]  SPEAKER_02 : fait merci
+[61:57.92 - 62:05.12]  SPEAKER_00 : à. tous Et merci à. tous
+[62:05.12 - 62:09.36]  SPEAKER_03 : C’est pas les, préjugé merci à. tousVoilà nous depuis sur la. prochaine
+[62:09.36 - 62:10.48]  SPEAKER_01 : Allez à bientôt.
+[62:10.00 - 62:12.56]  SPEAKER_02 : merci,
+[62:12.12 - 62:27.52]  SPEAKER_01 : Salut merci pour votre. participationJustement j’avais une question sur ça

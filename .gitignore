@@ -1,0 +1,50 @@
+# ─────────────────────────────────────────────────────────────
+# benchmark-diarisation — archive des résultats
+#
+# Objectif : conserver TOUS les résultats exploitables
+# (métriques, params, RTTM, JSON/CSV, figures, mlflow.db, modèles ONNX)
+# en excluant ce qui est régénérable ou trop volumineux pour GitHub
+# (limite stricte : 100 Mo/fichier).
+# ─────────────────────────────────────────────────────────────
+
+# ── Secrets ── (ne JAMAIS versionner : contient HF_TOKEN)
+.env
+.env.*
+*.key
+*.pem
+
+# ── Audio brut (~12,5 Go) ── régénérable depuis les sources
+*.wav
+*.m4a
+*.mp3
+*.flac
+*.ogg
+*.opus
+
+# ── Tableaux d'embeddings (~4,9 Go) ── recalculables via le pipeline
+*.npy
+*.npz
+
+# ── Environnements & dépendances ── régénérables
+diarisation/
+.venv/
+venv/
+env/
+node_modules/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ── Modèles trop volumineux pour GitHub ──
+vosk-model-fr-0.22/
+
+# ── Caches de téléchargement ──
+.cache/
+*.metadata
+
+# ── OS / éditeurs ──
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/

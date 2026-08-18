@@ -1,0 +1,146 @@
+[   0.54 -    2.91]  Speaker A
+[   4.74 -    5.25]  Speaker A
+[   6.84 -    8.91]  Speaker A
+[  10.35 -   11.31]  Speaker A
+[  12.75 -   16.23]  Speaker A
+[  17.67 -   24.39]  Speaker A
+[  24.90 -   25.56]  Speaker A
+[  26.22 -   28.05]  Speaker A
+[  28.83 -   50.40]  Speaker A
+[  51.06 -   62.43]  Speaker A
+[  67.68 -   86.88]  Speaker A
+[  87.57 -  101.76]  Speaker A
+[ 105.42 -  107.82]  Speaker A
+[ 110.88 -  126.72]  Speaker A
+[ 129.24 -  144.30]  Speaker A
+[ 145.02 -  145.83]  Speaker A
+[ 149.46 -  159.63]  Speaker A
+[ 159.90 -  160.62]  Speaker B
+[ 162.69 -  183.06]  Speaker A
+[ 185.73 -  191.46]  Speaker A
+[ 195.39 -  209.55]  Speaker A
+[ 210.21 -  236.40]  Speaker A
+[ 237.00 -  242.61]  Speaker A
+[ 243.87 -  265.32]  Speaker A
+[ 272.43 -  277.47]  Speaker A
+[ 278.07 -  289.47]  Speaker A
+[ 291.03 -  407.64]  Speaker A
+[ 408.39 -  420.72]  Speaker A
+[ 421.26 -  425.37]  Speaker A
+[ 426.54 -  432.51]  Speaker A
+[ 433.08 -  434.07]  Speaker A
+[ 438.84 -  474.21]  Speaker A
+[ 474.72 -  574.83]  Speaker A
+[ 575.73 -  661.68]  Speaker A
+[ 662.28 -  681.03]  Speaker A
+[ 682.08 -  765.72]  Speaker A
+[ 766.23 -  791.13]  Speaker A
+[ 792.03 -  842.49]  Speaker A
+[ 843.06 -  892.32]  Speaker A
+[ 893.19 -  942.69]  Speaker A
+[ 943.65 - 1022.34]  Speaker A
+[1023.21 - 1051.41]  Speaker A
+[1052.34 - 1065.18]  Speaker A
+[1065.99 - 1106.37]  Speaker A
+[1107.00 - 1135.71]  Speaker A
+[1136.58 - 1152.96]  Speaker A
+[1155.63 - 1177.95]  Speaker A
+[1178.64 - 1191.09]  Speaker A
+[1194.99 - 1199.31]  Speaker A
+[1200.15 - 1312.41]  Speaker A
+[1312.98 - 1314.60]  Speaker A
+[1315.35 - 1322.16]  Speaker A
+[1322.67 - 1347.27]  Speaker A
+[1347.84 - 1386.24]  Speaker A
+[1387.50 - 1391.07]  Speaker A
+[1391.70 - 1398.36]  Speaker A
+[1398.93 - 1419.09]  Speaker A
+[1420.35 - 1441.65]  Speaker A
+[1442.43 - 1456.11]  Speaker A
+[1456.80 - 1460.34]  Speaker A
+[1464.00 - 1464.60]  Speaker A
+[1465.35 - 1501.59]  Speaker A
+[1505.01 - 1505.55]  Speaker A
+[1509.18 - 1528.25]  Speaker A
+[1528.25 - 1529.25]  Speaker C
+[1529.25 - 1563.12]  Speaker A
+[1563.87 - 1593.83]  Speaker A
+[1593.83 - 1594.83]  Speaker D
+[1594.83 - 1621.38]  Speaker A
+[1621.86 - 1622.67]  Speaker E
+[1623.60 - 1626.03]  Speaker A
+[1628.28 - 1639.23]  Speaker A
+[1640.28 - 1645.80]  Speaker A
+[1646.85 - 1670.79]  Speaker A
+[1671.30 - 1687.56]  Speaker A
+[1688.91 - 1742.46]  Speaker A
+[1744.14 - 1756.41]  Speaker A
+[1757.10 - 1768.23]  Speaker A
+[1771.59 - 1776.21]  Speaker A
+[1776.90 - 1794.90]  Speaker A
+[1795.80 - 1800.72]  Speaker A
+[1801.50 - 1806.36]  Speaker A
+[1807.50 - 1816.29]  Speaker A
+[1817.28 - 1840.23]  Speaker A
+[1840.74 - 1848.99]  Speaker A
+[1849.92 - 1898.88]  Speaker A
+[1899.57 - 1935.99]  Speaker A
+[1936.59 - 1944.51]  Speaker A
+[1945.44 - 2032.56]  Speaker A
+[2033.76 - 2055.54]  Speaker A
+[2056.08 - 2098.05]  Speaker A
+[2099.07 - 2123.13]  Speaker A
+[2128.32 - 2183.76]  Speaker A
+[2184.42 - 2206.95]  Speaker A
+[2208.96 - 2256.66]  Speaker A
+[2263.32 - 2264.34]  Speaker A
+[2267.61 - 2276.22]  Speaker A
+[2277.93 - 2302.35]  Speaker A
+[2302.92 - 2327.19]  Speaker A
+[2327.88 - 2353.86]  Speaker A
+[2354.79 - 2431.77]  Speaker A
+[2433.90 - 2448.48]  Speaker A
+[2455.14 - 2459.40]  Speaker A
+[2460.36 - 2470.53]  Speaker A
+[2471.97 - 2506.86]  Speaker A
+[2507.76 - 2509.80]  Speaker A
+[2519.67 - 2530.71]  Speaker A
+[2531.79 - 2540.70]  Speaker A
+[2541.30 - 2551.29]  Speaker A
+[2556.60 - 2609.22]  Speaker A
+[2609.73 - 2623.29]  Speaker A
+[2623.89 - 2648.64]  Speaker A
+[2649.15 - 2700.18]  Speaker A
+[2702.37 - 2758.05]  Speaker A
+[2759.25 - 2865.45]  Speaker A
+[2867.79 - 2892.69]  Speaker A
+[2893.44 - 2928.42]  Speaker A
+[2929.08 - 2931.18]  Speaker A
+[2934.93 - 2952.87]  Speaker A
+[2953.41 - 2958.54]  Speaker A
+[2959.14 - 2966.85]  Speaker A
+[2967.75 - 2968.53]  Speaker A
+[2969.16 - 2974.59]  Speaker A
+[2975.37 - 2989.56]  Speaker A
+[2990.55 - 3015.12]  Speaker A
+[3017.04 - 3022.26]  Speaker A
+[3022.86 - 3030.63]  Speaker A
+[3032.01 - 3035.64]  Speaker A
+[3036.39 - 3044.58]  Speaker A
+[3045.27 - 3072.54]  Speaker A
+[3073.32 - 3085.56]  Speaker A
+[3086.49 - 3102.63]  Speaker A
+[3103.44 - 3109.08]  Speaker A
+[3109.65 - 3122.28]  Speaker A
+[3122.82 - 3124.35]  Speaker A
+[3124.98 - 3157.71]  Speaker A
+[3158.31 - 3219.42]  Speaker A
+[3222.81 - 3227.37]  Speaker A
+[3228.09 - 3229.14]  Speaker A
+[3230.07 - 3250.17]  Speaker A
+[3251.19 - 3262.02]  Speaker A
+[3263.04 - 3264.87]  Speaker A
+[3266.79 - 3270.00]  Speaker A
+[3270.81 - 3275.76]  Speaker A
+[3279.75 - 3281.40]  Speaker A
+[3282.48 - 3285.69]  Speaker A

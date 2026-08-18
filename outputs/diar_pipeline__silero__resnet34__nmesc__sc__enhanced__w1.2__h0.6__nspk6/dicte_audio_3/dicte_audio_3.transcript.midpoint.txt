@@ -1,0 +1,724 @@
+SPEAKER_02 : BonjourNordine. Bonjourd’hui Et voici, Mathieu tout le monde est. là Bonjour à. tous Ce que je vous propose c’est un petit tour de table parce que moi je ne connais pas tout le. monde Je peux commencer si vous voulez donc moi c’est j’ai, remassé je suisexpert dataIa manager de la pratice DataIa au sein de l’élé consulting et donc par exemple travaille avec Maya sur les sujets de l’IA, générative je travaille aussi avec Della côtéRD sur la feuille de route équilibre gouvernance et régulation sur un projet d’équilibreoffre demande et la rentabilité des moyens de base etégalement côté décoffert sur desanalyses plutôtorientées.
+SPEAKER_05 : métiers Parce que je peux me présenter aussi donc moi c’est
+SPEAKER_00 : Maya, Saraoi
+SPEAKER_05 : je suis consultante confirmée, chezIVB je travaille principalement
+SPEAKER_00 : sur des projets d’IA génératifs
+SPEAKER_03 : donc en interne et en projet que j’ai menéégalement chezRTE avec Daina etGérald
+SPEAKER_05 : et donc je
+SPEAKER_03 : suis docteur
+SPEAKER_00 : en deep learning j’ai fait un doctorat en traitement automatique
+SPEAKER_04 : des
+SPEAKER_03 : langues et je rejoins il y a deux en septembre donc,
+SPEAKER_05 : voilà j’en quelques missions en ce. sens-là
+SPEAKER_02 : Je vous laisse vous. présenter
+SPEAKER_01 : Allez je commence donc Bruno le méthélier donc je suis à laRD et je pilote la feuille de route Smart Cockpit. interactif Donc ça veut dire en gros si on travaille sur les assistants en particulier pour lesopérateurs en soin de. conduite, Bonjour Mathieu, sort je suis à laRD aussiRTE la thématique assistant là dont parle Bruno là ça fait une dizaine d’années au moins qu’on l’a qu’elle évolue qu’on la fait mûrir et moi je travaille dessus depuis tout ce.
+SPEAKER_02 : temps-là Très. bien Dans, Dinka
+SPEAKER_01 : je suis aussi de la, ridée je travaille sur des thématiques d’implémentation des réseaux de neurones pour l’écosystème. principalement
+SPEAKER_02 : MaisJérôme, Picot moi je ne
+SPEAKER_01 : suis plus à la, grider j’y
+SPEAKER_02 : étais mais si, plus je suis dans une direction
+SPEAKER_01 : qui
+SPEAKER_02 : s’appelle maintenant intelligenceartificielle et innovation et je travaille sur des
+SPEAKER_01 : sujets
+SPEAKER_02 : principalement dits et génératives autour des, LLM, MCP. etc Très, bien est-ce que vous voulez que je présente notre société où il n’a pas?
+SPEAKER_01 : besoin De mon, côté je diseffectivement que j’aieuccasion de travailler qu’il est alors pas dans le même contexte puisqu’avant j’étais au département d’exploitation et puis encore avant j’étais au département, marche etc et. çaVoilà donc là j’ai dû croiser deux de vos collègues et plus sur des aspects voilà ça veut dire concept à moins recherche en tout cas donc, voilà je connais un petit. peu Je connais moinseffectivement vos activités là-dessus mais voilà en tout cas je crois qu’on aeu aussi l’occasion de voir de participer à des échanges sur un modèle que vous avez développé pour la gestion des congestions me semble bref voilà en tout cas de mon point de, vue c’estime vous connaître
+SPEAKER_02 : un.., peuOussiOk donc on peutzapper oui ou non., DandineOui c’est bon. seulement Donc ce que je vous propose c’est que vous discutiez un petit peu justement sur vos besoins sur l’IA générative et qu’on puisse un petit peu justement comprendre vos, besoins vos attentes et puis et puis voir comment on pourrait potentiellement travailler.,
+SPEAKER_01 : ensembleOui alors peut-être donceffectivement alors je me lance donc en. contexte Donc nouseffectivement les. sujets Alors je parle sur la partie assistante puisque donc dans cette table on aeffectivementJérôme Carpendront la partie disciplinaire on va dire il y a lesNLP donc côtéRD on n’est plus sur la partie on va dire assistant donc mise en application un petit peu de tout ça et recherche un peu sur la question plus de l’interaction après voilà donc de ce point de vue-là, nous on s’intéresse évidemment de plus en plus à tout ce qu’on peut faire avec le LP et puis plus récemment aussi sur ce qu’il est possible de faire avec le MCP alors nous en fait ce qui nous intéresse ça va être encore une fois ces question un peu voilà l’interface d’interaction entre l’opérateur et sesoutils donc voilà si onouvre un petit peu letruc dans le fond le MCP c’est une promesse en tout cas à ce stade pour développer des mode interface quasi conversationnel et qui permettent en restant dans un taux très fluide justement d’appeler les servicesadéquats ou de dorstrer un petit peu des différentes. briquesVoilà donc des briques de, calcul, d’études d’études, réseaux. etcVoilà donc c’est des choses qu’on. souhaiteexplorerVoilà donceffectivement là comme ça on n’a pas à date aujourd’hui de mission ou quoi claire à. proposer Je pense que le but en tout cas pour moi c’étaiteffectivement Dandine nous a indiqué que Mike t’avaiseu l’occasion de travailler dans un contexte et que tu connaissais ces sujets-là donc voilà ça nous permet à ce stade en tout cas de voilà de faire connaissance de voir un peu peut-être l’onctions que tu as pu faire ou ce qu’on pourrait faire voilà comme ça on a un peu ça en tête pour la suite éventuellement et en tout cas aujourd’hui on revient paseffectivement avec untruc, cadré un besoin où, voilà c’est plus un peu de la prise de contact en tout cas en tout cas à mon.
+SPEAKER_05 : niveau Donc je peux vous présenter si vous voulez justement les projets sur lesquels j’ai
+SPEAKER_03 : travaillé donc je n’ai pas la manque
+SPEAKER_00 : pour
+SPEAKER_01 : partager. monécranEffectivement c’est. désactivé Je sais plus qui sait qu’a envoyé la. réunion Je ne sais peut-être toi non c’est unte paraisser les activer par défaut sur la.
+SPEAKER_04 : Toy..
+SPEAKER_03 : MerciNon Donc je vais vous présenter un peu les projetsira
+SPEAKER_00 : génératifs sur lesquels on
+SPEAKER_03 : travaille de manière
+SPEAKER_00 : générale chezEly je vais me concentrer
+SPEAKER_05 : sur
+SPEAKER_04 : lesquels
+SPEAKER_03 : moi j’ai travaillé
+SPEAKER_05 : et sur d’autres missions aussi
+SPEAKER_03 : que j’ai faites avant de rejoindreYéley donc pour vous
+SPEAKER_04 : présenter un peu les compétences qu’on a
+SPEAKER_05 : chez sur desuskes comme cela donc. d’IHM
+SPEAKER_00 : Pas pour commencer le positionnement en tout
+SPEAKER_03 : cas global que j’aiadopté depuis que j’ai rejointYaley
+SPEAKER_04 : ces derniers temps
+SPEAKER_05 : aussi sur les projets
+SPEAKER_04 : dia génératives que sur lesquels je suis, intervenu
+SPEAKER_00 : c’était globalement de transformer des
+SPEAKER_03 : contenus donc des documents complexes et hétérogènes
+SPEAKER_04 : en général multimodal en sortie
+SPEAKER_03 : actionnable donc ça peut être
+SPEAKER_05 : soitextraire
+SPEAKER_04 : de réinformation pertinentes
+SPEAKER_05 : pour
+SPEAKER_03 : faciliter de la prise de
+SPEAKER_04 : décision ou
+SPEAKER_03 : créer des fiches de synthèse à partir de
+SPEAKER_04 : documents hétérogènes
+SPEAKER_03 : donc j’ai
+SPEAKER_00 : aussi
+SPEAKER_04 : il y a toujours un volet un peu d’industrialisation on va dire où je garde une notion deversionine
+SPEAKER_03 : et une notion de
+SPEAKER_04 : monitoring aussi
+SPEAKER_05 : donc sur les projets qu’on fait au sein de l’IAE
+SPEAKER_04 : et sur les mission que j’ai faite auparavant donc entermes de compétences
+SPEAKER_03 : on va toujours être sur
+SPEAKER_05 : du, multimodèle j’ai travaillé
+SPEAKER_03 : sur des modèles hébergés
+SPEAKER_00 : localement donc où j’ai directement
+SPEAKER_03 : fait du fine toiling sur des modèles dit à génératifs. typeQNTubinefiel
+SPEAKER_00 : énormément
+SPEAKER_04 : de prétraitements donc ça c’est
+SPEAKER_05 : nécessaire
+SPEAKER_03 : et aussi donc l’utilisation des pia type
+SPEAKER_05 : mistral c’est ce qu’onutilise aujourd’hui chezYannay
+SPEAKER_03 : et donc avec des gains d’usage quiont nécessité de faire du rag donc du ranking duray ranking et de
+SPEAKER_04 : la. vectorisation Des notions d’orchestration aussi
+SPEAKER_03 : donc on a chez elle on a des projets où on en est plus sur, duNUN d’autres où on
+SPEAKER_05 : fait du MCP
+SPEAKER_00 : et entermes de
+SPEAKER_03 : déploiement j’ai
+SPEAKER_05 : travaillé sur desoutils
+SPEAKER_00 : commeVLHRM
+SPEAKER_03 : ouVicorne pour déployer des, modèles des modèles que j’ai pré-entraînés et du streaminatégalement pour de la livraison
+SPEAKER_05 : de
+SPEAKER_00 : poktand.
+SPEAKER_04 : yaller Donc je vais commencer par vous
+SPEAKER_03 : présenter le projet que j’ai fait au sein. deRTE
+SPEAKER_05 : Je pense que
+SPEAKER_03 : ça. bloque C’est. bon Donc pour le projet que j’ai fait au sein de l’équipe équilibreoffre et demande, deRTE le sujetétait de pouvoir générer des étudesEOD
+SPEAKER_04 : rentabilité des moyens de. production Donc le contexte c’est
+SPEAKER_00 : que
+SPEAKER_05 : l’équipe se
+SPEAKER_03 : charge de
+SPEAKER_00 : reprendre un peu les bilans prévisionnels ou de les prendre
+SPEAKER_03 : comme référentiel comme contexte de faire des études où on
+SPEAKER_04 : prend en considération des notions donc de
+SPEAKER_03 : rentabilité
+SPEAKER_04 : donc on décline
+SPEAKER_05 : des, hypothèses on a des,
+SPEAKER_04 : scénarios onanalyse la
+SPEAKER_05 : sensibilité de toutes
+SPEAKER_03 : ces études-là
+SPEAKER_05 : pour sortir avec
+SPEAKER_03 : des résultats
+SPEAKER_04 : donc il y a des stimulations qui sont
+SPEAKER_03 : faites avec unoutil qui est développé au
+SPEAKER_05 : sein de l’équipe qui s’appelle
+SPEAKER_04 : Power donc c’est unoutil quiressemble un peu à
+SPEAKER_03 : Antares mais qui
+SPEAKER_04 : reprend des notions de rentabilité qu’on ne retrouve pas
+SPEAKER_05 : forcément surInternet donc si
+SPEAKER_03 : l’idée c’est vraiment de faire desanalyses de rentabilité des moyens de
+SPEAKER_04 : production ensuite à
+SPEAKER_03 : la suite de ces études-là donc les membres de l’équipe vont créer des fichiersVPT ils vont stocker les résultats dans des fichiers. PPDT
+SPEAKER_04 : Donc ces fichiers-là vont
+SPEAKER_00 : contenir notamment en majeure partie
+SPEAKER_03 : des graphiques donc on est sur des données qui sont hétérogènes
+SPEAKER_04 : parce qu’on a énormément d’images
+SPEAKER_03 : très peu de textes et l’idée c’est de pouvoir par la suite par
+SPEAKER_04 : filière rédiger un rapport complet rédiger un rapport qui
+SPEAKER_03 : soitexhaustif sur toutes les. filières
+SPEAKER_04 : Donc c’est à ce niveau-là donc au niveau de la rédaction du rapport complet à partir des fichiers
+SPEAKER_00 : PPT que
+SPEAKER_04 : moi je suis intervenu pour automatiser justement ce. travail-là Donc ici on est
+SPEAKER_03 : parti d’une structure de
+SPEAKER_04 : rapport qu’on a dû discuter pendant ma, mission
+SPEAKER_05 : on s’est mis d’accord sur une
+SPEAKER_04 : structure du
+SPEAKER_03 : rapport et j’ai établi donc une chaîne de traitement
+SPEAKER_04 : pour pouvoir automatiser.
+SPEAKER_05 : ça Donc
+SPEAKER_03 : l’objectifétait d’accélérer la production
+SPEAKER_00 : du rapport sans en dégrader larigueur
+SPEAKER_05 : donc ça
+SPEAKER_04 : c’est l’enjeu
+SPEAKER_03 : premier et de
+SPEAKER_00 : pouvoir
+SPEAKER_04 : en faisant çaancrer chacune des affirmations qui sont générées par monoutil dans le rapport lesancrées
+SPEAKER_03 : dans des figures où des textes y
+SPEAKER_04 : sont directement cidés dans les fichiers PPT de standardiser la
+SPEAKER_05 : structure sur des sections sur lesquelles on s’était mis d’accord
+SPEAKER_03 : au préalable
+SPEAKER_00 : et de permettre
+SPEAKER_05 : aussi une boucle de correction
+SPEAKER_03 : parce que l’idée c’est de produire
+SPEAKER_04 : unoutil de donneraccèsaux
+SPEAKER_05 : membres de l’équipe
+SPEAKER_03 : à cetoutil-là
+SPEAKER_04 : donc d’avoir une
+SPEAKER_03 : interface dédiée et qu’ils puissenteux-mêmes par la suiteitérer sur le rapport qui est rédigé pour le corriger avec des
+SPEAKER_04 : commentaires qui peuvent mettre sur chacune des sections.
+SPEAKER_03 : générées Donc lesentrées de mon modèle ou de, monoutil ça va être les fichiers PPT
+SPEAKER_05 : donc ça c’est la
+SPEAKER_04 : source principale et nécessaire pour générer le. rapport On aégalement ajouter uneoption
+SPEAKER_00 : d’ajouter une
+SPEAKER_04 : transcription vocale
+SPEAKER_00 : sousformat
+SPEAKER_05 : TXT donc ici c’est un test qu’on avait
+SPEAKER_04 : fait avec
+SPEAKER_03 : général, oui il avait repris des
+SPEAKER_04 : rapports et c’était enregistré en train il avait repris des fichiers
+SPEAKER_05 : PPD donc des, slides il s’était enregistré en
+SPEAKER_04 : train de les
+SPEAKER_03 : présenter quand on a appris
+SPEAKER_04 : cet enregistrement-là qu’on a
+SPEAKER_03 : avec un modèle de Spitch tout
+SPEAKER_04 : texte transformé en
+SPEAKER_05 : fichier TXT et ensuite on peut mettre
+SPEAKER_03 : enentrée donc cette
+SPEAKER_00 : transcription vocale-là
+SPEAKER_03 : enentrée de l’outil pour ajouter un
+SPEAKER_00 : contexte.
+SPEAKER_03 : supplémentaire Et donc
+SPEAKER_04 : par la suite
+SPEAKER_05 : la sortie de l’outil ça
+SPEAKER_04 : va être le
+SPEAKER_03 : rapport final donc en marque doune etexportable
+SPEAKER_04 : en DOK avec donc sur
+SPEAKER_05 : l’interface une possibilité de corriger une boucle de. correction Donc ça c’était un peu la
+SPEAKER_04 : vision
+SPEAKER_03 : macro de ce que
+SPEAKER_05 : j’ai fait si je veux entrer
+SPEAKER_00 : un peu plus
+SPEAKER_03 : dans le, détail j’ai fait
+SPEAKER_05 : une pipeline
+SPEAKER_03 : sur cinq briques donc la première brique si c’est une pipelineadjentique donc je vais avoir desagents qui vont se charger de chacune des étapes à chaque, étape je vais produire
+SPEAKER_05 : desartefacts que je stocke pour
+SPEAKER_04 : pouvoir les reprendre par la suite si on veut corriger à la
+SPEAKER_03 : sortie de chacune des étapes modifier quelque chose il est possible de
+SPEAKER_04 : modifier directement l’artefact pour
+SPEAKER_03 : que ça vienne directement modifier les corriger les résultats de l’étape
+SPEAKER_04 : suivante ça nous permet d’avoir duversionning pour un poc qu’on peut donc par la
+SPEAKER_03 : suite
+SPEAKER_04 : développer encore plus pour avoir un vraiversionning directement sur. l’interface
+SPEAKER_03 : Donc la première, étape c’est
+SPEAKER_05 : qui est trèsimportante c’est
+SPEAKER_04 : de
+SPEAKER_03 : prendre le fichier PPT de le traiter comme des figures et
+SPEAKER_04 : d’avoir uneanalyselight par slide du
+SPEAKER_03 : PPT donc de créer des
+SPEAKER_05 : descriptions qui soient assezexhaustives de chacun des slides contenus dans
+SPEAKER_04 : le PPT avec une classification qui
+SPEAKER_00 : va me permettre de dire
+SPEAKER_05 : si ce slide est un snightanalytique
+SPEAKER_00 : et le
+SPEAKER_03 : contenu du slide détaillé donc avec de l’OCR
+SPEAKER_04 : pour pouvoir
+SPEAKER_05 : enextraire tout le texte et
+SPEAKER_04 : uneanalyse
+SPEAKER_00 : complète du contenu
+SPEAKER_04 : des graphiques s’il y en a avec donc
+SPEAKER_03 : aussi une
+SPEAKER_00 : notion de ce que
+SPEAKER_03 : contient le slide uneanalyse de ce que contient
+SPEAKER_04 : le slide
+SPEAKER_03 : donc tout ça est
+SPEAKER_04 : fait par pendant unagent qui prend l’image enentrée et qui nous sort une description en. sortie
+SPEAKER_05 : Ensuite à chaque étape donc je garde l’historique de ce qui est sorti de l’étape précédente donc la deuxième étape va reprendre justement ces descriptions de
+SPEAKER_04 : snigh-là pour pouvoir faire un
+SPEAKER_05 : assignement des slidestections donc comme je l’avais dit au niveau du rapport
+SPEAKER_04 : nous avions choisi d’avoir quatre sections différentes
+SPEAKER_05 : donc ici le but de cette brique c’est de pouvoir
+SPEAKER_03 : dire que telle slide devrait appartenir à une telle
+SPEAKER_05 : section et descriptive de telle section
+SPEAKER_00 : et donc
+SPEAKER_03 : qu’il devrait
+SPEAKER_04 : être cité oumentionné dans telle section ou du moins qu’il devraitvenir enrichir la rédaction
+SPEAKER_05 : de cette. section-là
+SPEAKER_00 : C’est une étape que j’ai ajoutée car elle nous
+SPEAKER_03 : permet justement
+SPEAKER_04 : de ne pas voir apparaître
+SPEAKER_05 : des
+SPEAKER_04 : slidesannexes en introduction.
+SPEAKER_03 : ouautres Et l’idée de faire, oui
+SPEAKER_01 : pardoniste pour mon rang donc en fait les sections donc on est bien sur les sections qui sont prédéfinies en fait dans une structure de rapport donc ces choses qui sont fixées alors j’avoue que je vois à peu près le sujet alors je suis pas dans la partieEd là à fond donc j’ai pas forcément letruc en, tête mais voilà c’est des rapports un petit peu types en tout cas au niveau géral que dont il a été capable de vraiment défier une structure assez fine sa vie et du coup et du coup ma sous-crétion c’était pas le est-ce que par exemple pour que le modèle fonctionne bien est-ce qu’il y aeu un travail justement pour décrire un petit peu plus en détail la structure c’est-à-dire la structure si moi ça me fait juste penser à un sommaire en fait donc c’est sommaire du coup est-ce qu’il y aeu un travail pouraller un petit peu de là c’est-à-dire de dire voilà letruc trois point cinq il s’appelleX et associé à ça un travail description un peu plus détaillée justement pour aider les modèles pour lesagents parce qu’il y avait un
+SPEAKER_04 : travail?, là-dessusOui on a
+SPEAKER_00 : établi donc
+SPEAKER_04 : on a déjà les descriptions des différentes sections par
+SPEAKER_03 : exemple l’hypothèse d’un. coupJ’ai travaillé avec des notes des descriptions qui
+SPEAKER_05 : soient, assezexhaustives assez courtes aussi
+SPEAKER_03 : pour que ça ne vienne pas
+SPEAKER_00 : trop
+SPEAKER_05 : prendre de
+SPEAKER_04 : place dans
+SPEAKER_03 : la fenêtre de contexte
+SPEAKER_04 : mais on avait des descriptions pour chacune des sections à laphase de
+SPEAKER_05 : la sélection
+SPEAKER_04 : et la signation
+SPEAKER_05 : des slidesaux sections
+SPEAKER_04 : en plus d’avoir des règles
+SPEAKER_03 : un
+SPEAKER_04 : peu une
+SPEAKER_00 : surcousse
+SPEAKER_03 : de règles
+SPEAKER_04 : où par
+SPEAKER_05 : exemple j’ai une section
+SPEAKER_04 : qui contient la
+SPEAKER_03 : comparaison des études entreFrance
+SPEAKER_04 : et d’autres pays enEurope et on s’était dit que par
+SPEAKER_00 : exemple les graphiques quivenaient
+SPEAKER_03 : d’écrire
+SPEAKER_04 : des résultats qui avaient été faits desanalyses qui
+SPEAKER_03 : avaient été faites sur d’autres pays que laFrance ne devrait
+SPEAKER_04 : pas apparaître en introduction ou dans la section hypothèse de coût
+SPEAKER_05 : que ça serait plusvers
+SPEAKER_04 : la dernière section on compare
+SPEAKER_03 : les
+SPEAKER_05 : résultatsFranceVS et d’autres
+SPEAKER_03 : pays
+SPEAKER_04 : maintenant qu’on avait des règles
+SPEAKER_03 : comme
+SPEAKER_05 : ça où dans laphase compréhension et, description j’allais
+SPEAKER_04 : récupérer l’information de quel
+SPEAKER_05 : paysétait traité dans ce slic-là
+SPEAKER_04 : et si c’était unautre
+SPEAKER_03 : pays que
+SPEAKER_05 : laFrance dans laphase assignement
+SPEAKER_04 : j’assignais automatiquement à la dernière section donc qui
+SPEAKER_03 : estFrance
+SPEAKER_05 : BSautre
+SPEAKER_00 : pays plutôt
+SPEAKER_05 : que hypothèse de.
+SPEAKER_02 : coûtJ’ai complété donc on avait une
+SPEAKER_05 : description des hypothèses plus des règles
+SPEAKER_03 : d’assignement. oui
+SPEAKER_02 : Donc en, fait la partie sélection y assignation on peut apparenter ça de la catégorisation et donc savoir dans quel vraiment chapitre ça doitaller et les chapitresont une structureidentique donc en fait on a comme si on avait deuxtemplates finalement untemplate de ce que va contenir chaque chapitre et untemplate des catégories finalement à signer et pouraller aussi pour le côté interface on a cherché quelque chose de très simple ça a été un, poc c’est vraiment pour démontrer que l’IA peut apporter de la valeur sur la génération de rapports et on a fait ça en vingt-cinq., joursOui incluant les ateliers enamont donc c’est vraiment quelque chose qui a été réalisé rapidement on a un rex aussi sur ce qui fonctionne les suites à donner et donc là on est plutôt enutilisation pour continuer à rédiger le, rapport l’humain passe derrière évidemment puisque ça reste un poc et on vaitérer avecGérald pour savoir s’il y a des suites ou pas sur cette généralisation de rapports qui pourraitégalement intéresser dièse pas que le. côtéRD Tu veux peut-être parler de la partie suivante.
+SPEAKER_03 : oui., BasileOui.
+SPEAKER_00 : oui Aussi pour ajouter un détail
+SPEAKER_04 : sur l’assignation donc en
+SPEAKER_03 : plus
+SPEAKER_04 : des informations un peu
+SPEAKER_03 : métier sur les
+SPEAKER_04 : différentes sections et les descriptions
+SPEAKER_05 : des.
+SPEAKER_03 : sectionsJ’avaiségalement
+SPEAKER_00 : donc cette
+SPEAKER_04 : partie là c’est la
+SPEAKER_05 : partie la plus globale
+SPEAKER_00 : où on ne se
+SPEAKER_05 : concentre pas sur une section à la, fois
+SPEAKER_00 : mais on a où on a
+SPEAKER_04 : une vue globale sur
+SPEAKER_03 : tous les
+SPEAKER_05 : slides donc ici par exemple c’était trèsimportant et ça a
+SPEAKER_00 : ajouté beaucoup de valeur le fait de récupérer
+SPEAKER_03 : les slides qui représentaient en début
+SPEAKER_04 : de section
+SPEAKER_03 : au niveau donc du PPT
+SPEAKER_04 : pour avoir une
+SPEAKER_00 : notion
+SPEAKER_05 : de structure
+SPEAKER_03 : globale
+SPEAKER_05 : et ne pas assigner des
+SPEAKER_00 : slides de résultats
+SPEAKER_04 : dans l’introduction par. exemple Donc
+SPEAKER_03 : il y avait beaucoup de
+SPEAKER_04 : nuances à prendre en considération pour avoir une bonne classification
+SPEAKER_05 : des figures et des slides et
+SPEAKER_04 : une bonne assignationaux bonnes sections et ensuite donc
+SPEAKER_03 : l’étape
+SPEAKER_05 : d’après qui est celle de
+SPEAKER_04 : la rédaction ici la rédaction
+SPEAKER_03 : se fait
+SPEAKER_04 : section par section donc je vais avoir unagent qui va rédiger une section enfin chacune des sections séparément et ici
+SPEAKER_05 : donc
+SPEAKER_04 : ça vient après, l’assignation on rédige section par section dans un premier temps je rédige uniquement
+SPEAKER_03 : au niveau des bullets points
+SPEAKER_04 : donc je me concentre plus sur le fond que sur laforme
+SPEAKER_05 : et une fois le bulletpoint
+SPEAKER_03 : se, produit je les reprends
+SPEAKER_04 : pour pouvoir
+SPEAKER_03 : rédiger la prose donc ajouter un texte qui soit plus lisible et
+SPEAKER_04 : où on ajoute plus d’informes donc ici
+SPEAKER_03 : j’ai apporté
+SPEAKER_04 : énormément de valeurégalement de pouvoir séparer le front de laforme au niveau de
+SPEAKER_05 : la rédaction et ça facilite aussi la correction puisque c’est plus simple de pouvoir corriger les bonnet Points si on le souhaite plutôt
+SPEAKER_00 : que
+SPEAKER_05 : de corriger un texte. complet
+SPEAKER_03 : Donc ici
+SPEAKER_05 : le fait de rédiger section par section
+SPEAKER_00 : aideégalement au niveau de la
+SPEAKER_05 : boucle de. correction Après la rédaction
+SPEAKER_04 : on passe en intégration,
+SPEAKER_05 : d’intégration c’est le fait de regrouper toutes les sections
+SPEAKER_04 : entre. ellesJ’ai un dernieragent qui vavenir redire le rapport et enlever tout ce
+SPEAKER_00 : qui est redondance et incohérence entre les
+SPEAKER_04 : différentes sections et à la, fin j’ai une boucle de correction qui permet d’itérer au niveau des sections donc ici on prend, lesartefacts
+SPEAKER_05 : les bold
+SPEAKER_00 : Trince quiont été la
+SPEAKER_05 : sortie de
+SPEAKER_00 : la brique d’action
+SPEAKER_05 : et si on veut corriger par exemple une sélection donnée ici dans l’outil on peut sélectionner une section
+SPEAKER_00 : ajouter un commentaire et ça
+SPEAKER_04 : va directement donc prendre le commentaire et
+SPEAKER_00 : l’artefact donc les
+SPEAKER_05 : bulletchpoints
+SPEAKER_00 : concernant la section en question
+SPEAKER_04 : vont être envoyés à unagent
+SPEAKER_05 : qui se chargera
+SPEAKER_04 : de rediger la section en fonction
+SPEAKER_00 : des commentaires
+SPEAKER_04 : quiont été. émis Donc ça permet d’avoir une boucle
+SPEAKER_05 : de correction
+SPEAKER_04 : un peu
+SPEAKER_00 : minimale
+SPEAKER_04 : qu’on a réussi à réaliser
+SPEAKER_05 : en cinq
+SPEAKER_04 : semaines qu’on peut pousser
+SPEAKER_05 : par la suite plus loin avec une notion de correction plus. globale Donc je ne sais pas si vous avez des questions à ce.
+SPEAKER_01 : niveau-là Moi j’ai une petite question en fait il y a quand même la contrainte d’avoir untemplate au début siadmettons qu’on n’a pas untemplate mais peut-être trois ou quatre
+SPEAKER_02 : façons de faire
+SPEAKER_01 : des présentations est-ce que en fait voilà ce que vous avez fait peut s’adapter facilement où il faut intégrer
+SPEAKER_02 : unagent
+SPEAKER_01 : qui va faire la sélection destemplates pour faire la suite
+SPEAKER_05 : au je pense que ça peut s’intégrer assez facilement le besoin d’avoir
+SPEAKER_04 : untemplate iciétait plus un besoin
+SPEAKER_03 : métier a vu que le
+SPEAKER_00 : rapport final
+SPEAKER_04 : doit
+SPEAKER_03 : être structuré
+SPEAKER_04 : donc c’était un besoin métier de rédiger des rapports qui
+SPEAKER_03 : soient structurés avec
+SPEAKER_05 : untemplate assez précis
+SPEAKER_04 : on ne pouvait pas vraiment sortir de ce, cadre-là
+SPEAKER_03 : mais l’outil en lui-même peut
+SPEAKER_00 : êtreadapté à
+SPEAKER_04 : uneutilisation sanstemplate au lieu de rédiger plusieurs, sections on rédigerait une seule mais avec
+SPEAKER_00 : des directives de temps et de.
+SPEAKER_04 : contenu Si je comprends bien la.
+SPEAKER_01 : question C’est, parfait.
+SPEAKER_02 : merci. Merci L’hypothèse donc attend que. moi Si je reviens l’hypothèse d’unagent avec différentstemplates pourrait aussi fonctionner en fait donc je pense que l’outil tel qu’on l’a pensé en fait il prend untemplate donc on peut le faire tourner plusieurs, fois mais avoir multiples, sorties c’est soit une petiteadaptation soit finalement unagent qui permettrait d’orienter la sélection des, chapitres la signation et le contenu de chaque chapitre donc les deux approches peuvent se.
+SPEAKER_00 : faire Donc d’un point de
+SPEAKER_05 : vue robustesse même si onétait sur une mission assez
+SPEAKER_03 : courte et que le butétait plus de faire un
+SPEAKER_04 : poc pour voir si onarrive à automatiser
+SPEAKER_05 : justement cette tâche
+SPEAKER_04 : de, rédaction-là c’était quand mêmeimportant d’avoir certaines
+SPEAKER_03 : notions de robustesse
+SPEAKER_04 : donc ici par exemple
+SPEAKER_00 : le fait
+SPEAKER_04 : de prendre en considération la structure
+SPEAKER_03 : finale et
+SPEAKER_05 : de séparer la rédaction en section
+SPEAKER_00 : nous permet d’avoir une
+SPEAKER_04 : meilleure gestion
+SPEAKER_05 : deserreurs
+SPEAKER_00 : qui peuventarriver et le
+SPEAKER_05 : fait, l’assignement
+SPEAKER_04 : l’assignation pardon
+SPEAKER_05 : des slides par section nous permet d’avoir aussi une certaine traçabilité pour savoir
+SPEAKER_00 : d’où vient uneerreur au niveau d’une
+SPEAKER_05 : section donc et pouvoir la corriger assez rapidement donc
+SPEAKER_00 : j’aitenu àimplémenter des garde-fous comme cela pour
+SPEAKER_04 : pouvoir avoir des notions
+SPEAKER_05 : de robustesse même sur ce pot là et donc le fait d’avoir aussi desartefacts
+SPEAKER_03 : à la sortie de chacune des briques
+SPEAKER_04 : permet très
+SPEAKER_00 : facilement
+SPEAKER_05 : de tracer donc si on
+SPEAKER_04 : a des hallucinucinations ou
+SPEAKER_00 : deserreurs d’avoir
+SPEAKER_05 : une notion de traçabilité de savoir à
+SPEAKER_00 : quelle brique on doit corriger l’erreur et donc ça m’a énormément aidéégalement pendant la réalisation de l’outil et pendant enitérant sur les
+SPEAKER_04 : prompes et enitérant aussi sur l’architecture d’avoir cesartefact, intermédiaires-là mais ça permet
+SPEAKER_05 : aussi pour ça fait une notion d’uneversion qui peut être pousse des plus loin avec
+SPEAKER_00 : cesartefacts-là où on pourrait par exemple avoir une notion deYumanine de loupe ou
+SPEAKER_04 : on peut intervenir à la sortie à la fin de chacune des
+SPEAKER_05 : briques corrigées à la
+SPEAKER_03 : sortie de chacune des
+SPEAKER_00 : briques et donc avoir une validation humaine
+SPEAKER_05 : à
+SPEAKER_00 : chacun des niveaux pour avoir un résultat final
+SPEAKER_05 : qui soit.
+SPEAKER_00 : robuste Donc il y a aussi
+SPEAKER_05 : la.. partieOui Il y a aussi la notion
+SPEAKER_00 : de la
+SPEAKER_04 : correctionitérative donc ici on a une boucle
+SPEAKER_05 : de correction on
+SPEAKER_04 : peut ajouter
+SPEAKER_03 : des
+SPEAKER_04 : commentairesaux sections et pouvoir
+SPEAKER_03 : régénérer
+SPEAKER_05 : le rapport à la base de
+SPEAKER_04 : ces
+SPEAKER_03 : commentaires-là et donc au final car unexport
+SPEAKER_05 : deX qui
+SPEAKER_04 : est. reproductible
+SPEAKER_00 : On aégalement
+SPEAKER_05 : je ne vous fais pas tout le
+SPEAKER_00 : rex ici
+SPEAKER_05 : mais on aégalement donc certaines
+SPEAKER_00 : limites qui avaient été
+SPEAKER_05 : déjàmentionnées au
+SPEAKER_04 : début de la
+SPEAKER_05 : mission donc c’était des limites qui
+SPEAKER_03 : étaient horscopes mais
+SPEAKER_00 : qu’il estimportant de garder en tête
+SPEAKER_03 : par exemple le fait qu’on n’ait pasimplémenté decheckin chiffré
+SPEAKER_05 : sur
+SPEAKER_00 : les valeurs dont on faisait l’extraction
+SPEAKER_05 : à
+SPEAKER_00 : partir
+SPEAKER_03 : des
+SPEAKER_00 : graphiques c’était horscope l’idée n’était pas de
+SPEAKER_05 : faire ça dans cette, premièreitération-là mais c’est quelque chose qui peut se faire avec
+SPEAKER_04 : desargentsanti-hallucination ou en vérifiant des intervalles de
+SPEAKER_00 : confiance des
+SPEAKER_04 : différentes valeurs qui.
+SPEAKER_00 : sontextraites On ne peut pas à ce
+SPEAKER_05 : niveau-là aussi donc dans cetteitération-là
+SPEAKER_00 : on ne fait pas de reconstruction depuis des données brutes donc on avait
+SPEAKER_04 : à disposition
+SPEAKER_05 : des, fichiersExcel mais ça ne faisait pas partie du scot de la
+SPEAKER_00 : missionégalement de
+SPEAKER_04 : reconstruire des graphiques à partir
+SPEAKER_05 : de ces données
+SPEAKER_00 : brutes-là
+SPEAKER_03 : et le fait que la
+SPEAKER_05 : correction
+SPEAKER_04 : pour l’instant se fasse au niveau des sections est non à un niveau macro donc on ne peut pasimposer un temps global sur tout le rapportaux données en commentaire global sur tout le.
+SPEAKER_05 : rapport C’est plus des commentaires au niveau des sections pour l’instant mais ça
+SPEAKER_00 : peut.
+SPEAKER_04 : s’implémenterégalement
+SPEAKER_00 : Donc voilà pour ce premier projet pour ce projet qui a été fait avecRTE et.
+SPEAKER_05 : l’équipeED Je ne sais pas si vous avez des questions déjà
+SPEAKER_04 : à ce, niveau-là sinon je peux passer à la
+SPEAKER_05 : présentation de
+SPEAKER_03 : quelquesautres projets
+SPEAKER_05 : de présentation un peu macro de projets sur lesquels j’ai.
+SPEAKER_01 : travaillé Ilétait direct pour. l’appel La durée c’était j’ai beaucoup passé quelques mois si ça c’était entre septembre et il n’y a pas longtemps qu’en fait c’était.
+SPEAKER_02 : ça.
+SPEAKER_01 : Semaine Les vingt-cinq janvier c’est ce que tu veux, etok tu hés à la, pardon j’avais retenu.,
+SPEAKER_05 : septansOk., trenteOk.
+SPEAKER_01 : merci Après, ouieffectivement sur les questions. donc Donc làeffectivement alors on est peut-être ces deux cas d’usage qui nous peuvent nous intéresser c’est plus la partieeffectivement un peu synthèse générative ou à peu. près Donc ça c’est vrai que nous on peut avoir aussi des cas d’usage là-dessus à savoir la capacité de pouvoir en fait voilà prendre des sources de données hétérogènes des, spatues. etc Peut-être pour les aider à sthister les choses lire des rapports d’événements par. exempleGenre de. choses Il y a toujours cette question de synthèse et c’est un peu dans les deux sens et s’il y a de tout à l’heure je parlais du tempsentrant donc le sens un peu fronting et là il n’en s’en sortanteffectivement il y a aussi cette question de synthèse d’événements ou synthèse de données donc là je comprends que ça range un petit peu ce qu’a duZalk et donc du coup voilà d’où ma question justement sur l’autre sens sur justement tout ce qui est MCP est-ce que c’est des donc ça c’était pas l’objet de ces travaux-là est-ce qu’il y a des choses sur lesquelles voilà vous avez pueu l’occasion de travailler donc plus dans uneoptique un petit peuorchestration quoi avec plusieurs., briquesOui
+SPEAKER_05 : ici je peux
+SPEAKER_00 : peut-êtrealler
+SPEAKER_04 : sur d’autres projets qu’on a
+SPEAKER_00 : fait en interne donc le premier
+SPEAKER_05 : projet c’est unoutil de
+SPEAKER_04 : rédaction àeau où pour le coup on fait de l’orchestration mais on est plus
+SPEAKER_05 : surN8N
+SPEAKER_03 : que
+SPEAKER_05 : sur du MCP
+SPEAKER_00 : donc ici on a plusieursagents
+SPEAKER_04 : qui sont basés
+SPEAKER_03 : sur des racks
+SPEAKER_00 : qui sont spécialisés donc soit dans unagent CV l’objectif final
+SPEAKER_05 : c’est
+SPEAKER_00 : d’assister à les collaborateurs dans la rédaction de
+SPEAKER_05 : réponsesaux appels
+SPEAKER_00 : d’offres donc on a développé plusieurs
+SPEAKER_05 : modèles qui sont des modèles au final desagentségalement donc des. règles On a un rack qui est fait sur les CV
+SPEAKER_00 : entermes y, aillé
+SPEAKER_05 : un rack qui est fait sur
+SPEAKER_00 : les références un sur
+SPEAKER_04 : un sur les réponses AO de manière générale et ensuite on va
+SPEAKER_00 : avoir unoutil qui est modulaire où on peut faire appel à chacun
+SPEAKER_05 : de cesoutils-là si on veut
+SPEAKER_00 : récupérer par exemple mettre
+SPEAKER_04 : enentrée une
+SPEAKER_05 : réponse
+SPEAKER_00 : un appel d’offre et demander à l’outil de nous générer de nous donner
+SPEAKER_05 : la liste de CV intéressants pour cet appel, d’offres-là la liste de références qui pourrait être intéressant pour cet AO ou de rédiger le contexte et la. méthode Donc ici on est sur
+SPEAKER_03 : duN8
+SPEAKER_00 : avec
+SPEAKER_05 : plusieursoutils qui peuvent être questionnés
+SPEAKER_04 : avec. uneorchestrationN8N, Ensuite
+SPEAKER_00 : on aégalement unautre
+SPEAKER_05 : projet fin c’est un projet sur lequel
+SPEAKER_00 : je suis en train de travailler actuellement qui est unoutil de génération de résumé de réunion
+SPEAKER_05 : où donc là
+SPEAKER_00 : j’en suis au début de l’implémentation
+SPEAKER_05 : de. l’outil
+SPEAKER_00 : L’objectif final c’est de pouvoir à partir donc d’avoir unoutil qui soit interactif
+SPEAKER_05 : donc que ce soit en chatbod pour l’instant c’est là où j’en suis plus avec un MCP faire appel à plusieursoutils
+SPEAKER_00 : qui sont développés en interne chez elleyégalement ou à desIPI pour
+SPEAKER_05 : l’instant je suis plus sur desoutils
+SPEAKER_04 : développés en interne
+SPEAKER_00 : donc unoutil qui peutaller
+SPEAKER_05 : chercher directement sur
+SPEAKER_00 : le sherpoint des notes de réunion et générer une synthèse
+SPEAKER_05 : ou unoutil
+SPEAKER_00 : qui peut permettre
+SPEAKER_05 : d’exporter les notes de synthèse qui sont. générées Ensuite l’idée ça serait de
+SPEAKER_00 : pouvoir donc ajouter lesformes augmenter
+SPEAKER_05 : notre liste d’outils qui seraientorchestrés
+SPEAKER_00 : par un MCP notamment en ajoutant donc une possibilité d’enregistrement vocal des réunions
+SPEAKER_03 : ou une possibilité de générer des mindomad
+SPEAKER_05 : par exemple
+SPEAKER_04 : donc fais ça avec
+SPEAKER_03 : l’interface LM qui servirait et qui va
+SPEAKER_04 : servir de client avec unaccès globalauxoutils qu’on est en train de construire
+SPEAKER_00 : petit à petit
+SPEAKER_03 : toujours
+SPEAKER_05 : autour de ce cas
+SPEAKER_03 : d’usage-là qui
+SPEAKER_00 : est d’augmenter les
+SPEAKER_04 : consultants et d’automatiser la génération
+SPEAKER_05 : de synthèse
+SPEAKER_03 : et
+SPEAKER_04 : de la compréhension de manière générale des réunions qu’on. fait Donc
+SPEAKER_01 : c’est du coup ça c’est un travail que vous faites pour entre guillemets gagner en souveraineté par rapport à l’association de l’apparence ça fait penser à notre bouquet typiquement ou d’autres marché c’est pour gagner en souveraineté on va dire au sein des sureau
+SPEAKER_04 : pour gagner des notions de confidentialité
+SPEAKER_00 : et gagner peut-être en
+SPEAKER_04 : précision aussi parce qu’àterme on
+SPEAKER_03 : voudrait peut-être avoir le
+SPEAKER_04 : LNM qui soit en rac directement sur
+SPEAKER_03 : des donnéesopen
+SPEAKER_04 : data énergie donc avoir unagent qui soit vraiment spécialisé dans nos sujets à nous et qui puisse
+SPEAKER_05 : générer
+SPEAKER_00 : des synthèses et
+SPEAKER_04 : même augmenter les synthèses et faire des propositions
+SPEAKER_00 : plus complètes et mieuxadapter à notre. contexte
+SPEAKER_02 : C’est aussi pour cloisonner c’est-à-dire que si onutilise cetoutil par exemple au sein deRTE c’est pour que ça reste côtéRTE et que ce ne soit pas finalement côté gaillé donc il y a tout cet aspect aussi on cherche à avoir une souveraineté qui soitliée à l’outil et à l’environnement dans lequel l’outil. estutilisé
+SPEAKER_00 : Donc pour les deux
+SPEAKER_05 : missionsorchestration
+SPEAKER_04 : au
+SPEAKER_03 : sein de sur lesquelles j’ai
+SPEAKER_05 : travaillé ces deux cas d’usage-là sinon
+SPEAKER_04 : on a unautre projet qui est en
+SPEAKER_03 : courségalement
+SPEAKER_00 : qui est unagent
+SPEAKER_04 : de planification de pok
+SPEAKER_03 : et donc on n’est pas sur de l’orchestration
+SPEAKER_05 : parce que
+SPEAKER_04 : ça se fait autobre l’accès
+SPEAKER_03 : à unoutil qui va faire de lawebSir tu pourrais récupérer de
+SPEAKER_04 : la bibliographie à partir
+SPEAKER_05 : d’un sujet
+SPEAKER_00 : donné et de proposer uneodmap pour mettre en
+SPEAKER_05 : place un projet donné se fait automatiquement
+SPEAKER_04 : pour l’instant on n’a pas encoreimplémenté de,
+SPEAKER_05 : MCP mais àterme l’idée ça serait
+SPEAKER_00 : d’avoir unagent qui peut
+SPEAKER_05 : où on peututiliser
+SPEAKER_00 : plusieursoutils donc dans un premier temps faire
+SPEAKER_03 : de la bibliographie grâce à
+SPEAKER_05 : cetoutil-là mais aussi avoiraccès à plusieursoutils de
+SPEAKER_04 : simulation pour pouvoir mettre en
+SPEAKER_03 : place l’époque
+SPEAKER_00 : justement sur lesquelles
+SPEAKER_03 : on veut. travailler Donc l’idée c’est
+SPEAKER_04 : de vraiment pouvoir avoir une pipeline un peu
+SPEAKER_03 : un twend
+SPEAKER_05 : qui
+SPEAKER_04 : propose un
+SPEAKER_00 : poc minimal sur
+SPEAKER_03 : un sujet donné on fait beaucoup
+SPEAKER_04 : de hackaton par exemple au sein
+SPEAKER_05 : deID et ça nous permettrait d’aller
+SPEAKER_03 : plus vite sur
+SPEAKER_05 : ce genre de. sujet-là
+SPEAKER_02 : Donc, là c’est aussi une aide pour avoir un côté démonstrateur donc enallant chercher assez rapidement tout ce qui est état de l’art comprendre finalement comment des problématiques peuvent être résolues en étant tout dettes sur la partie recherche et développement en se basant sur duRKEVX par exemple ou d’autres types de sources qui permettent d’avoir ces nouvelles tendances et potentiellement d’arriver à en faire un pox c’est-à-dire que lesagents codent et puissent avoir uneffet mêmeQuickanderty mais apporter cette démonstration et ensuite évidemment c’est de faire l’ingénierie logicielle qui va.. derrièreOkEst-ce que vous avez des questions par rapport à ça ou Maya je crois que tu avais encore une ou deux un ou deux projets à? présenter Il en
+SPEAKER_05 : rester un, projet je n’ai pas vomis tous les projets sur lesquels
+SPEAKER_00 : j’allais travaillé mais
+SPEAKER_05 : il me restait
+SPEAKER_03 : un projet sur lequel j’avais
+SPEAKER_00 : travaillé pour le coup avant de
+SPEAKER_03 : rejoindreYéley
+SPEAKER_00 : mais qui est toujours sûr de lier
+SPEAKER_05 : générative donc j’ai ajouté ce projet-là parce
+SPEAKER_04 : qu’au coup
+SPEAKER_00 : c’est un projet quiétait hébergé donc en prem
+SPEAKER_03 : et où j’ai travaillé sur l’objectif du projetétait de
+SPEAKER_04 : pouvoirextraire des informations à
+SPEAKER_00 : partir de documents
+SPEAKER_04 : scannésadministocumentsadministratifs
+SPEAKER_00 : scannés de pouvoir enextraire donc par exemple des salaires nets brut total de
+SPEAKER_03 : les classifier
+SPEAKER_00 : le métier de la, personne etc
+SPEAKER_04 : et d’avoir
+SPEAKER_00 : unoutilVLM qui
+SPEAKER_04 : puisse nous dire si
+SPEAKER_05 : estimer un pourcentage
+SPEAKER_00 : de conformité du.
+SPEAKER_05 : document Donc ici l’idée c’est par exemple d’extraire
+SPEAKER_00 : le salaire et le
+SPEAKER_05 : métier de la personne
+SPEAKER_03 : et de regarder par
+SPEAKER_00 : rapport à tous les documents qu’on a
+SPEAKER_05 : déjà sur lesquels on a déjà travaillé si le salaire par rapport au métier
+SPEAKER_00 : est tout le temps dans une intervalle de confiance donc ça nous
+SPEAKER_05 : donne une notion
+SPEAKER_00 : de conformité dans le. document
+SPEAKER_05 : C’est unoutil de détection de froide et donc ici
+SPEAKER_00 : j’avais travaillé sur toute la partie prétraitement des
+SPEAKER_03 : documents qui étaient quand même assez prenantes mais la
+SPEAKER_00 : partieégalement la partie donc apprentissage et fin une journée du modèle
+SPEAKER_05 : du visuo lingo du modèle donc ici je vais travailler sur leFining
+SPEAKER_00 : deQuendInfibeVL et donc en
+SPEAKER_05 : récupérant la sortie structurée
+SPEAKER_03 : de
+SPEAKER_05 : toutes les informations qu’on
+SPEAKER_00 : voulaitextraire et ensuite sur la partie contrôle d’anomalie
+SPEAKER_05 : et aussi sur
+SPEAKER_00 : le déploiement du modèle avecVLM etUVCorn
+SPEAKER_05 : et sur un
+SPEAKER_00 : Dashboard donc qui permettait de monitorer toute cette chaîne de traitement-là et les résultats qu’onobtenait en prod pour pouvoir détecter des drifts par exemple en performance
+SPEAKER_05 : donc c’est un projet que j’ai cité parce qu’il sort un peu du lot de ce qu’on
+SPEAKER_00 : a cité
+SPEAKER_05 : des projets que je citais
+SPEAKER_00 : avant dix-huitans parce
+SPEAKER_05 : que ici c’est un
+SPEAKER_00 : modèle qui est hébergé en local
+SPEAKER_05 : et c’est
+SPEAKER_04 : aussi un
+SPEAKER_03 : modèle
+SPEAKER_00 : il y aeu un travail de file chauni donc pour dire que il y a peut-être des projets
+SPEAKER_03 : qui peuvent nécessiter que je filtonine sur
+SPEAKER_00 : lesquels on peutégalement intervenir. chezYelVoilà et ici enfin le finang c’était par rapport à la qualité des données enentrée mais aussi parce que
+SPEAKER_05 : les documents étaient
+SPEAKER_00 : souvent rédigés enarabe
+SPEAKER_05 : donc ça le filetooningétait assezadéquat pour ce cas.
+SPEAKER_02 : d’usage-làEst-ce que vous avez des questions?,
+SPEAKER_01 : ouiOui pardon là sur le scan c’est tu l’as peut-être dit vous l’a peut-être dit et pardon c’était manuscrit ou pas.
+SPEAKER_04 : lesentrées Il pouvait avoir des documents
+SPEAKER_03 : manuscrits. oui, D’accord c’était assez
+SPEAKER_00 : horigène que j’avais unagent qui
+SPEAKER_05 : faisait d’abord la classification en manuscrit
+SPEAKER_00 : ou
+SPEAKER_03 : rédigeait
+SPEAKER_00 : donc en non manuscrit et ensuite unagent
+SPEAKER_05 : quivenait faire la classification sur le type de
+SPEAKER_00 : document
+SPEAKER_04 : et il en avait certains cas où on
+SPEAKER_03 : avait des modèles qui défunt une
+SPEAKER_05 : journée spécialement pour ces
+SPEAKER_00 : cas-là d’autres cas où un coin tout pointfive poitrand et non
+SPEAKER_04 : fineétait. suffisant Mais on avait donc
+SPEAKER_05 : les deux. possibilitésEst-ce
+SPEAKER_02 : que ça vous inspire certaines choses par rapport à des cas d’usage donc peut-être que le texte n’est pas trop votre sujet à part pour les rapports côté actif peut-être ou les synthèses à générer est-ce que ça vous inspire quelque chose est-ce que vous vouliez partager les cas d’usage qu’on pourrait peut-êtreessayer de réfléchir et de rebondir sur notre vision pour vous la?
+SPEAKER_01 : partager Alorseffectivement c’est pour ça qu’on a cet échange-là donceffectivement on est bien sur le même type de cas d’usage après là nos vues de ce que je vois c’est vrai qu’on est peut-être pluseffectivement sur des choses assezorientées parce que alors je parlais un peu de la, partieorchestration etc parce que va être nous qui peut nous intéresser ça peut être de travailler peut-être plus sur la partie MCP en tant que. telle, Là c’est les travaux à s’orienterNLP alors encore une, fois ce n’est pas le premiertruc auquel j’avais pensé par rapport au MCP mais c’est aussi les cas d’usage qu’on a comme je le disais le fait de pouvoir synthétiser les choses ou le fait de justement de synthétiser des sources de données assez disparates n’importe quoi des blocs d’alarme des messages ou des petites choses assez fragmentées puis Derruel estallait synthétiser donc ça correspondait à ce qui a été fait. ici Je parlais là de l’aspect manuscrit parce que mon sais aussi des choses qu’on regarde même si on a déjà des travaux en cours là-dessus donc mais peut-être dans un temps un peu plus moyenterme on va dire peut-êtrearriver à continuer sur ces questions-là de texte. manuscritVoilà je vois le coheneffectivement c’est ce qu’on avait vu là de potentialité pour les notes manuscrits de dispatcher en fait c’est quelusage c’est un périle ce quiressentait un peu notre beichman donc c’est pour ça que je le voilà et ça me fait. penserVoilà donc ça voudrait que là de ce que je vois c’est que ça m’évoque plus un travail assez focalisé enNLP encore une, fois c’est aussi des choses qu’on a peut-être moins MCP, voilà c’est un petit retour comme ça à chaud parce qu’après encore une, fois c’est vrai que sur, leNCP il y a la question du LLM mais finalement il y a aussi la question du serveur MCP en tant que. tel Je pense le fait la capacité finalement de dire on a desoutils d’études qui peuvent être voilà assez complexes donc commentarriver à faire cette interaction à. l’élèmeVoilà c’est un premier retour à chaud donc moi je vois des connexions avec certains cas d’usage qu’on a peut-être moins sur la MCP mais voilà comme ça à chaud ça reste. pertinent
+SPEAKER_05 : Mais je vous rejoins aussi sur le MCP ça a
+SPEAKER_00 : faitégalement partie de notre feuille de route
+SPEAKER_03 : entermes justement d’avoir des serveurs MCP où on peut directement se
+SPEAKER_05 : brancher sur desoutils de simulation
+SPEAKER_00 : justement
+SPEAKER_03 : l’idée du poc
+SPEAKER_05 : de l’outil qui puisse
+SPEAKER_04 : perdu
+SPEAKER_00 : un. pocNoën L’idée n’est pas uniquement d’avoir une proposition d’un plan
+SPEAKER_03 : de travail mais plutôt d’appliquer par la suite le plan de
+SPEAKER_00 : travail donc de prendre
+SPEAKER_03 : le plan de travail qui est généré par le premieragent
+SPEAKER_00 : comme des directives
+SPEAKER_05 : et d’aller chercher
+SPEAKER_04 : dans via un
+SPEAKER_00 : MCP
+SPEAKER_04 : dans lesoutils internes
+SPEAKER_00 : qu’on a
+SPEAKER_05 : ou lesoutils de simulation
+SPEAKER_04 : quiexistent de récupérer le bonoutil et de faire la simulation avec les données quiont
+SPEAKER_05 : été proposées par le premieragent donc c’est complètement dans notre feuille de.
+SPEAKER_01 : routeégalement Mais non mais je réagissaiseffectivement plus sur la dans l’immédiat encore une fois à chose sur les travaux que je voyais aprèseux je comprends si vous avez ça dans votre.
+SPEAKER_02 : patrie Si pour ça qu’on avait évoqué avecGérald puisque sur la partie rentabilité des moyens de production en, fait on aeu un scope qui a été ciblé sur les moyens de production mais finalement on a une matrice en attente avec un certain nombre d’études à dérouler et donc l’idée c’était aussi d’avoir finalement ce MCP qui puisse préparer toutes les, simulations lesorchestrer et brancher derrière l’outil de génération de rapports et c’est aussi ce qu’on avait en tête qui pouvait potentiellement intéresser, dèse c’est-à-dire qu’il y a le côté finalement pré-rapport puisque de toute façon il faut toujours qu’il soit, relu ça passe devant des, comités mais ça pourrait aussi faire toute cette partieamont qui est de préparer les, scénarios les, études de les, lancer de faire uncheckpoint sur est-ce que finalement l’étude est équilibrée d’avoir un contrôle humain pour dire ce qu’il faut, modifier voire potentiellement unagent quiarrive à le modifier et de continuer finalement à aider cette partie lancement des simulations deNT et que l’humain puisse derrière avoir la valeur. ajoutée L’étude on sait qu’il y a les, robustes on a l’étude de sensibilité qui a été, faite on a les sorties, d’analyse on a les premiers, résultats on a finalement un, pré-rapport on n’a plus qu’à travailler et donner la bonne direction pour finalement le BP ou le futur.,
+SPEAKER_01 : énergétiqueOuieffectivement c’est intéressant oui cetteorchestration d’études donc nous en tout, cas alors évidemment le contexte n’est pas le dumentaire donc il y a d’autres types d’outils mais on sera bien un peu sur ce type de choses-là c’est-à-dire savoir naviguer entre des, hypothèses etc parce que c’est la problématique qu’on peut avoir souvent en temps réel donc récupérer des hypothèses un petit peu à droite à gauche parce que passer déjà récupérer les données d’entrée de l’étude, consommation, production, programmation machin et échange sur chacune de ces choses-làarriver à se dire des stratégies un petit peu d’hypothèse de scénario et puis derrièrevenir jongler entre un simulateur unoutil, d’études unoutil de, visualisation voilà ce genre de. choses Donc vous voyez çaressemble un petit peu à ce que vous évoquez sur des échanges différentes mais çaressemble un petit peu à., çaOk bon enfin en tout cas moi j’ai une bonne vision donc c’est vrai que sur le comme disait on aura peut-être plus parlé de la partieNP mais encore une fois qui est aussi très intéressante pour nous et aussi de ce que vous avez vu dans le futur sur la MCP donc en tout cas moi de mon point de, vue j’ai une bonne vision et puis voilà on peut alorseffectivement vous avez travaillé avec le géral qui est pas très loin de nos. bureauxVoilà donc très. bien En tout cas, voilà pour, moi c’était bon j’avais près
+SPEAKER_02 : du réponses à mes questions. éventuelles Très, bien est-ce que vous voulez qu’on fasse une petite réflexion sur un cas d’usage un peu plusorienté sur par exemple le MCP votre si vous présentez finalement le cas d’usage dans lequel vous voulez intégrer un MCP on pourrait peut-être y réfléchir nous de notre côté et présenter notre vision et puis potentiellement avoir un second échange ou est-ce que finalement vous préférez qu’on se refasse un point sur nos avancées sur nos travaux et qu’on vous représente ce que l’on peut faire côté.
+SPEAKER_01 : MCP Alors il y a plusieurs possibilités alors sur le cas d’usage que l’on réfléchirait comme je faisais donc à l’EMCP mais il y en a d’autres aussi donc à. voir Alors je réfléchis un peu tôt mais moi je pense que nous on peut comme je dis on n’a pas là comme ça d’idée de besoins encore. clairs Donc peut-être qu’au regard de ce qu’on a vu, aujourd’hui il faut tout simplement qu’on regarde et puis qu’on tienne tout simplement informer si jamais il y a quelque chose de plus précis qui se dégage que ce soit MCP ou plusNLP voilà après sur l’avancée de vos, travaux ça peut être intéressant donc avoir un focus MCP même si là voilà pour être transparent sur le MCP on va on a quand même déjà des actions qui sont prévues pourexplorer cette chose-là donc ce ne serait pas non plus tout de suite c’est-à-dire que si vous nous présentez vos travaux sur la partie, MCP clairement enfin là ce n’était pas du tout de. suiteVoilà donc l’aurait tendance à dire que le plus problématique c’est peut-être qu’on revient tout simplementvers vous si on a quelque chose d’un peu plus précis voilà pour éviter qu’on discute mais sans qu’il yait quelque chose de précis, derrière je pense que c’est pas forcément souhaitable non plus voilà sinon on n’a pas de quoi concrétiser autant qu’on attende voilà moi j’aurais tendance à partir là-dessus et puis voilà on tiens on a vos contacts donc on revientvers vous en tout cas voilà ce qui a été présenté ça pourrait entrer plutôt patronage de ce qu’on fait après avoir dans l’agenda et dans l’ordonnancement et tout ça des projets qu’on mène parce que aussi pour faire avancer tous ces, projets-là il faut que nous-mêmes soyons, dispos il faut qu’on travaille avec lesopérateurs aussi donc ça c’est peut-être un petit peu une particularité c’est qu’on peut avoir des fois un petit boulot d’étranglement sur le fait que lesopérateurs et c’est en quantité, finie on va dire leur temps de disposition en tout cas il y a plein d’autres travaux aussi au cours donc voilà on ne peut pas non plus trop pencherempiler les, choses même si voilà on peut vous solliciter en tant que, partenaireexterne, voilà donc ça peut pas le
+SPEAKER_02 : contexte.. doncVoilà Alors j’ai une information aussi à vous, donner je pense que c’est peut-être intéressant nous côté galet on travaille aussi avec de l’huileUX design et donc on est en contact avec certains cabinets et on a discuté avecOlivier Maserol pour justement mettre un petit peu ce type de nouvelleUX nouvelleU pour la contrôleroom du, futur donc ça peut être aussi des choses qu’on pourrait. envisagerVoilà c’est simplement une information et deuxièmement c’est plutôt une proposition si vous voulez peut-être qu’on fasse un atelier purement design où on pourrait réfléchir à des cas, d’usage les, prioriser. etc C’est aussi quelque chose qui nous ferait plaisir et qui pourrait peut-êtreaboutir sur vous une, vision nous un partage et
+SPEAKER_01 : après., onverraOk je note le. point Il faut voir en pratique là comme, ça je peux pas vous dire mais je peux pas vous dire, oui je comprends l’intérêt
+SPEAKER_02 : du, point je ne m’attends pas de répons tout de
+SPEAKER_01 : suite., dessinOuais, d’accord ça. marcheOk en tout cas c’est, oui c’est intéressant que vous ayez de discuter laisse ma partieUX. avecOlivierVoilà on n’a pas parlé mais bon il a dû vous en, parler je pense aussi bien voir mieux.,, quoiOkécoutez très, vite elle se doté en tout.
+SPEAKER_02 : casEh, bien merci beaucoup à moins que d’autres personnes veuillent aussi s’exprimer ou. non Très, bien merci. beaucoup Très bon. après-midi. Bonweek-end Au. revoir

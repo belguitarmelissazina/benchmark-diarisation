@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(diarisation/Scripts/python.exe -c \"import mlflow, psutil; print\\('mlflow', mlflow.__version__\\); print\\('psutil', psutil.__version__\\)\")",
+      "Bash(diarisation/Scripts/python.exe -m pip install mlflow psutil pyannote.metrics)",
+      "Bash(diarisation/Scripts/python.exe -c \"from diar_pipeline import run; from diar_pipeline.tracking import Tracker, compute_der; print\\('OK'\\)\")",
+      "Bash(ls *.wav *.m4a)",
+      "Bash(diarisation/Scripts/python.exe -m diar_pipeline.run -i dicte_audio_1.m4a)",
+      "PowerShell(python \"C:\\\\Users\\\\MELISS~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-MelissaBELGUITAR-OneDrive---YELE-CONSULTING-Bureau-diarisation-transcription\\\\fa9a197b-dca3-4b81-a191-5297af28ebe3\\\\scratchpad\\\\count_runs.py\")",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "PowerShell(Invoke-WebRequest -Uri \"https://raw.githubusercontent.com/belguitarmelissazina/tram-energy-storage-optimization/main/dimensionnement_stockage_tramway.ipynb\" -OutFile \"C:\\\\Users\\\\MELISS~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-MelissaBELGUITAR-OneDrive---YELE-CONSULTING-Bureau-diarisation-transcription\\\\fa9a197b-dca3-4b81-a191-5297af28ebe3\\\\scratchpad\\\\notebook.ipynb\"; \\(Get-Item \"C:\\\\Users\\\\MELISS~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-MelissaBELGUITAR-OneDrive---YELE-CONSULTING-Bureau-diarisation-transcription\\\\fa9a197b-dca3-4b81-a191-5297af28ebe3\\\\scratchpad\\\\notebook.ipynb\"\\).Length)",
+      "PowerShell(python \"C:\\\\Users\\\\MELISS~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-MelissaBELGUITAR-OneDrive---YELE-CONSULTING-Bureau-diarisation-transcription\\\\fa9a197b-dca3-4b81-a191-5297af28ebe3\\\\scratchpad\\\\extract_nb.py\")"
+    ]
+  }
+}

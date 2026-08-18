@@ -1,0 +1,187 @@
+[
+  {
+    "method": "resnet34_gmm_bic_sc_enh_k=4",
+    "n_files": 1,
+    "n_runs_total": 1,
+    "der_mean": 0.10399225290516045,
+    "der_std": 0.0,
+    "rtf_mean": 0.26332436719966273,
+    "files": [
+      "IS1009a"
+    ]
+  },
+  {
+    "method": "resnet34_gmm_bic_sc_enh_k=3",
+    "n_files": 1,
+    "n_runs_total": 1,
+    "der_mean": 0.11795542124800862,
+    "der_std": 0.0,
+    "rtf_mean": 0.190986955464102,
+    "files": [
+      "EN2002c"
+    ]
+  },
+  {
+    "method": "resnet34_gmm_bic_ahc_threshold",
+    "n_files": 4,
+    "n_runs_total": 9,
+    "der_mean": 0.1953705946550513,
+    "der_std": 0.12850763080839975,
+    "rtf_mean": 0.1355610823359062,
+    "files": [
+      "018a_EARZ",
+      "069c_EEPL",
+      "EN2002c",
+      "IS1009a"
+    ]
+  },
+  {
+    "method": "resnet34_nmesc_sc_enh_vbx(0.05,5.0)",
+    "n_files": 4,
+    "n_runs_total": 5,
+    "der_mean": 0.19625147945835159,
+    "der_std": 0.10262319612100414,
+    "rtf_mean": 0.39269405861149964,
+    "files": [
+      "018a_EARZ",
+      "069c_EEPL",
+      "EN2002c",
+      "IS1009a"
+    ]
+  },
+  {
+    "method": "resnet34_nmesc_sc_enh",
+    "n_files": 17,
+    "n_runs_total": 53,
+    "der_mean": 0.2326041124861987,
+    "der_std": 0.1266536816395717,
+    "rtf_mean": 0.2422309973948021,
+    "files": [
+      "018a_EARZ",
+      "020b_EBDZ",
+      "027a_EBRH",
+      "032b_EADH",
+      "033a_EBRH",
+      "033c_EBPH",
+      "034a_EBRH",
+      "035b_EADH",
+      "036c_EAPH",
+      "069c_EEPL",
+      "EN2002a",
+      "EN2002c",
+      "ES2004a",
+      "ES2004c",
+      "IS1009a",
+      "IS1009b",
+      "TS3003a"
+    ]
+  },
+  {
+    "method": "resnet34_gmm_bic_cosine_greedy",
+    "n_files": 4,
+    "n_runs_total": 8,
+    "der_mean": 0.24556972747705713,
+    "der_std": 0.12403555867864147,
+    "rtf_mean": 0.29325192371129905,
+    "files": [
+      "018a_EARZ",
+      "069c_EEPL",
+      "EN2002c",
+      "IS1009a"
+    ]
+  },
+  {
+    "method": "resnet34_gmm_bic_sc_enh",
+    "n_files": 4,
+    "n_runs_total": 25,
+    "der_mean": 0.2722289040179499,
+    "der_std": 0.11563921773087842,
+    "rtf_mean": 0.4072832332099313,
+    "files": [
+      "018a_EARZ",
+      "069c_EEPL",
+      "EN2002c",
+      "IS1009a"
+    ]
+  },
+  {
+    "method": "pyannote_onnx",
+    "n_files": 4,
+    "n_runs_total": 4,
+    "der_mean": 0.36692278920425286,
+    "der_std": 0.1860433310211534,
+    "rtf_mean": 0.11170792703056645,
+    "files": [
+      "018a_EARZ",
+      "069c_EEPL",
+      "EN2002c",
+      "IS1009a"
+    ]
+  },
+  {
+    "method": "ecapa_nmesc_sc_enh",
+    "n_files": 4,
+    "n_runs_total": 4,
+    "der_mean": 0.36845258967241246,
+    "der_std": 0.2669103124975931,
+    "rtf_mean": 0.16374271933686035,
+    "files": [
+      "018a_EARZ",
+      "069c_EEPL",
+      "EN2002c",
+      "IS1009a"
+    ]
+  },
+  {
+    "method": "ecapa_gmm_bic_sc_enh",
+    "n_files": 2,
+    "n_runs_total": 3,
+    "der_mean": 0.47135725506460996,
+    "der_std": 0.27356637725514765,
+    "rtf_mean": 0.6146061747291132,
+    "files": [
+      "EN2002c",
+      "IS1009a"
+    ]
+  },
+  {
+    "method": "resnet34_gmm_bic_ahc_threshold_vbx(0.4,17.0)",
+    "n_files": 2,
+    "n_runs_total": 2,
+    "der_mean": 0.6070342266650512,
+    "der_std": 0.12026821950393085,
+    "rtf_mean": 0.13764354751265967,
+    "files": [
+      "EN2002c",
+      "IS1009a"
+    ]
+  },
+  {
+    "method": "campplus_gmm_bic_sc_enh",
+    "n_files": 4,
+    "n_runs_total": 4,
+    "der_mean": 0.6084575273446698,
+    "der_std": 0.14945913093821345,
+    "rtf_mean": 0.29263776591942897,
+    "files": [
+      "018a_EARZ",
+      "069c_EEPL",
+      "EN2002c",
+      "IS1009a"
+    ]
+  },
+  {
+    "method": "campplus_nmesc_sc_enh",
+    "n_files": 4,
+    "n_runs_total": 4,
+    "der_mean": 0.6727329032453733,
+    "der_std": 0.043828461057627895,
+    "rtf_mean": 0.10930049267893904,
+    "files": [
+      "018a_EARZ",
+      "069c_EEPL",
+      "EN2002c",
+      "IS1009a"
+    ]
+  }
+]

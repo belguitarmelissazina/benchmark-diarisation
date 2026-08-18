@@ -1,0 +1,138 @@
+[
+  {
+    "file_id": "018a_EARZ",
+    "pyannote_der": 0.325017247851338,
+    "pyannote_rtf": 0.14116602306243992,
+    "best_method": "resnet34_nmesc_sc_enh_vbx(0.05,5.0)",
+    "best_der": 0.3464160629440404,
+    "best_rtf": 0.3721061080029744
+  },
+  {
+    "file_id": "020b_EBDZ",
+    "pyannote_der": null,
+    "pyannote_rtf": null,
+    "best_method": "resnet34_nmesc_sc_enh",
+    "best_der": 0.13583803315787935,
+    "best_rtf": 0.1782255282149001
+  },
+  {
+    "file_id": "027a_EBRH",
+    "pyannote_der": null,
+    "pyannote_rtf": null,
+    "best_method": "resnet34_nmesc_sc_enh",
+    "best_der": 0.09267599148103377,
+    "best_rtf": 0.2303603577745598
+  },
+  {
+    "file_id": "032b_EADH",
+    "pyannote_der": null,
+    "pyannote_rtf": null,
+    "best_method": "resnet34_nmesc_sc_enh",
+    "best_der": 0.2350141411500097,
+    "best_rtf": 0.22318780356710144
+  },
+  {
+    "file_id": "033a_EBRH",
+    "pyannote_der": null,
+    "pyannote_rtf": null,
+    "best_method": "resnet34_nmesc_sc_enh",
+    "best_der": 0.35529355904586174,
+    "best_rtf": 0.2728463474196939
+  },
+  {
+    "file_id": "033c_EBPH",
+    "pyannote_der": null,
+    "pyannote_rtf": null,
+    "best_method": "resnet34_nmesc_sc_enh",
+    "best_der": 0.3496775790881189,
+    "best_rtf": 0.25529787559912415
+  },
+  {
+    "file_id": "034a_EBRH",
+    "pyannote_der": null,
+    "pyannote_rtf": null,
+    "best_method": "resnet34_nmesc_sc_enh",
+    "best_der": 0.13495324658340446,
+    "best_rtf": 0.2182595270656914
+  },
+  {
+    "file_id": "035b_EADH",
+    "pyannote_der": null,
+    "pyannote_rtf": null,
+    "best_method": "resnet34_nmesc_sc_enh",
+    "best_der": 0.5525558008442776,
+    "best_rtf": 0.22438833645516493
+  },
+  {
+    "file_id": "036c_EAPH",
+    "pyannote_der": null,
+    "pyannote_rtf": null,
+    "best_method": "resnet34_nmesc_sc_enh",
+    "best_der": 0.2562977846378152,
+    "best_rtf": 0.1979473020869461
+  },
+  {
+    "file_id": "069c_EEPL",
+    "pyannote_der": 0.6035864285881881,
+    "pyannote_rtf": 0.13474080357742904,
+    "best_method": "resnet34_gmm_bic_ahc_threshold",
+    "best_der": 0.10496257537717908,
+    "best_rtf": 0.17144056018428466
+  },
+  {
+    "file_id": "EN2002a",
+    "pyannote_der": null,
+    "pyannote_rtf": null,
+    "best_method": "resnet34_nmesc_sc_enh",
+    "best_der": 0.2578939270009164,
+    "best_rtf": 0.3209833051203981
+  },
+  {
+    "file_id": "EN2002c",
+    "pyannote_der": 0.3859594867084444,
+    "pyannote_rtf": 0.05312020118725474,
+    "best_method": "resnet34_gmm_bic_sc_enh_k=3",
+    "best_der": 0.11795542124800862,
+    "best_rtf": 0.190986955464102
+  },
+  {
+    "file_id": "ES2004a",
+    "pyannote_der": null,
+    "pyannote_rtf": null,
+    "best_method": "resnet34_nmesc_sc_enh",
+    "best_der": 0.22375368015921257,
+    "best_rtf": 0.27561044287040715
+  },
+  {
+    "file_id": "ES2004c",
+    "pyannote_der": null,
+    "pyannote_rtf": null,
+    "best_method": "resnet34_nmesc_sc_enh",
+    "best_der": 0.09167436298190869,
+    "best_rtf": 0.35207808426093873
+  },
+  {
+    "file_id": "IS1009a",
+    "pyannote_der": 0.15312799366904098,
+    "pyannote_rtf": 0.1178046802951421,
+    "best_method": "resnet34_gmm_bic_sc_enh_k=4",
+    "best_der": 0.10399225290516045,
+    "best_rtf": 0.26332436719966273
+  },
+  {
+    "file_id": "IS1009b",
+    "pyannote_der": null,
+    "pyannote_rtf": null,
+    "best_method": "resnet34_nmesc_sc_enh",
+    "best_der": 0.04889957419882068,
+    "best_rtf": 0.2428214522096314
+  },
+  {
+    "file_id": "TS3003a",
+    "pyannote_der": null,
+    "pyannote_rtf": null,
+    "best_method": "resnet34_nmesc_sc_enh",
+    "best_der": 0.32271166044074595,
+    "best_rtf": 0.21937270771675446
+  }
+]

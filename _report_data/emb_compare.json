@@ -1,0 +1,78 @@
+[
+  {
+    "file_id": "018a_EARZ",
+    "estimate": "gmm_bic",
+    "resnet34_der": 0.35577677702613125,
+    "resnet34_rtf": 0.808837282518614,
+    "campplus_der": 0.7366066560060982,
+    "campplus_rtf": 0.1922996136022252
+  },
+  {
+    "file_id": "018a_EARZ",
+    "estimate": "nmesc",
+    "resnet34_der": 0.3537484701602759,
+    "resnet34_rtf": 0.20778402302720622,
+    "ecapa_der": 0.7366066560060982,
+    "ecapa_rtf": 0.16816029859243004,
+    "campplus_der": 0.7366066560060982,
+    "campplus_rtf": 0.10350729264755476
+  },
+  {
+    "file_id": "069c_EEPL",
+    "estimate": "gmm_bic",
+    "resnet34_der": 0.2587021046950892,
+    "resnet34_rtf": 0.3365947912639054,
+    "campplus_der": 0.6394999882681429,
+    "campplus_rtf": 0.7232422516129671
+  },
+  {
+    "file_id": "069c_EEPL",
+    "estimate": "nmesc",
+    "resnet34_der": 0.2079116289515411,
+    "resnet34_rtf": 0.26327154143826276,
+    "ecapa_der": 0.18809216546610596,
+    "ecapa_rtf": 0.21876521874680274,
+    "campplus_der": 0.6394999882681429,
+    "campplus_rtf": 0.17271516981204857
+  },
+  {
+    "file_id": "EN2002c",
+    "estimate": "gmm_bic",
+    "resnet34_der": 0.36071449923636634,
+    "resnet34_rtf": 0.22641562833641501,
+    "ecapa_der": 0.6647978955263621,
+    "ecapa_rtf": 0.2346151413269604,
+    "campplus_der": 0.6647978955263621,
+    "campplus_rtf": 0.10694014916614462
+  },
+  {
+    "file_id": "EN2002c",
+    "estimate": "nmesc",
+    "resnet34_der": 0.18040601461077616,
+    "resnet34_rtf": 0.20515845670015287,
+    "ecapa_der": 0.15618596763936954,
+    "ecapa_rtf": 0.13850675873813756,
+    "campplus_der": 0.6647978955263621,
+    "campplus_rtf": 0.06806755013700684
+  },
+  {
+    "file_id": "IS1009a",
+    "estimate": "gmm_bic",
+    "resnet34_der": 0.11372223511421284,
+    "resnet34_rtf": 0.25728523072079085,
+    "ecapa_der": 0.27791661460285777,
+    "ecapa_rtf": 0.9945972081312658,
+    "campplus_der": 0.39292556957807606,
+    "campplus_rtf": 0.14806904929637907
+  },
+  {
+    "file_id": "IS1009a",
+    "estimate": "nmesc",
+    "resnet34_der": 0.15496445777277962,
+    "resnet34_rtf": 0.23033386418470225,
+    "ecapa_der": 0.39292556957807606,
+    "ecapa_rtf": 0.1295386012700711,
+    "campplus_der": 0.6500270731808896,
+    "campplus_rtf": 0.092911958119146
+  }
+]
